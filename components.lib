@@ -46,6 +46,7 @@ F2 "footprints:ARDUINO_MEGA_SHIELD" -50 2650 60 H I C CNN
 F3 "" 50 2750 60 H V C CNN
 F4 "digikey" 150 2850 60 H I C CNN "Vendor"
 F5 "1050-1018-ND" 250 2950 60 H I C CNN "PartNumber"
+F6 "BOARD_MCU_MEGA2560" 350 3050 60 H I C CNN "Description"
 DRAW
 T 0 0 1550 60 0 0 0 Arduino  Normal 0 C C
 T 0 0 650 60 0 0 0 MEGA  Normal 0 C C
