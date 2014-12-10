@@ -1,8 +1,8 @@
-(module DCJACK_2PIN_HIGHCURRENT (layer F.Cu) (tedit 5481F72E)
+(module DCJACK_2PIN_HIGHCURRENT (layer F.Cu) (tedit 5488CB56)
   (fp_text reference DCJACK_2PIN_HIGHCURRENT (at 6.35 1.27 90) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
-  (fp_text value VAL** (at -6.35 10.795 90) (layer F.SilkS)
+  (fp_text value VAL** (at -6.35 10.795 90) (layer F.SilkS) hide
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_line (start -5.08 13.335) (end 5.08 13.335) (layer F.SilkS) (width 0.381))
