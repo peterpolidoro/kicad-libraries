@@ -1,8 +1,8 @@
-(module Micro-MaTch_6_SMD (layer F.Cu) (tedit 5480B1C7)
-  (fp_text reference Micro-MaTch_6_SMD (at 0 -5.08) (layer F.SilkS)
+(module Micro-MaTch_6_SMD (layer F.Cu) (tedit 54B6AC59)
+  (fp_text reference Micro-MaTch_6_SMD (at 5.715 3.81) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
-  (fp_text value VAL** (at 0 5.08) (layer F.SilkS)
+  (fp_text value VAL** (at 0 5.08) (layer F.SilkS) hide
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_line (start -5.08 -1.27) (end -4.445 -1.27) (layer F.SilkS) (width 0.2286))
