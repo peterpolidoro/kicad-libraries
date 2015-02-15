@@ -19,5 +19,5 @@ License:
 ```shell
 sudo add-apt-repository ppa:js-reynaud/ppa-kicad
 sudo apt-get update
-sudo apt-get dist-upgrade
+sudo apt-get install kicad
 ```
