@@ -598,7 +598,7 @@ F0 "U" 0 -200 40 H V C CNN
 F1 "HALL_DRV5053" 0 200 40 H V C CNN
 F2 "footprints:SOT-23-3" -100 -300 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "Digikey" 100 -100 60 H I C CNN "Vendor"
+F4 "digikey" 100 -100 60 H I C CNN "Vendor"
 F5 "296-38460-1-ND" 200 0 60 H I C CNN "PartNumber"
 F6 "IC HALL SENSOR 9mT" 300 100 60 H I C CNN "Description"
 DRAW
