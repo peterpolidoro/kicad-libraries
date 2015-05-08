@@ -694,8 +694,8 @@ F1 "HEADER_01X02_SMD" 100 0 50 V V C CNN
 F2 "footprints:Header_2_Pin_SMD" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "609-3500-ND" 200 350 60 H I C CNN "PartNumber"
-F6 "CONN HEADER 2POS .100 VERT GOLD" 300 450 60 H I C CNN "Description"
+F5 "WM9852-ND" 200 350 60 H I C CNN "PartNumber"
+F6 "CONN BREAKAWAY SMD HDR 2POS" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
  Pin_Header_Angled_1X02
@@ -748,6 +748,33 @@ F3 "" 0 0 60 H V C CNN
 F4 "digikey" 100 300 60 H I C CNN "Vendor"
 F5 "WM4801-ND" 200 400 60 H I C CNN "PartNumber"
 F6 "CONN HEADER 3POS .100 VERT GOLD" 300 500 60 H I C CNN "Description"
+$FPLIST
+ Pin_Header_Straight_1X03
+ Pin_Header_Angled_1X03
+ Socket_Strip_Straight_1X03
+ Socket_Strip_Angled_1X03
+$ENDFPLIST
+DRAW
+S -50 -95 10 -105 0 1 0 N
+S -50 5 10 -5 0 1 0 N
+S -50 105 10 95 0 1 0 N
+S -50 150 50 -150 0 1 0 N
+X P1 1 -200 100 150 R 50 50 1 1 P
+X P2 2 -200 0 150 R 50 50 1 1 P
+X P3 3 -200 -100 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# HEADER_01X03_SMD_F
+#
+DEF HEADER_01X03_SMD_F P 0 40 Y N 1 F N
+F0 "P" 0 200 50 H V C CNN
+F1 "HEADER_01X03_SMD_F" 100 0 50 V V C CNN
+F2 "footprints:Header_3_Pin_SMD_F" -100 100 60 H I C CNN
+F3 "" 0 200 60 H V C CNN
+F4 "digikey" 100 300 60 H I C CNN "Vendor"
+F5 "S5595-ND" 200 400 60 H I C CNN "PartNumber"
+F6 "Connector Header 3 Position 0.100 SMD" 300 500 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X03
  Pin_Header_Angled_1X03
