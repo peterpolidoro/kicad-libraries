@@ -1,4 +1,4 @@
-(module SM0805_POL (layer F.Cu) (tedit 55538133)
+(module SM0805 (layer F.Cu) (tedit 555381EF)
   (tags "CMS SM")
   (attr smd)
   (fp_text reference SM0805 (at 0 -1.524) (layer F.SilkS)
@@ -7,7 +7,6 @@
   (fp_text value Val** (at 0 1.524) (layer F.SilkS) hide
     (effects (font (size 0.762 0.762) (thickness 0.127)))
   )
-  (fp_line (start -0.381 -1.016) (end -0.381 1.016) (layer F.SilkS) (width 0.127))
   (fp_line (start -0.635 -0.889) (end -1.524 -0.889) (layer F.SilkS) (width 0.127))
   (fp_line (start -1.524 -0.889) (end -1.524 0.889) (layer F.SilkS) (width 0.127))
   (fp_line (start -1.524 0.889) (end -0.635 0.889) (layer F.SilkS) (width 0.127))
