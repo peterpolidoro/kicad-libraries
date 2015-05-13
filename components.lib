@@ -29,7 +29,7 @@ ENDDEF
 #
 DEF 0.1uF C 0 10 N Y 1 F N
 F0 "C" 0 100 40 H V L CNN
-F1 "0.1uF" 6 -85 40 H V L CNN
+F1 "0.1uF" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "digikey" 100 200 60 H I C CNN "Vendor"
@@ -76,7 +76,7 @@ ENDDEF
 #
 DEF 10nF C 0 10 N Y 1 F N
 F0 "C" 0 100 40 H V L CNN
-F1 "10nF" 6 -85 40 H V L CNN
+F1 "10nF" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "digikey" 100 200 60 H I C CNN "Vendor"
@@ -99,7 +99,7 @@ ENDDEF
 #
 DEF 10nF_0805 C 0 10 N Y 1 F N
 F0 "C" 0 100 40 H V L CNN
-F1 "10nF_0805" -110 0 30 V V C CNN
+F1 "10nF_0805" 0 0 30 H V C CNN
 F2 "footprints:SM0805" 38 -150 30 H I C CNN
 F3 "" 0 100 60 H I C CNN
 F4 "digikey" 100 200 60 H I C CNN "Vendor"
@@ -122,7 +122,7 @@ ENDDEF
 #
 DEF 10uF C 0 10 N Y 1 F N
 F0 "C" 0 100 40 H V L CNN
-F1 "10uF" 6 -85 40 H V L CNN
+F1 "10uF" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "digikey" 100 200 60 H I C CNN "Vendor"
@@ -145,7 +145,7 @@ ENDDEF
 #
 DEF 110k_0805 R 0 0 N Y 1 F N
 F0 "R" 80 0 40 V V C CNN
-F1 "110k_0805" -100 0 40 V V C CNN
+F1 "110k_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "digikey" 180 100 60 V I C CNN "Vendor"
@@ -169,7 +169,7 @@ ENDDEF
 #
 DEF 137k_0805 R 0 0 N Y 1 F N
 F0 "R" 80 0 40 V V C CNN
-F1 "137k_0805" -100 0 40 V V C CNN
+F1 "137k_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "digikey" 180 100 60 V I C CNN "Vendor"
@@ -217,7 +217,7 @@ ENDDEF
 #
 DEF 1uF_0805_POL C 0 10 N N 1 F N
 F0 "C" 10 70 50 H V L CNN
-F1 "1uF_0805_POL" -80 0 30 V V C CNN
+F1 "1uF_0805_POL" 0 0 30 H V C CNN
 F2 "footprints:SM0805_POL" -90 -30 60 H I C CNN
 F3 "" 10 70 60 H I C CNN
 F4 "digikey" 110 170 60 H I C CNN "Vendor"
@@ -269,7 +269,7 @@ ENDDEF
 #
 DEF 205k_0805 R 0 0 N Y 1 F N
 F0 "R" 80 0 40 V V C CNN
-F1 "205k_0805" -100 0 40 V V C CNN
+F1 "205k_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "digikey" 180 100 60 V I C CNN "Vendor"
@@ -317,7 +317,7 @@ ENDDEF
 #
 DEF 8.2nF C 0 10 N Y 1 F N
 F0 "C" 0 100 40 H V L CNN
-F1 "8.2nF" 6 -85 40 H V L CNN
+F1 "8.2nF" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "digikey" 100 200 60 H I C CNN "Vendor"
