@@ -1,10 +1,10 @@
-(module SM0402 (layer F.Cu) (tedit 5553AC67)
+(module SM0402 (layer F.Cu) (tedit 5553B01A)
   (tags "CMS SM")
   (attr smd)
-  (fp_text reference SM0402 (at 0 -0.762) (layer F.SilkS)
+  (fp_text reference SM0402 (at -1.143 0 90) (layer F.SilkS)
     (effects (font (size 0.508 0.508) (thickness 0.127)))
   )
-  (fp_text value Val** (at 0 0.889) (layer F.SilkS) hide
+  (fp_text value Val** (at 0 -0.762 180) (layer F.SilkS)
     (effects (font (size 0.508 0.508) (thickness 0.127)))
   )
   (fp_line (start -0.127 -0.381) (end -0.762 -0.381) (layer F.SilkS) (width 0.127))
