@@ -575,33 +575,6 @@ X INPUT 8 -350 50 100 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# D_Schottky_Small
-#
-DEF ~D_Schottky_Small D 0 10 N N 1 F N
-F0 "D" -50 80 50 H V L CNN
-F1 "D_Schottky_Small" -280 -80 50 H I L CNN
-F2 "footprints:DO-214AC(SMA)" -150 -20 60 H I C CNN
-F3 "" -50 80 60 H I C CNN
-F4 "digikey" 50 180 60 H I C CNN "Vendor"
-F5 "MBRA340T3GOSCT-ND" 150 280 60 H I C CNN "PartNumber"
-F6 "DIODE SCHOTTKY 40V 3A SMA" 250 380 60 H I C CNN "Description"
-$FPLIST
- Diode_*
- D-Pak_TO252AA
- *SingleDiode
- *SingleDiode*
- *_Diode_*
-$ENDFPLIST
-DRAW
-P 2 0 1 0  -30 -40  -30 40 N
-P 3 0 1 0  -30 -40  -20 -40  -20 -30 N
-P 3 0 1 0  -30 40  -40 40  -40 30 N
-P 4 0 1 0  30 -40  -30 0  30 40  30 -40 F
-X K 1 -100 0 70 R 50 50 1 1 P
-X A 2 100 0 70 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
 # ENCODER_62P
 #
 DEF ENCODER_62P E 0 40 Y Y 1 F N
@@ -1862,6 +1835,33 @@ X LOGIC_0 16 -150 500 100 D 50 50 1 1 B
 X +3.3_OUT 17 -250 500 100 D 50 50 1 1 w
 X GND 18 -350 500 100 D 50 50 1 1 P
 X -5V_OUT 19 -450 500 100 D 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+# diode_schottky_40V_3A
+#
+DEF ~diode_schottky_40V_3A D 0 10 N N 1 F N
+F0 "D" -50 80 50 H V L CNN
+F1 "diode_schottky_40V_3A" -280 -80 50 H I L CNN
+F2 "footprints:DO-214AC(SMA)" -150 -20 60 H I C CNN
+F3 "" -50 80 60 H I C CNN
+F4 "digikey" 50 180 60 H I C CNN "Vendor"
+F5 "MBRA340T3GOSCT-ND" 150 280 60 H I C CNN "PartNumber"
+F6 "DIODE SCHOTTKY 40V 3A SMA" 250 380 60 H I C CNN "Description"
+$FPLIST
+ Diode_*
+ D-Pak_TO252AA
+ *SingleDiode
+ *SingleDiode*
+ *_Diode_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0  -30 -40  -30 40 N
+P 3 0 1 0  -30 -40  -20 -40  -20 -30 N
+P 3 0 1 0  -30 40  -40 40  -40 30 N
+P 4 0 1 0  30 -40  -30 0  30 40  30 -40 F
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
