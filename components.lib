@@ -142,6 +142,34 @@ X ~ 2 0 -250 100 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 1uF_POL
+#
+DEF ~1uF_POL C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "1uF_POL" 10 -80 50 H I L CNN
+F2 "footprints:SM0805_POL" -90 -30 60 H I C CNN
+F3 "" 10 70 60 H I C CNN
+F4 "digikey" 110 170 60 H I C CNN "Vendor"
+F5 "718-1720-1-ND" 210 270 60 H I C CNN "PartNumber"
+F6 "CAP TANT 1UF 50V 20% 0805" 310 370 60 H I C CNN "Description"
+$FPLIST
+ CP*
+ Elko*
+ TantalC*
+ C*elec
+ c_elec*
+ SMD*_Pol
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0  -50 60  -30 60 N
+P 2 0 1 0  -40 50  -40 70 N
+X ~ 1 0 100 73 D 40 40 1 1 P
+X ~ 2 0 -100 73 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 200k
 #
 DEF 200k R 0 0 N Y 1 F N
