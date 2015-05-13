@@ -1,8 +1,8 @@
-(module SM0805 (layer F.Cu) (tedit 555381EF)
+(module SM0805 (layer F.Cu) (tedit 55539666)
   (tags "CMS SM")
   (attr smd)
   (fp_text reference SM0805 (at 0 -1.524) (layer F.SilkS)
-    (effects (font (size 0.762 0.762) (thickness 0.127)))
+    (effects (font (size 0.762 0.762) (thickness 0.1905)))
   )
   (fp_text value Val** (at 0 1.524) (layer F.SilkS) hide
     (effects (font (size 0.762 0.762) (thickness 0.127)))
