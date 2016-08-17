@@ -214,6 +214,34 @@ X ~ 2 0 -250 100 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 100uF_POL
+#
+DEF 100uF_POL C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "100uF_POL" 0 0 30 H V C CNN
+F2 "footprints:C_ELEC_12.5" -90 -30 60 H I C CNN
+F3 "" 10 70 60 H I C CNN
+F4 "digikey" 110 170 60 H I C CNN "Vendor"
+F5 "565-2511-1-ND" 210 270 60 H I C CNN "PartNumber"
+F6 "100µF 100V Aluminum Capacitors Radial Can SMD" 310 370 60 H I C CNN "Description"
+$FPLIST
+ CP*
+ Elko*
+ TantalC*
+ C*elec
+ c_elec*
+ SMD*_Pol
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 40 40 1 1 P
+X ~ 2 0 -100 73 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 10nF
 #
 DEF 10nF C 0 10 N Y 1 F N
