@@ -80,7 +80,7 @@ F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "digikey" 100 200 60 H I C CNN "Vendor"
 F5 "399-11615-1-ND" 200 300 60 H I C CNN "PartNumber"
-F6 "0.22µF 100V Ceramic Capacitor X7R 1210" 300 400 60 H I C CNN "Description"
+F6 "0.22uF 100V Ceramic Capacitor X7R 1210" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
  C?
@@ -223,7 +223,7 @@ F2 "footprints:C_ELEC_12.5" -90 -30 60 H I C CNN
 F3 "" 10 70 60 H I C CNN
 F4 "digikey" 110 170 60 H I C CNN "Vendor"
 F5 "565-2511-1-ND" 210 270 60 H I C CNN "PartNumber"
-F6 "100µF 100V Aluminum Capacitors Radial Can SMD" 310 370 60 H I C CNN "Description"
+F6 "100uF 100V Aluminum Capacitors Radial Can SMD" 310 370 60 H I C CNN "Description"
 $FPLIST
  CP*
  Elko*
