@@ -1,4 +1,4 @@
-(module QFN-5x5-32 (layer F.Cu) (tedit 57C72E09)
+(module QFN-5x5-32 (layer F.Cu) (tedit 57C85B23)
   (fp_text reference REF** (at 0 26.67) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
@@ -82,6 +82,6 @@
     (solder_mask_margin 0.0375) (clearance 0.0375))
   (pad 25 smd rect (at 1.75 -2.5) (size 0.25 1) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.0375) (clearance 0.0375))
-  (pad "" smd rect (at 0 0) (size 3.4 3.4) (layers F.Cu F.Paste F.Mask)
+  (pad PAD smd rect (at 0 0) (size 3.4 3.4) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.0375) (clearance 0.0375))
 )
