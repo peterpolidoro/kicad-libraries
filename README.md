@@ -1,5 +1,4 @@
-kicad-libraries
-===============
+# kicad-libraries
 
 
 Authors:
@@ -10,11 +9,11 @@ License:
 
     BSD
 
-##Install Latest Version of Kicad
+## Install Latest Version of Kicad
 
 <http://www.kicad-pcb.org/display/KICAD/Download>
 
-###Ubuntu
+### Ubuntu
 
 ```shell
 sudo add-apt-repository ppa:js-reynaud/ppa-kicad
