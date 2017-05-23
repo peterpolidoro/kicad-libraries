@@ -1,4 +1,4 @@
-(module MODULAR_DEVICE_BASE_5X3_FEMALE (layer F.Cu) (tedit 589A03AC)
+(module MODULAR_DEVICE_BASE_5X3_FEMALE (layer F.Cu) (tedit 5924A313)
   (fp_text reference MODULAR_DEVICE_BASE_5x3_FEMALE (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
@@ -351,8 +351,8 @@
   (pad AREF thru_hole oval (at -19.05 30.48) (size 1.8542 2.54) (drill 1.0922) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -17.78 -25.4) (size 3.556 3.556) (drill 3.302) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at -17.78 25.4) (size 3.556 3.556) (drill 3.302) (layers *.Cu *.Mask F.SilkS))
-  (pad "" thru_hole circle (at 45.72 30.48) (size 3.556 3.556) (drill 3.302) (layers *.Cu *.Mask F.SilkS))
-  (pad "" thru_hole circle (at 45.72 -30.48) (size 3.556 3.556) (drill 3.302) (layers *.Cu *.Mask F.SilkS))
+  (pad "" thru_hole circle (at 73.66 30.48) (size 3.556 3.556) (drill 3.302) (layers *.Cu *.Mask F.SilkS))
+  (pad "" thru_hole circle (at 73.66 -30.48) (size 3.556 3.556) (drill 3.302) (layers *.Cu *.Mask F.SilkS))
   (pad DAC1 thru_hole oval (at 21.59 30.48) (size 1.8542 2.54) (drill 1.0922) (layers *.Cu *.Mask))
   (pad DAC0 thru_hole oval (at 24.13 30.48) (size 1.8542 2.54) (drill 1.0922) (layers *.Cu *.Mask))
   (pad 51 thru_hole oval (at 26.67 30.48) (size 1.8542 2.54) (drill 1.0922) (layers *.Cu *.Mask))
