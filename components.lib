@@ -5618,6 +5618,33 @@ X -5V_OUT 19 -450 500 100 D 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
+# diode_low_rev_current
+#
+DEF ~diode_low_rev_current D 0 10 N N 1 F N
+F0 "D" -50 80 50 H V L CNN
+F1 "diode_low_rev_current" -280 -80 50 H I L CNN
+F2 "footprints:SOD-123" -150 -20 60 H I C CNN
+F3 "" -50 80 60 H I C CNN
+F4 "digikey" 50 180 60 H I C CNN "Vendor"
+F5 "CMHD3595 CT-ND" 150 280 60 H I C CNN "PartNumber"
+F6 "DIODE GEN PURP 150V 150MA SOD123" 250 380 60 H I C CNN "Description"
+$FPLIST
+ Diode_*
+ D-Pak_TO252AA
+ *SingleDiode
+ *SingleDiode*
+ *_Diode_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 3 0 1 0 -30 -40 -20 -40 -20 -30 N
+P 3 0 1 0 -30 40 -40 40 -40 30 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 F
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # diode_schottky_15V_1A
 #
 DEF ~diode_schottky_15V_1A D 0 10 N N 1 F N
