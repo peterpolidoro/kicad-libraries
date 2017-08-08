@@ -1,5 +1,5 @@
-(module Header_2_Pin_SMD_RA_UNSHR (layer F.Cu) (tedit 598A3DA8)
-  (fp_text reference Header_2_Pin_SMD_RA_UNSHR (at 3.81 2.54 90) (layer F.SilkS)
+(module Header_2_Pin_SMD_RA_UNSHR (layer F.Cu) (tedit 598A3E35)
+  (fp_text reference Header_2_Pin_SMD_RA_UNSHR (at -3.81 2.54 90) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value VAL** (at -3.81 2.54 90) (layer F.SilkS) hide
