@@ -1,0 +1,8 @@
+(module ADAFRUIT_MPR121 (layer F.Cu) (tedit 59C1853D)
+  (fp_text reference REF** (at 0 0.75) (layer F.SilkS)
+    (effects (font (size 1.016 1.016) (thickness 0.254)))
+  )
+  (fp_text value ADAFRUIT_MPR121 (at 0 -0.75) (layer F.Fab)
+    (effects (font (size 1.016 1.016) (thickness 0.254)))
+  )
+)
