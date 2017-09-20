@@ -1,5 +1,5 @@
-(module HEADER_02x03_FEMALE (layer F.Cu) (tedit 59BAE5A2)
-  (fp_text reference HEADER_02x03_FEMALE (at 0 3.81) (layer F.SilkS)
+(module HEADER_02x03_FEMALE (layer F.Cu) (tedit 59C2AA4A)
+  (fp_text reference HEADER_02x03_FEMALE (at 0 3.81) (layer F.Fab)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value VAL** (at -5.08 0 90) (layer F.SilkS)
