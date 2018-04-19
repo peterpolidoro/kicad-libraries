@@ -44,4 +44,4 @@ docs/_build/
 RELEASE-VERSION
 *.bak
 *.bck
-*.dcm
+*.dcm.DS_Store
