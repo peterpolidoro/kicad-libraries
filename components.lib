@@ -4736,7 +4736,7 @@ F1 "M12-5-RCPT_F" 0 -300 50 H V C CNN
 F2 "footprints:M12-5_RCPT_F" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "277-2676-ND" 200 100 60 H I C CNN "PartNumber"
+F5 "277-10962-ND" 200 100 60 H I C CNN "PartNumber"
 F6 "CONN RCPT FMALE 5POS GOLD SOLDER" 300 0 60 H I C CNN "Description"
 $FPLIST
  Connector*:*_1x??_*
