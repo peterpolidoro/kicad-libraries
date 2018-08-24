@@ -18,6 +18,6 @@
   (pad 1 smd rect (at 3.05 -5.7) (size 2.8 2.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -3.05 5.7) (size 2.8 2.4) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 3.05 5.7) (size 2.8 2.4) (layers F.Cu F.Paste F.Mask))
-  (pad "" thru_hole circle (at -3.05 0) (size 2 2) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
-  (pad "" thru_hole circle (at 1.45 0) (size 2.2 2.2) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
+  (pad "" thru_hole circle (at -3.05 0) (size 2 2) (drill 1.6) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 1.45 0) (size 2.2 2.2) (drill 1.8) (layers *.Cu *.Mask))
 )
