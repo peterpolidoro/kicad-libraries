@@ -7102,7 +7102,7 @@ ENDDEF
 DEF ~diode_schottky_40V_1A D 0 10 N N 1 F N
 F0 "D" -50 80 50 H V L CNN
 F1 "diode_schottky_40V_1A" -280 -80 50 H I L CNN
-F2 "footprints:DO-214AC(SMA)" -150 -20 60 H I C CNN
+F2 "footprints:DO-214AC_SMA" -150 -20 60 H I C CNN
 F3 "" -50 80 60 H I C CNN
 F4 "digikey" 50 180 60 H I C CNN "Vendor"
 F5 "SS14CT-ND" 150 280 60 H I C CNN "PartNumber"
@@ -7129,7 +7129,7 @@ ENDDEF
 DEF ~diode_schottky_40V_3A D 0 10 N N 1 F N
 F0 "D" -50 80 50 H V L CNN
 F1 "diode_schottky_40V_3A" -280 -80 50 H I L CNN
-F2 "footprints:DO-214AC(SMA)" -150 -20 60 H I C CNN
+F2 "footprints:DO-214AC_SMA" -150 -20 60 H I C CNN
 F3 "" -50 80 60 H I C CNN
 F4 "digikey" 50 180 60 H I C CNN "Vendor"
 F5 "MBRA340T3GOSCT-ND" 150 280 60 H I C CNN "PartNumber"
