@@ -1,4 +1,4 @@
-(module QFN-5x5-32 (layer F.Cu) (tedit 5C59FB44)
+(module QFN-5x5-32 (layer F.Cu) (tedit 5C99292E)
   (fp_text reference REF** (at 0 3.5) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
@@ -45,6 +45,6 @@
   (pad 27 smd roundrect (at 0.75 -2.4) (size 0.3 0.7) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.5))
   (pad 26 smd roundrect (at 1.25 -2.4) (size 0.3 0.7) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.5))
   (pad 25 smd roundrect (at 1.75 -2.4) (size 0.3 0.7) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.5))
-  (pad PAD smd roundrect (at 0 0) (size 3.400001 3.400001) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.1)
+  (pad PAD thru_hole roundrect (at 0 0) (size 3.400001 3.400001) (drill 1.5) (layers *.Cu *.Mask F.Paste) (roundrect_rratio 0.1)
     (solder_paste_margin -0.4064))
 )
