@@ -1019,9 +1019,9 @@ F0 "R" 80 0 40 V V C CNN
 F1 "2.2k_0805" 7 1 40 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
-F5 "Panasonic Electronic Components" 0 0 60 H I C CNN "Mfg"
-F6 "RES SMD 2.2K OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F4 "RES SMD 2.2K OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F5 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
+F6 "Panasonic Electronic Components" 0 0 60 H I C CNN "Mfg"
 F7 "ERJ-6ENF2201V" 0 0 60 H I C CNN "Mfg PN"
 F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
 F9 "P2.20KCCT-ND" 0 0 60 H I C CNN "Supplier PN"
@@ -6114,9 +6114,11 @@ F0 "P" 150 0 50 H V L CNN
 F1 "MINI_FIT_JR_02X03_M_RA" -200 0 50 V V C CNN
 F2 "footprints:MINI-FIT-JR_02X03_M_RA" 0 -1200 60 H I C CNN
 F3 "" 0 -1200 60 H I C CNN
-F4 "digikey" 100 400 60 H I C CNN "Vendor"
-F5 "WM1353-ND" 200 500 60 H I C CNN "PartNumber"
-F6 "CONN HEADER 6POS 4.2MM R/A TIN" 300 600 60 H I C CNN "Description"
+F4 "CONN HEADER 6POS 4.2MM R/A TIN" 300 600 60 H I C CNN "Description"
+F5 "Molex" 0 0 60 H I C CNN "Mfg"
+F6 "0039301060" 0 0 60 H I C CNN "Mfg PN"
+F7 "Digi-Key" 0 0 60 H I C CNN "Supplier"
+F8 "WM1353-ND" 0 0 60 H I C CNN "Supplier PN"
 $FPLIST
  Pin_Header_Straight_2X05
  Pin_Header_Angled_2X05
@@ -6912,9 +6914,12 @@ F0 "U" 200 650 60 H V C CNN
 F1 "SN74ABT541BDWR" -500 650 60 H V C CNN
 F2 "footprints:SOIC_20" 100 550 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 100 -800 60 H I C CNN "Vendor"
-F5 "296-14668-1-ND" 200 -700 60 H I C CNN "PartNumber"
-F6 "Buffer Non-Inverting 1 Element 8 Bit per Element Push-Pull Output 20-SOIC" 300 -600 60 H I C CNN "Description"
+F4 "Buffer Non-Inverting 1 Element 8 Bit per Element Push-Pull Output" 300 -600 60 H I C CNN "Description"
+F5 "20-SOIC" 0 0 60 H I C CNN "Package"
+F6 "Texas Instruments" 0 0 60 H I C CNN "Mfg"
+F7 "SN74ABT541BDWR" 0 0 60 H I C CNN "Mfg PN"
+F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
+F9 "296-14668-1-ND" 0 0 60 H I C CNN "Supplier PN"
 DRAW
 S -250 600 250 -600 0 1 0 N
 P 2 0 1 0 -250 -350 -50 -350 N
