@@ -5848,9 +5848,11 @@ F0 "J" 0 300 50 H V C CNN
 F1 "M12-5-RCPT_F_SMD" 0 -300 50 H V C CNN
 F2 "footprints:M12-5_RCPT_F_SMD" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "277-10282-1-ND" 200 100 60 H I C CNN "PartNumber"
-F6 "CONN FMALE INSERT 5POS SOLDER" 300 0 60 H I C CNN "Description"
+F4 "CONN FMALE INSERT 5POS SOLDER" 300 0 60 H I C CNN "Description"
+F5 "Phoenix Contact" 0 0 60 H I C CNN "Mfg"
+F6 "1411976" 0 0 60 H I C CNN "Mfg PN"
+F7 "Digi-Key" 0 0 60 H I C CNN "Supplier"
+F8 "277-10282-1-ND	" 0 0 60 H I C CNN "Supplier PN"
 $FPLIST
  Connector*:*_1x??_*
 $ENDFPLIST
