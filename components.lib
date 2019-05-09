@@ -8376,9 +8376,12 @@ F0 "D" -50 80 50 H V L CNN
 F1 "diode_schottky_45V_10A" -280 -80 50 H I L CNN
 F2 "footprints:CFP15" -150 -20 60 H I C CNN
 F3 "" -50 80 60 H I C CNN
-F4 "digikey" 50 180 60 H I C CNN "Vendor"
-F5 "568-11697-1-ND" 150 280 60 H I C CNN "PartNumber"
-F6 "DIODE SCHOTTKY 45V 10A CFP15" 250 380 60 H I C CNN "Description"
+F4 "DIODE SCHOTTKY 45V 10A" 250 380 60 H I C CNN "Description"
+F5 "CFP15" 0 0 60 H I C CNN "Package"
+F6 "Nexperia USA Inc." 0 0 60 H I C CNN "Mfg"
+F7 "PMEG045V100EPDZ" 0 0 60 H I C CNN "Mfg PN"
+F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
+F9 "1727-1904-1-ND" 0 0 60 H I C CNN "Supplier PN"
 $FPLIST
  Diode_*
  D-Pak_TO252AA
