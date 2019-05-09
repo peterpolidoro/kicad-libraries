@@ -101,9 +101,12 @@ F0 "C" 0 100 40 H V L CNN
 F1 "0.1uF_1210" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "399-13229-1-ND" 200 300 60 H I C CNN "PartNumber"
-F6 "CAP CER 0.1UF 50V 10% X7R 1210" 300 400 60 H I C CNN "Description"
+F4 "CAP CER 0.1UF 50V 10% X7R 1210" 300 400 60 H I C CNN "Description"
+F5 "1210 (3225 Metric)" 0 0 60 H I C CNN "Package"
+F6 "KEMET" 0 0 60 H I C CNN "Mfg"
+F7 "C1210X104K1RAC7800" 0 0 60 H I C CNN "Mfg PN"
+F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
+F9 "399-13229-1-ND" 0 0 60 H I C CNN "Supplier PN"
 $FPLIST
  SM*
  C?
@@ -6956,7 +6959,7 @@ ENDDEF
 #
 # STANDOFF_M2.5x0.45x8
 #
-DEF ~STANDOFF_M2.5x0.45x8 SO 0 30 N N 1 F N
+DEF STANDOFF_M2.5x0.45x8 SO 0 30 N N 1 F N
 F0 "SO" 0 270 50 H V C CNN
 F1 "STANDOFF_M2.5x0.45x8" 0 200 50 H I C CNN
 F2 "footprints:MOUNTING_HOLE_M2.5" 200 0 50 H I C CNN
@@ -8161,7 +8164,7 @@ ENDDEF
 #
 # diode_low_rev_current
 #
-DEF ~diode_low_rev_current D 0 10 N N 1 F N
+DEF diode_low_rev_current D 0 10 N N 1 F N
 F0 "D" -50 80 50 H V L CNN
 F1 "diode_low_rev_current" -280 -80 50 H I L CNN
 F2 "footprints:SOD-123" -150 -20 60 H I C CNN
@@ -8188,7 +8191,7 @@ ENDDEF
 #
 # diode_schottky_15V_1A
 #
-DEF ~diode_schottky_15V_1A D 0 10 N N 1 F N
+DEF diode_schottky_15V_1A D 0 10 N N 1 F N
 F0 "D" -50 80 50 H V L CNN
 F1 "diode_schottky_15V_1A" -280 -80 50 H I L CNN
 F2 "footprints:DO-214BA" -150 -20 60 H I C CNN
@@ -8215,7 +8218,7 @@ ENDDEF
 #
 # diode_schottky_20V_1A
 #
-DEF ~diode_schottky_20V_1A D 0 10 N N 1 F N
+DEF diode_schottky_20V_1A D 0 10 N N 1 F N
 F0 "D" -50 80 50 H V L CNN
 F1 "diode_schottky_20V_1A" -280 -80 50 H I L CNN
 F2 "footprints:SM0805_POL" -150 -20 60 H I C CNN
@@ -8242,7 +8245,7 @@ ENDDEF
 #
 # diode_schottky_40V_1A
 #
-DEF ~diode_schottky_40V_1A D 0 10 N N 1 F N
+DEF diode_schottky_40V_1A D 0 10 N N 1 F N
 F0 "D" -50 80 50 H V L CNN
 F1 "diode_schottky_40V_1A" -280 -80 50 H I L CNN
 F2 "footprints:DO-214AC_SMA" -150 -20 60 H I C CNN
@@ -8269,7 +8272,7 @@ ENDDEF
 #
 # diode_schottky_40V_3A
 #
-DEF ~diode_schottky_40V_3A D 0 10 N N 1 F N
+DEF diode_schottky_40V_3A D 0 10 N N 1 F N
 F0 "D" -50 80 50 H V L CNN
 F1 "diode_schottky_40V_3A" -280 -80 50 H I L CNN
 F2 "footprints:DO-214AC_SMA" -150 -20 60 H I C CNN
@@ -8296,7 +8299,7 @@ ENDDEF
 #
 # diode_schottky_40V_500mA
 #
-DEF ~diode_schottky_40V_500mA D 0 10 N N 1 F N
+DEF diode_schottky_40V_500mA D 0 10 N N 1 F N
 F0 "D" -50 80 50 H V L CNN
 F1 "diode_schottky_40V_500mA" -280 -80 50 H I L CNN
 F2 "footprints:SM0805_POL" -150 -20 60 H I C CNN
@@ -8323,7 +8326,7 @@ ENDDEF
 #
 # diode_schottky_45V_10A
 #
-DEF ~diode_schottky_45V_10A D 0 10 N N 1 F N
+DEF diode_schottky_45V_10A D 0 10 N N 1 F N
 F0 "D" -50 80 50 H V L CNN
 F1 "diode_schottky_45V_10A" -280 -80 50 H I L CNN
 F2 "footprints:CFP15" -150 -20 60 H I C CNN
