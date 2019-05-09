@@ -2006,9 +2006,12 @@ F0 "R" 80 0 40 V V C CNN
 F1 "5.9k_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P5.90KAACT-ND" 280 200 60 V I C CNN "PartNumber"
-F6 "RES SMD 5.9k OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
+F4 "RES SMD 5.9k OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
+F5 "1210 (3225 Metric)" 0 0 60 H I C CNN "Package"
+F6 "Panasonic Electronic Components" 0 0 60 H I C CNN "Mfg"
+F7 "ERJ-14NF5901U" 0 0 60 H I C CNN "Mfg PN"
+F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
+F9 "P5.90KAACT-ND" 0 0 60 H I C CNN "Supplier PN"
 $FPLIST
  R?
  SM0603
