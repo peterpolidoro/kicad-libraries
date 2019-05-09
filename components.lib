@@ -2129,9 +2129,12 @@ F0 "R" 80 0 40 V V C CNN
 F1 "75_0805" 7 1 40 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P75.0CCT-ND" 280 200 60 V I C CNN "PartNumber"
-F6 "RES SMD 75 OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F4 "RES SMD 75 OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F5 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
+F6 "Panasonic Electronic Components" 0 0 60 H I C CNN "Mfg"
+F7 "ERJ-6ENF75R0V" 0 0 60 H I C CNN "Mfg PN"
+F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
+F9 "P75.0CCT-ND" 0 0 60 H I C CNN "Supplier PN"
 $FPLIST
  R?
  SM0603
