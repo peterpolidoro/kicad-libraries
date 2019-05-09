@@ -78,9 +78,12 @@ F0 "C" 0 100 40 H V L CNN
 F1 "0.1uF_0805" 0 0 30 H V C CNN
 F2 "footprints:SM0805" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "399-14636-1-ND" 200 300 60 H I C CNN "PartNumber"
-F6 "CAP CER 0.1UF 50V X7R 0805" 300 400 60 H I C CNN "Description"
+F4 "CAP CER 0.1UF 50V X7R 0805" 300 400 60 H I C CNN "Description"
+F5 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
+F6 "KEMET" 0 0 60 H I C CNN "Mfg"
+F7 "C0805T104K5RAL7800" 0 0 60 H I C CNN "Mfg PN"
+F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
+F9 "399-14636-1-ND" 0 0 60 H I C CNN "Supplier PN"
 $FPLIST
  SM*
  C?
