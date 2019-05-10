@@ -8,8 +8,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "0.0_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "541-0.0VCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "541-0.0VCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 0.0 OHM JUMPER 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -32,8 +32,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "0.15uF_1210" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "399-15599-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "399-15599-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "0.15uF 100V Ceramic Capacitor X7R 1210" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -55,8 +55,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "0.1uF_0402" 0 0 30 H V C CNN
 F2 "footprints:SM0402" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "1276-1739-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "1276-1739-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 0.1UF 25V Y5V 0402" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -80,10 +80,10 @@ F2 "footprints:SM0805" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H I C CNN
 F4 "CAP CER 0.1UF 50V X7R" 300 400 60 H I C CNN "Description"
 F5 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
-F6 "KEMET" 0 0 60 H I C CNN "Mfg"
-F7 "C0805T104K5RAL7800" 0 0 60 H I C CNN "Mfg PN"
-F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F9 "399-14636-1-ND" 0 0 60 H I C CNN "Supplier PN"
+F6 "KEMET" 0 0 60 H I C CNN "Manufacturer"
+F7 "C0805T104K5RAL7800" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F9 "399-14636-1-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  SM*
  C?
@@ -106,10 +106,10 @@ F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "CAP CER 0.1UF 50V 10% X7R" 300 400 60 H I C CNN "Description"
 F5 "1210 (3225 Metric)" 0 0 60 H I C CNN "Package"
-F6 "KEMET" 0 0 60 H I C CNN "Mfg"
-F7 "C1210X104K1RAC7800" 0 0 60 H I C CNN "Mfg PN"
-F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F9 "399-13229-1-ND" 0 0 60 H I C CNN "Supplier PN"
+F6 "KEMET" 0 0 60 H I C CNN "Manufacturer"
+F7 "C1210X104K1RAC7800" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F9 "399-13229-1-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  SM*
  C?
@@ -130,8 +130,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "0.22uF_1210" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "399-11615-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "399-11615-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "0.22uF 100V Ceramic Capacitor X7R 1210" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -153,8 +153,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "0.47uF_0805" 0 0 30 H V C CNN
 F2 "footprints:SM0805" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "445-13372-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "445-13372-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 0.47UF 50V 10% X7R 0805" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -176,8 +176,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "0.47uF_1210" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "478-3589-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "478-3589-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "0.47uF 50V Ceramic Capacitor X7R 1210" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -199,8 +199,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "0.5_2010" 0 0 30 V V C CNN
 F2 "footprints:SM2010" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "CSRN2010FKR500CT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "CSRN2010FKR500CT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 0.5 OHM 1% 1W 2010" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -223,8 +223,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "1.0_0402_CS" 7 1 40 V V C CNN
 F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "RL05S1.0FCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "RL05S1.0FCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 1 OHM 1% 1/6W 0402" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -247,8 +247,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "1.58M_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "311-1.58MCRCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "311-1.58MCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 1.58M OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -271,8 +271,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "1.69k_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P1.69KAACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P1.69KAACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 1.69K OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -295,8 +295,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "10.0k_0402" 7 1 40 V V C CNN
 F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P10KJCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P10KJCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 10K OHM 5% 1/10W 0402" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -319,8 +319,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "10.0k_0805" 7 1 40 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P10.0KCCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P10.0KCCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 10K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -343,8 +343,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "10.0k_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P10.0KAACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P10.0KAACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 10.0K OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -367,8 +367,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "100_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P100AACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P100AACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 100 OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -391,8 +391,8 @@ F0 "C" 10 70 50 H V L CNN
 F1 "100uF_POL" 0 0 30 H V C CNN
 F2 "footprints:C_ELEC_12.5" -90 -30 60 H I C CNN
 F3 "" 10 70 60 H I C CNN
-F4 "digikey" 110 170 60 H I C CNN "Vendor"
-F5 "565-2511-1-ND" 210 270 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 110 170 60 H I C CNN "Vendor"
+F5 "565-2511-1-ND" 210 270 60 H I C CNN "Vendor Part Number"
 F6 "100uF 100V Aluminum Capacitors Radial Can SMD" 310 370 60 H I C CNN "Description"
 $FPLIST
  CP*
@@ -419,8 +419,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "10nF_0402" 0 0 30 H V C CNN
 F2 "footprints:SM0402" 38 -150 30 H I C CNN
 F3 "" 0 100 60 H I C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "399-7758-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "399-7758-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 10000PF 50V 5% X7R 0402" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -442,8 +442,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "10nF_0805" 0 0 30 H V C CNN
 F2 "footprints:SM0805" 38 -150 30 H I C CNN
 F3 "" 0 100 60 H I C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "490-1642-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "490-1642-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 10000PF 50V 5% NP0 0805" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -465,8 +465,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "10nF_1210" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "399-11960-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "399-11960-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "10000pF 100V Ceramic Capacitor C0G NP0 1210" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -488,8 +488,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "10uF_0402" 0 0 30 H V C CNN
 F2 "footprints:SM0402" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "490-13233-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "490-13233-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 10UF 6.3V X6S 0402" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -511,8 +511,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "10uF_0805" 0 0 30 H V C CNN
 F2 "footprints:SM0805" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "445-14419-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "445-14419-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 10UF 35V X5R 0805" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -534,8 +534,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "10uF_1210" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "445-4536-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "445-4536-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 10UF 50V 10% X7S 1210" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -557,8 +557,8 @@ F0 "C" 10 70 50 H V L CNN
 F1 "10uF_2917_POL" 0 0 30 H V C CNN
 F2 "footprints:SM2917_POL" -90 -30 60 H I C CNN
 F3 "" 10 70 60 H I C CNN
-F4 "digikey" 110 170 60 H I C CNN "Vendor"
-F5 "399-8527-1-ND" 210 270 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 110 170 60 H I C CNN "Vendor"
+F5 "399-8527-1-ND" 210 270 60 H I C CNN "Vendor Part Number"
 F6 "CAP TANT 10UF 35V 10% 2917" 310 370 60 H I C CNN "Description"
 $FPLIST
  CP*
@@ -585,8 +585,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "10uF_35V" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "399-5509-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "399-5509-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 10UF 35V X5R 1210" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -608,8 +608,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "110k_0402" 0 0 30 V V C CNN
 F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P110KLCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P110KLCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 110K OHM 1% 1/10W 0402" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -632,8 +632,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "110k_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "311-110KCRCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "311-110KCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 110K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -656,8 +656,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "120_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "311-120CRCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "311-120CRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 120 OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -680,8 +680,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "137k_0402" 0 0 30 V V C CNN
 F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P137KLCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P137KLCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 137K OHM 1% 1/10W 0402" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -704,8 +704,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "137k_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P137KCCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P137KCCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 137K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -728,8 +728,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "140_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P140AACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P140AACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 140 OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -752,8 +752,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "147_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P147AACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P147AACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 147 OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -776,8 +776,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "150_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P150AACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P150AACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 150 OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -800,8 +800,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "160_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "311-160CRCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "311-160CRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 160 OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -824,8 +824,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "180_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P180VCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P180VCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 180 OHM 5% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -848,8 +848,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "1M_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P1.00MAACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P1.00MAACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 1M OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -872,8 +872,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "1k_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P1.00KCCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P1.00KCCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 1K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -896,8 +896,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "1k_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P1.00KAACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P1.00KAACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 1K OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -920,8 +920,8 @@ F0 "C" 10 70 50 H V L CNN
 F1 "1uF_0805_POL" 0 0 30 H V C CNN
 F2 "footprints:SM0805_POL_L" -90 -30 60 H I C CNN
 F3 "" 10 70 60 H I C CNN
-F4 "digikey" 110 170 60 H I C CNN "Vendor"
-F5 "718-1720-1-ND" 210 270 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 110 170 60 H I C CNN "Vendor"
+F5 "718-1720-1-ND" 210 270 60 H I C CNN "Vendor Part Number"
 F6 "CAP TANT 1UF 50V 20% 0805" 310 370 60 H I C CNN "Description"
 $FPLIST
  CP*
@@ -948,8 +948,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "1uF_1210" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "399-8219-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "399-8219-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 1UF 100V X7R 1210" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -971,8 +971,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "2.21k_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P2.21KAACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P2.21KAACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 2.21K OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -995,8 +995,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "2.2_0402_CS" 7 1 40 V V C CNN
 F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "RL05S2.2FCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "RL05S2.2FCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 2.2 OHM 1% 1/6W 0402" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1021,10 +1021,10 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
 F4 "RES SMD 2.2K OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
 F5 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
-F6 "Panasonic Electronic Components" 0 0 60 H I C CNN "Mfg"
-F7 "ERJ-6ENF2201V" 0 0 60 H I C CNN "Mfg PN"
-F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F9 "P2.20KCCT-ND" 0 0 60 H I C CNN "Supplier PN"
+F6 "Panasonic Electronic Components" 0 0 60 H I C CNN "Manufacturer"
+F7 "ERJ-6ENF2201V" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F9 "P2.20KCCT-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  R?
  SM0603
@@ -1046,8 +1046,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "2.2uF_0402" 0 0 30 H V C CNN
 F2 "footprints:SM0402" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "445-9028-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "445-9028-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 2.2UF 35V X5R 0402" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -1069,8 +1069,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "2.2uF_0805" 0 0 30 H V C CNN
 F2 "footprints:SM0805" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "1276-2409-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "1276-2409-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 2.2UF 50V X5R 0805" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -1092,8 +1092,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "2.2uF_1210" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "399-5614-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "399-5614-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "2.2uF 50V Ceramic Capacitor X7R 1210" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -1115,8 +1115,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "200_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P200AACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P200AACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "200 Ohm 1% 0.5W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1139,8 +1139,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "200k_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "311-200KCRCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "311-200KCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 200K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1163,8 +1163,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "200k_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P200KAACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P200KAACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 200K OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1187,8 +1187,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "205k_0402" 0 0 30 V V C CNN
 F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P205KLCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P205KLCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 205K OHM 1% 1/10W 0402" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1211,8 +1211,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "205k_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P205KCCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P205KCCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 205K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1235,8 +1235,8 @@ F0 "C" 10 70 50 H V L CNN
 F1 "220uF_POL" 0 0 30 H V C CNN
 F2 "footprints:C_ELEC_10" -90 -30 60 H I C CNN
 F3 "" 10 70 60 H I C CNN
-F4 "digikey" 110 170 60 H I C CNN "Vendor"
-F5 "PCE3812CT-ND" 210 270 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 110 170 60 H I C CNN "Vendor"
+F5 "PCE3812CT-ND" 210 270 60 H I C CNN "Vendor Part Number"
 F6 "CAP ALUM 220UF 20% 50V SMD" 310 370 60 H I C CNN "Description"
 $FPLIST
  CP*
@@ -1263,8 +1263,8 @@ F0 "RP" 250 0 40 V V C CNN
 F1 "220x4_1206" -250 0 40 V V C CNN
 F2 "footprints:RESISTOR_PACK_SM1206x4" -1150 0 30 V I C CNN
 F3 "" -150 0 30 H V C CNN
-F4 "digikey" -1050 0 60 V I C CNN "Vendor"
-F5 "744C083221JPCT-ND" -1200 0 60 V I C CNN "PartNumber"
+F4 "Digi-Key" -1050 0 60 V I C CNN "Vendor"
+F5 "744C083221JPCT-ND" -1200 0 60 V I C CNN "Vendor Part Number"
 F6 "RES ARRAY 4 RES 220 OHM 2012" -1250 0 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1298,8 +1298,8 @@ F0 "C" 10 70 50 H V L CNN
 F1 "22uF_1210_POL" 0 0 30 H V C CNN
 F2 "footprints:SM1210_POL" -90 -30 60 H I C CNN
 F3 "" 10 70 60 H I C CNN
-F4 "digikey" 110 170 60 H I C CNN "Vendor"
-F5 "478-1683-1-ND" 210 270 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 110 170 60 H I C CNN "Vendor"
+F5 "478-1683-1-ND" 210 270 60 H I C CNN "Vendor Part Number"
 F6 "CAP TANT 22UF 20V 10% 1210" 310 370 60 H I C CNN "Description"
 $FPLIST
  CP*
@@ -1326,8 +1326,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "249_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P249AACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P249AACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "249 Ohm 1% 0.5W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1350,8 +1350,8 @@ F0 "U" 200 600 60 H V C CNN
 F1 "26LS31" -250 600 60 H V C CNN
 F2 "footprints:SOIC_16_0.154IN" 100 500 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 300 700 60 H I C CNN "Vendor"
-F5 "296-1010-1-ND" 400 800 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 300 700 60 H I C CNN "Vendor"
+F5 "296-1010-1-ND" 400 800 60 H I C CNN "Vendor Part Number"
 F6 "IC QUAD DIFF LINE DRIVER 16-SOIC" 500 900 60 H I C CNN "Description"
 DRAW
 S -200 550 200 -550 0 1 0 N
@@ -1381,8 +1381,8 @@ F0 "U" 200 600 60 H V C CNN
 F1 "26LS32" -250 600 60 H V C CNN
 F2 "footprints:SOIC_16_0.154IN" 100 500 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 300 700 60 H I C CNN "Vendor"
-F5 "296-1011-1-ND" 400 800 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 300 700 60 H I C CNN "Vendor"
+F5 "296-1011-1-ND" 400 800 60 H I C CNN "Vendor Part Number"
 F6 "IC QUAD DIFF LINE RCVR 16-SOIC" 500 900 60 H I C CNN "Description"
 DRAW
 S -200 550 200 -550 0 1 0 N
@@ -1414,10 +1414,10 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
 F4 "RES SMD 287 OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
 F5 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
-F6 "Panasonic Electronic Components" 0 0 60 H I C CNN "Mfg"
-F7 "ERJ-6ENF2870V" 0 0 60 H I C CNN "Mfg PN"
-F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F9 "P287CCT-ND" 0 0 60 H I C CNN "Supplier PN"
+F6 "Panasonic Electronic Components" 0 0 60 H I C CNN "Manufacturer"
+F7 "ERJ-6ENF2870V" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F9 "P287CCT-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  R?
  SM0603
@@ -1439,8 +1439,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "3.16M_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "311-3.16MCRCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "311-3.16MCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 3.16M OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1463,8 +1463,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "3.16k_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P3.16KAACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P3.16KAACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 3.16K OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1487,8 +1487,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "3.3_0402_CS" 7 1 40 V V C CNN
 F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "RL05S3.3FCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "RL05S3.3FCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 3.3 OHM 1% 1/6W 0402" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1511,8 +1511,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "3.3k_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P16114CT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P16114CT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 3.3K OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1535,8 +1535,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "3.3nF_1210" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "478-5964-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "478-5964-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 3300PF 2KV X7R 1210" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -1558,8 +1558,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "3.3uF_1210" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "478-6383-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "478-6383-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "3.3uF 50V Ceramic Capacitor X7R 1210" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -1581,8 +1581,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "300_0402" 0 0 30 V V C CNN
 F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P300LCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P300LCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 300 OHM 1% 1/10W 0402" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1605,8 +1605,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "316_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P316AACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P316AACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 316 OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1629,8 +1629,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "35.7_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P35.7AACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P35.7AACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 35.7 OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1653,8 +1653,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "39.2_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P39.2AACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P39.2AACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 39.2 OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1677,8 +1677,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "4.7_0402_CS" 7 1 40 V V C CNN
 F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "RL05S4.7FCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "RL05S4.7FCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 4.7 OHM 1% 1/6W 0402" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1701,8 +1701,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "4.7k_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "311-4.70KCRCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "311-4.70KCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 4.7K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1725,8 +1725,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "4.7k_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "YAG5470CT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "YAG5470CT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 4.7K OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1749,8 +1749,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "4.7uF_1210" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "478-4523-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "478-4523-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "4.7uF 50V Ceramic Capacitor X7R 1210" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -1772,8 +1772,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "4.99M_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "311-4.99MCRCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "311-4.99MCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 4.99M OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1796,8 +1796,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "402k_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "311-402KCRCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "311-402KCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 402K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1820,8 +1820,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "430_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "541-430CCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "541-430CCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 430 OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1844,8 +1844,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "44.2k_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P44.2KCCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P44.2KCCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 44.2K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1868,8 +1868,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "470pF_0805" 0 0 30 H V C CNN
 F2 "footprints:SM0805" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "478-1350-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "478-1350-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 470PF 100V X7R 0805" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -1891,8 +1891,8 @@ F0 "C" 10 70 50 H V L CNN
 F1 "47uF_2917_POL" 0 0 30 H V C CNN
 F2 "footprints:SM2917_POL" -90 -30 60 H I C CNN
 F3 "" 10 70 60 H I C CNN
-F4 "digikey" 110 170 60 H I C CNN "Vendor"
-F5 "399-3821-1-ND" 210 270 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 110 170 60 H I C CNN "Vendor"
+F5 "399-3821-1-ND" 210 270 60 H I C CNN "Vendor Part Number"
 F6 "CAP TANT 47UF 35V 10% 2917" 310 370 60 H I C CNN "Description"
 $FPLIST
  CP*
@@ -1919,8 +1919,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "487_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P487AACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P487AACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 487 OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1943,8 +1943,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "49.9k_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P49.9KCCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P49.9KCCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 49.9K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1967,8 +1967,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "5.11k_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P5.11KAACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P5.11KAACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 5.11K OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -1991,8 +1991,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "5.1_0402_CS" 7 1 40 V V C CNN
 F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "408-1454-1-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "408-1454-1-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 5.1 OHM 1% 1/6W 0402" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -2015,8 +2015,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "5.1_0805_CS" 7 1 40 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "RL12S5.1FCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "RL12S5.1FCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 5.1 OHM 1% 1/3W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -2039,8 +2039,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "5.1_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "541-5.1VCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "541-5.1VCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 5.1 OHM 5% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -2065,10 +2065,10 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
 F4 "RES SMD 5.9K OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
 F5 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
-F6 "Panasonic Electronic Components" 0 0 60 H I C CNN "Mfg"
-F7 "ERJ-6ENF5901V" 0 0 60 H I C CNN "Mfg PN"
-F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F9 "P5.90KCCT-ND" 0 0 60 H I C CNN "Supplier PN"
+F6 "Panasonic Electronic Components" 0 0 60 H I C CNN "Manufacturer"
+F7 "ERJ-6ENF5901V" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F9 "P5.90KCCT-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  R?
  SM0603
@@ -2092,10 +2092,10 @@ F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
 F4 "RES SMD 5.9k OHM 1% 1/2W" 380 300 60 V I C CNN "Description"
 F5 "1210 (3225 Metric)" 0 0 60 H I C CNN "Package"
-F6 "Panasonic Electronic Components" 0 0 60 H I C CNN "Mfg"
-F7 "ERJ-14NF5901U" 0 0 60 H I C CNN "Mfg PN"
-F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F9 "P5.90KAACT-ND" 0 0 60 H I C CNN "Supplier PN"
+F6 "Panasonic Electronic Components" 0 0 60 H I C CNN "Manufacturer"
+F7 "ERJ-14NF5901U" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F9 "P5.90KAACT-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  R?
  SM0603
@@ -2117,8 +2117,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "6.19k_1210" 7 1 40 V V C CNN
 F2 "footprints:SM1210" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P6.19KAACT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P6.19KAACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 6.19K OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -2141,8 +2141,8 @@ F0 "L" 30 40 50 H V L CNN
 F1 "600@100MHz_1210" 30 -40 50 H V L CNN
 F2 "footprints:SM1210" -70 -60 50 H I C CNN
 F3 "" 0 0 50 H V C CNN
-F4 "digikey" 130 140 60 H I C CNN "Vendor"
-F5 "587-1755-1-ND" 230 240 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 130 140 60 H I C CNN "Vendor"
+F5 "587-1755-1-ND" 230 240 60 H I C CNN "Vendor Part Number"
 F6 "FERRITE BEAD 600 OHM 1210 1LN" 330 340 60 H I C CNN "Description"
 $FPLIST
  Choke_*
@@ -2165,8 +2165,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "604_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "311-604CRCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "311-604CRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 604 OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -2189,8 +2189,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "732_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P732CCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P732CCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 732 OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -2215,10 +2215,10 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
 F4 "RES SMD 75 OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
 F5 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
-F6 "Panasonic Electronic Components" 0 0 60 H I C CNN "Mfg"
-F7 "ERJ-6ENF75R0V" 0 0 60 H I C CNN "Mfg PN"
-F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F9 "P75.0CCT-ND" 0 0 60 H I C CNN "Supplier PN"
+F6 "Panasonic Electronic Components" 0 0 60 H I C CNN "Manufacturer"
+F7 "ERJ-6ENF75R0V" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F9 "P75.0CCT-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  R?
  SM0603
@@ -2240,8 +2240,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "787k_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "311-787KCRCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "311-787KCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 787K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -2264,8 +2264,8 @@ F0 "C" 0 100 40 H V L CNN
 F1 "8.2nF_1210" 0 0 30 H V C CNN
 F2 "footprints:SM1210" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "399-7456-1-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "399-7456-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 8200PF 50V 5% NP0 1210" 300 400 60 H I C CNN "Description"
 $FPLIST
  SM*
@@ -2287,8 +2287,8 @@ F0 "R" 80 0 40 V V C CNN
 F1 "845_0805" 0 0 30 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
-F4 "digikey" 180 100 60 V I C CNN "Vendor"
-F5 "P845CCT-ND" 280 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P845CCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 845 OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
 $FPLIST
  R?
@@ -2311,8 +2311,8 @@ F0 "L" 30 40 50 H V L CNN
 F1 "90nH_8A_8.5mOhm_SMD" 30 -40 50 H V L CNN
 F2 "footprints:ECS-MPI4040" -70 -60 50 H I C CNN
 F3 "" 0 0 50 H V C CNN
-F4 "digikey" 130 140 60 H I C CNN "Vendor"
-F5 "XC2328CT-ND" 230 240 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 130 140 60 H I C CNN "Vendor"
+F5 "XC2328CT-ND" 230 240 60 H I C CNN "Vendor Part Number"
 F6 "FIXED IND 90NH 8A 8.5 MOHM SMD" 330 340 60 H I C CNN "Description"
 $FPLIST
  Choke_*
@@ -2335,8 +2335,8 @@ F0 "D" 0 650 60 H V C CNN
 F1 "AD5754R" 0 -250 50 H V C CNN
 F2 "footprints:TSSOP_EP_24" 0 1200 60 H I C CNN
 F3 "" 0 1200 60 H V C CNN
-F4 "digikey" 0 1200 60 H I C CNN "Vendor"
-F5 "AD5754RBREZ-REEL7CT-ND" 0 1200 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 1200 60 H I C CNN "Vendor"
+F5 "AD5754RBREZ-REEL7CT-ND" 0 1200 60 H I C CNN "Vendor Part Number"
 F6 "IC DAC 16BIT DSP/SRL 24TSSOP" 0 1200 60 H I C CNN "Description"
 DRAW
 S -350 600 350 -600 0 1 0 N
@@ -2371,8 +2371,8 @@ F0 "AF" 150 600 60 H V C CNN
 F1 "ADAFRUIT_MPR121" 100 0 60 V V C CNN
 F2 "footprints:ADAFRUIT_MPR121" 50 500 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 250 700 60 H I C CNN "Vendor"
-F5 "1528-1038-ND" 350 800 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 250 700 60 H I C CNN "Vendor"
+F5 "1528-1038-ND" 350 800 60 H I C CNN "Vendor Part Number"
 F6 "MPR121 TOUCH SENSE 12-KEY" 450 900 60 H I C CNN "Description"
 DRAW
 S -300 550 300 -650 0 1 0 N
@@ -2404,8 +2404,8 @@ F0 "U" 150 -200 60 H V C CNN
 F1 "AP7313_1.5V" 0 100 60 H V C CNN
 F2 "footprints:SOT-23-3" 50 -300 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 250 -100 60 H I C CNN "Vendor"
-F5 "AP7313-15SAG-7DICT-ND" 350 0 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 250 -100 60 H I C CNN "Vendor"
+F5 "AP7313-15SAG-7DICT-ND" 350 0 60 H I C CNN "Vendor Part Number"
 F6 "Linear Voltage Regulator IC Positive Fixed 1 Output 1.5V 150mA SOT-23-3" 450 100 60 H I C CNN "Description"
 DRAW
 S -250 50 250 -150 0 1 0 N
@@ -2422,8 +2422,8 @@ F0 "ARDUINO" 50 2750 60 H V C CNN
 F1 "ARDUINO_MEGA" 0 -2700 60 H V C CNN
 F2 "footprints:ARDUINO_MEGA_SHIELD" -50 2650 60 H I C CNN
 F3 "" 50 2750 60 H V C CNN
-F4 "digikey" 150 2850 60 H I C CNN "Vendor"
-F5 "1050-1018-ND" 250 2950 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 150 2850 60 H I C CNN "Vendor"
+F5 "1050-1018-ND" 250 2950 60 H I C CNN "Vendor Part Number"
 F6 "BOARD MCU MEGA2560" 350 3050 60 H I C CNN "Description"
 DRAW
 T 0 0 1550 60 0 0 0 Arduino Normal 0 C C
@@ -2526,8 +2526,8 @@ F0 "J" 0 200 50 H V C CNN
 F1 "AUDIO_JACK_3.5MM" 0 -200 50 H V C CNN
 F2 "footprints:AUDIO_JACK_3.5MM_3PIN" -100 100 50 H I C CNN
 F3 "" 0 0 50 H V C CNN
-F4 "digikey" 100 300 60 H I C CNN "Vendor"
-F5 "CP-3523SJCT-ND" 200 400 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 300 60 H I C CNN "Vendor"
+F5 "CP-3523SJCT-ND" 200 400 60 H I C CNN "Vendor Part Number"
 F6 "3.50mm Headphone Phone Jack Stereo Connector Solder" 300 500 60 H I C CNN "Description"
 DRAW
 S -350 150 350 -150 0 1 0 N
@@ -2549,7 +2549,7 @@ F1 "BACKLIGHT_SV_MOBL_150X150" 0 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "smartvisionlights" 0 0 50 H I C CNN "Vendor"
-F5 "MOBL_150x150" 0 0 50 H I C CNN "PartNumber"
+F5 "MOBL_150x150" 0 0 50 H I C CNN "Vendor Part Number"
 F6 "Maximum Operating Backlight 150x150" 0 0 50 H I C CNN "Description"
 DRAW
 T 0 -400 250 50 0 0 0 IR Normal 0 L C
@@ -2571,7 +2571,7 @@ F1 "BACKLIGHT_SV_MOBL_300X300" 0 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "smartvisionlights" 0 0 50 H I C CNN "Vendor"
-F5 "MOBL_300x300" 0 0 50 H I C CNN "PartNumber"
+F5 "MOBL_300x300" 0 0 50 H I C CNN "Vendor Part Number"
 F6 "Maximum Operating Backlight 300x300" 0 0 50 H I C CNN "Description"
 DRAW
 T 0 -400 250 50 0 0 0 IR Normal 0 L C
@@ -2624,8 +2624,8 @@ F0 "U" -250 0 60 V V C CNN
 F1 "BAV70T" 250 0 60 V V C CNN
 F2 "footprints:SOT-523" -350 -100 60 V I C CNN
 F3 "" -250 0 60 V I C CNN
-F4 "digikey" -150 100 60 V I C CNN "Vendor"
-F5 "BAV70TCT-ND" -50 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" -150 100 60 V I C CNN "Vendor"
+F5 "BAV70TCT-ND" -50 200 60 V I C CNN "Vendor Part Number"
 F6 "DIODE FAST SW 85V 75MA SOT523" 50 300 60 V I C CNN "Description"
 DRAW
 S -200 100 200 -100 0 1 0 N
@@ -2654,8 +2654,8 @@ F0 "U" -250 0 60 V V C CNN
 F1 "BAV99T" 250 0 60 V V C CNN
 F2 "footprints:SOT-523" -350 -100 60 V I C CNN
 F3 "" -250 0 60 V I C CNN
-F4 "digikey" -150 100 60 V I C CNN "Vendor"
-F5 "BAV99TCT-ND" -50 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" -150 100 60 V I C CNN "Vendor"
+F5 "BAV99TCT-ND" -50 200 60 V I C CNN "Vendor Part Number"
 F6 "DIODE DUAL 85V 75MA SOT-523" 50 300 60 V I C CNN "Description"
 DRAW
 S -200 100 200 -100 0 1 0 N
@@ -2684,8 +2684,8 @@ F0 "U" -250 0 60 V V C CNN
 F1 "BAW56T" 250 0 60 V V C CNN
 F2 "footprints:SOT-523" -350 -100 60 V I C CNN
 F3 "" -250 0 60 V I C CNN
-F4 "digikey" -150 100 60 V I C CNN "Vendor"
-F5 "BAW56TCT-ND" -50 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" -150 100 60 V I C CNN "Vendor"
+F5 "BAW56TCT-ND" -50 200 60 V I C CNN "Vendor Part Number"
 F6 "DIODE DUAL 85V 75MA SOT-523" 50 300 60 V I C CNN "Description"
 DRAW
 S -200 100 200 -100 0 1 0 N
@@ -2714,8 +2714,8 @@ F0 "P" 0 150 50 H V C CNN
 F1 "BNC_DOUBLE_RA" 0 -150 50 H V C CNN
 F2 "footprints:BNC_DOUBLE" 0 -1200 60 H I C CNN
 F3 "" 0 -1200 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "ACX1655-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "ACX1655-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN BNC JACK R/A 75 OHM PCB" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_2X02
@@ -2752,10 +2752,10 @@ F2 "footprints:PG-TO252-5-11" 150 -350 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 F4 "IC SWITCH SMART LOWSIDE" 550 50 60 H I C CNN "Description"
 F5 "TO-252-5" 0 0 60 H I C CNN "Package"
-F6 "Infineon Technologies" 0 0 60 H I C CNN "Mfg"
-F7 "BTS3256DAUMA1" 0 0 60 H I C CNN "Mfg PN"
-F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F9 "BTS3256DAUMA1CT-ND" 0 0 60 H I C CNN "Supplier PN"
+F6 "Infineon Technologies" 0 0 60 H I C CNN "Manufacturer"
+F7 "BTS3256DAUMA1" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F9 "BTS3256DAUMA1CT-ND" 0 0 60 H I C CNN "Vendor Part Number"
 DRAW
 S -300 200 300 -200 0 1 0 N
 X Vs 1 0 300 100 D 50 50 1 1 W
@@ -2773,8 +2773,8 @@ F0 "U" 100 400 40 H V C CNN
 F1 "BUFFER_TRI_STATE" 300 -400 40 H V C CNN
 F2 "footprints:SOT-23-5" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 200 300 60 H I C CNN "Vendor"
-F5 "296-11603-1-ND" 300 200 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 200 300 60 H I C CNN "Vendor"
+F5 "296-11603-1-ND" 300 200 60 H I C CNN "Vendor Part Number"
 F6 "IC BUF NON-INVERT 5.5V SOT23-5" 400 100 60 H I C CNN "Description"
 DRAW
 C -60 100 10 0 1 0 N
@@ -2801,8 +2801,8 @@ F0 "CABLE" 0 150 50 H V C CNN
 F1 "CABLE_2_COND_22AWG" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 150 50 H I C CNN
-F4 "digikey" 100 250 50 H I C CNN "Vendor"
-F5 "A120-100-ND" 200 350 50 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 50 H I C CNN "Vendor"
+F5 "A120-100-ND" 200 350 50 H I C CNN "Vendor Part Number"
 F6 "MULTI-PAIR 2COND 22AWG 100FT" 300 450 50 H I C CNN "Description"
 DRAW
 A -50 -50 50 -899 899 0 1 0 N -50 -100 -50 0
@@ -2825,8 +2825,8 @@ F0 "CABLE" 0 300 50 H V C CNN
 F1 "CABLE_DB9_PATCH_2M" 0 -450 50 H V C CNN
 F2 "" 550 450 50 H I C CNN
 F3 "" 650 0 50 H I C CNN
-F4 "digikey" 0 1250 60 H I C CNN "Vendor"
-F5 "1195-7211-ND" 0 1350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 1250 60 H I C CNN "Vendor"
+F5 "1195-7211-ND" 0 1350 60 H I C CNN "Vendor Part Number"
 F6 "CABLE ASSY DB09 SHLD BEIGE 2M" 0 1450 60 H I C CNN "Description"
 $FPLIST
  DB*M*
@@ -2893,7 +2893,7 @@ F1 "CABLE_FLIR_GPIO_HR25_8-PIN_1M" 0 -450 50 H V C CNN
 F2 "" 550 450 50 H I C CNN
 F3 "" 650 0 50 H I C CNN
 F4 "flir" 0 1250 60 H I C CNN "Vendor"
-F5 "ACC-01-3000" 0 1350 60 H I C CNN "PartNumber"
+F5 "ACC-01-3000" 0 1350 60 H I C CNN "Vendor Part Number"
 F6 "FLIR camera 8 pins 1m GPIO Cable Hirose HR25 Circular Connector" 0 1450 60 H I C CNN "Description"
 $FPLIST
  DB*M*
@@ -2925,8 +2925,8 @@ F0 "CABLE" 0 100 50 H V C CNN
 F1 "CABLE_M12_5-PIN_F-RA_M_1.5M" 0 -150 50 H V C CNN
 F2 "" 550 450 50 H I C CNN
 F3 "" 650 0 50 H I C CNN
-F4 "digikey" 0 1250 60 H I C CNN "Vendor"
-F5 "277-8345-ND" 0 1350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 1250 60 H I C CNN "Vendor"
+F5 "277-8345-ND" 0 1350 60 H I C CNN "Vendor Part Number"
 F6 "CBL FMALE RA TO MALE 5POS 1.5M" 0 1450 60 H I C CNN "Description"
 $FPLIST
  DB*M*
@@ -2958,8 +2958,8 @@ F0 "CABLE" 0 100 50 H V C CNN
 F1 "CABLE_USB3_TYPE-A_MICRO-B_3M" 0 -150 50 H V C CNN
 F2 "" 550 450 50 H I C CNN
 F3 "" 650 0 50 H I C CNN
-F4 "digikey" 0 1250 60 H I C CNN "Vendor"
-F5 "GC14333-ND" 0 1350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 1250 60 H I C CNN "Vendor"
+F5 "GC14333-ND" 0 1350 60 H I C CNN "Vendor Part Number"
 F6 "USB3.0-A-USB3.0-MICRO-B 3M GOLD" 0 1450 60 H I C CNN "Description"
 $FPLIST
  DB*M*
@@ -2990,7 +2990,7 @@ F1 "CAMERA_FL3-U3-13Y3M-C" 0 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "flir" 0 0 50 H I C CNN "Vendor"
-F5 "FL3-U3-13Y3M-C" 0 0 50 H I C CNN "PartNumber"
+F5 "FL3-U3-13Y3M-C" 0 0 50 H I C CNN "Vendor Part Number"
 F6 "1280x1024 150 FPS Mono" 0 0 50 H I C CNN "Description"
 DRAW
 T 0 -450 -250 50 0 0 0 GPIO Normal 0 L C
@@ -3010,8 +3010,8 @@ F0 "CLK" 250 300 60 H V C CNN
 F1 "CLK_32MHZ" -350 300 60 H V C CNN
 F2 "footprints:CTS_SMD_4_7X5MM" 150 200 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 350 400 60 H I C CNN "Vendor"
-F5 "CTX277LVCT-ND" 450 500 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 350 400 60 H I C CNN "Vendor"
+F5 "CTX277LVCT-ND" 450 500 60 H I C CNN "Vendor Part Number"
 F6 "OSC XO 32.000MHZ HCMOS TTL SMD" 550 600 60 H I C CNN "Description"
 DRAW
 S -250 250 250 -250 0 1 0 N
@@ -3057,8 +3057,8 @@ F0 "U" 0 -300 60 H V C CNN
 F1 "CONV_+12V_-12V_SIP8" 0 300 60 H V C CNN
 F2 "footprints:SIP8_RECOM" -100 -400 60 H I C CNN
 F3 "" 0 -300 60 H V C CNN
-F4 "digikey" 100 -200 60 H I C CNN "Vendor"
-F5 "1486-RS3-2412DZ/H3-CHP" 200 -100 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -200 60 H I C CNN "Vendor"
+F5 "1486-RS3-2412DZ/H3-CHP" 200 -100 60 H I C CNN "Vendor Part Number"
 F6 "DC/DC CONVERTER +/-12V 3W" 300 0 60 H I C CNN "Description"
 DRAW
 S -300 200 300 -200 0 1 0 N
@@ -3077,8 +3077,8 @@ F0 "U" 0 -300 60 H V C CNN
 F1 "CONV_+15V_-15V_SIP8" 0 300 60 H V C CNN
 F2 "footprints:SIP8_RECOM" -100 -400 60 H I C CNN
 F3 "" 0 -300 60 H V C CNN
-F4 "digikey" 100 -200 60 H I C CNN "Vendor"
-F5 "945-2403-5-ND" 200 -100 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -200 60 H I C CNN "Vendor"
+F5 "945-2403-5-ND" 200 -100 60 H I C CNN "Vendor Part Number"
 F6 "CONV DC/DC 3W 9-27VIN +/-15VOUT" 300 0 60 H I C CNN "Description"
 DRAW
 S -300 200 300 -200 0 1 0 N
@@ -3097,8 +3097,8 @@ F0 "U" 0 -300 60 H V C CNN
 F1 "CONV_+9V_-9V_SIP8" 0 300 60 H V C CNN
 F2 "footprints:SIP8_RECOM" -100 -400 60 H I C CNN
 F3 "" 0 -300 60 H V C CNN
-F4 "digikey" 100 -200 60 H I C CNN "Vendor"
-F5 "945-2401-5-ND" 200 -100 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -200 60 H I C CNN "Vendor"
+F5 "945-2401-5-ND" 200 -100 60 H I C CNN "Vendor Part Number"
 F6 "CONV DC/DC 2W 9-36VIN +/-09VOUT" 300 0 60 H I C CNN "Description"
 DRAW
 S -300 200 300 -200 0 1 0 N
@@ -3117,8 +3117,8 @@ F0 "U" 0 -300 60 H V C CNN
 F1 "CONV_12VIN_+12V_-12V" 0 300 60 H V C CNN
 F2 "footprints:XP_DC_DC_ISP" -100 -400 60 H I C CNN
 F3 "" 0 -300 60 H V C CNN
-F4 "digikey" 100 -200 60 H I C CNN "Vendor"
-F5 "1470-1570-5-ND" 200 -100 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -200 60 H I C CNN "Vendor"
+F5 "1470-1570-5-ND" 200 -100 60 H I C CNN "Vendor Part Number"
 F6 "DC/DC CONVERTER +/-12V 2W" 300 0 60 H I C CNN "Description"
 DRAW
 S -300 200 300 -200 0 1 0 N
@@ -3137,8 +3137,8 @@ F0 "U" 0 -300 60 H V C CNN
 F1 "CONV_12VIN_+15V_-15V" 0 300 60 H V C CNN
 F2 "footprints:XP_DC_DC_ISP" -100 -400 60 H I C CNN
 F3 "" 0 -300 60 H V C CNN
-F4 "digikey" 100 -200 60 H I C CNN "Vendor"
-F5 "1470-1572-5-ND" 200 -100 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -200 60 H I C CNN "Vendor"
+F5 "1470-1572-5-ND" 200 -100 60 H I C CNN "Vendor Part Number"
 F6 "DC/DC CONVERTER +/-15V 2W" 300 0 60 H I C CNN "Description"
 DRAW
 S -300 200 300 -200 0 1 0 N
@@ -3172,8 +3172,8 @@ F0 "REG" 200 -300 60 H V C CNN
 F1 "CONV_DC_DC_-12V_12V_1W" 0 100 60 H V C CNN
 F2 "footprints:DC_DC_CONV_RSO" 0 750 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 0 550 60 H I C CNN "Vendor"
-F5 "945-1579-5-ND" 0 650 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 550 60 H I C CNN "Vendor"
+F5 "945-1579-5-ND" 0 650 60 H I C CNN "Vendor Part Number"
 F6 "DC DC CONVERTER +/-12V 1W" 0 450 60 H I C CNN "Description"
 DRAW
 S -300 50 300 -250 0 1 0 N
@@ -3193,8 +3193,8 @@ F0 "REG" 200 -300 60 H V C CNN
 F1 "CONV_DC_DC_12V_1A" 0 100 60 H V C CNN
 F2 "footprints:DC_DC_CONV_R78C" 100 -400 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 0 -200 60 H I C CNN "Vendor"
-F5 "945-1392-5-ND" 0 -100 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 -200 60 H I C CNN "Vendor"
+F5 "945-1392-5-ND" 0 -100 60 H I C CNN "Vendor Part Number"
 F6 "CONV DC/DC 1A 12V OUT SIP VERT" 500 0 60 H I C CNN "Description"
 DRAW
 S -300 50 300 -250 0 1 0 N
@@ -3211,8 +3211,8 @@ F0 "REG" 200 -300 60 H V C CNN
 F1 "CONV_DC_DC_5V_1A" 0 100 60 H V C CNN
 F2 "footprints:DC_DC_CONV_R78C" 100 -400 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 0 -200 60 H I C CNN "Vendor"
-F5 "945-1395-5-ND" 0 -100 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 -200 60 H I C CNN "Vendor"
+F5 "945-1395-5-ND" 0 -100 60 H I C CNN "Vendor Part Number"
 F6 "CONV DC/DC 1A 5V OUT SIP VERT" 500 0 60 H I C CNN "Description"
 DRAW
 S -300 50 300 -250 0 1 0 N
@@ -3229,8 +3229,8 @@ F0 "REG" 200 -300 60 H V C CNN
 F1 "CONV_DC_DC_9V_1A" 0 100 60 H V C CNN
 F2 "footprints:DC_DC_CONV_R78C" 100 -400 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 0 -200 60 H I C CNN "Vendor"
-F5 "945-1396-5-ND" 0 -100 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 -200 60 H I C CNN "Vendor"
+F5 "945-1396-5-ND" 0 -100 60 H I C CNN "Vendor Part Number"
 F6 "CONV DC/DC 1A 9V OUT SIP VERT" 500 0 60 H I C CNN "Description"
 DRAW
 S -300 50 300 -250 0 1 0 N
@@ -3247,8 +3247,8 @@ F0 "U" 0 -250 60 H V C CNN
 F1 "CUR_SEN_+_-5A" 0 250 60 H V C CNN
 F2 "footprints:SOIC_8_LC" -100 -800 60 H I C CNN
 F3 "" 0 -700 60 H I C CNN
-F4 "digikey" 100 -600 60 H I C CNN "Vendor"
-F5 "620-1634-1-ND" 200 -500 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -600 60 H I C CNN "Vendor"
+F5 "620-1634-1-ND" 200 -500 60 H I C CNN "Vendor Part Number"
 F6 "Current Sensor 5A 1 Channel Hall Effect Open Loop Bidirectional 8-SOIC" 300 -400 60 H I C CNN "Description"
 DRAW
 S -350 200 350 -200 0 1 0 N
@@ -3270,8 +3270,8 @@ F0 "J" 20 850 70 H V C CNN
 F1 "DB15FV" -50 -850 70 H V C CNN
 F2 "footprints:DB15FD" -80 750 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 120 950 60 H I C CNN "Vendor"
-F5 "A102054-ND" 220 1050 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 120 950 60 H I C CNN "Vendor"
+F5 "A102054-ND" 220 1050 60 H I C CNN "Vendor Part Number"
 F6 "CONN D-SUB RCPT 15POS VERT GOLD" 320 1150 60 H I C CNN "Description"
 $FPLIST
  DB15*
@@ -3340,8 +3340,8 @@ F0 "J" 0 550 50 H V C CNN
 F1 "DB9F" 0 -575 50 H V C CNN
 F2 "footprints:DB9F" -100 450 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "digikey" 100 650 60 H I C CNN "Vendor"
-F5 "626-1052-ND" 200 750 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 650 60 H I C CNN "Vendor"
+F5 "626-1052-ND" 200 750 60 H I C CNN "Vendor Part Number"
 F6 " CONN D-SUB RCPT 9POS VERT SOLDER" 300 850 60 H I C CNN "Description"
 $FPLIST
  DB*M*
@@ -3386,10 +3386,10 @@ F1 "DB9F_SMD" 0 -575 50 H V C CNN
 F2 "footprints:DB9F_SMD" -100 450 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "CONN D-SUB RCPT 9POS SMD SOLDER" 300 850 60 H I C CNN "Description"
-F5 "HARTING" 0 0 60 H I C CNN "Mfg"
-F6 "09551156612741" 0 0 60 H I C CNN "Mfg PN"
-F7 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F8 "1195-4005-1-ND" 0 0 60 H I C CNN "Supplier PN"
+F5 "HARTING" 0 0 60 H I C CNN "Manufacturer"
+F6 "09551156612741" 0 0 60 H I C CNN "Manufacturer Part Number"
+F7 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F8 "1195-4005-1-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  DB*M*
 $ENDFPLIST
@@ -3432,8 +3432,8 @@ F0 "J" 0 550 50 H V C CNN
 F1 "DB9F_TERM_BLK" 0 -575 50 H V C CNN
 F2 "" -100 450 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "digikey" 100 650 60 H I C CNN "Vendor"
-F5 "277-2668-ND" 200 750 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 650 60 H I C CNN "Vendor"
+F5 "277-2668-ND" 200 750 60 H I C CNN "Vendor Part Number"
 F6 "CONN DSUB RCPT 9POS STR TERM BLK" 300 850 60 H I C CNN "Description"
 $FPLIST
  DB*M*
@@ -3460,8 +3460,8 @@ F0 "J" 0 550 50 H V C CNN
 F1 "DB9M" 0 -575 50 H V C CNN
 F2 "footprints:DB9M" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "digikey" 100 450 60 H I C CNN "Vendor"
-F5 "626-1798-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 450 60 H I C CNN "Vendor"
+F5 "626-1798-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN D-SUB PLUG 9POS VERT SOLDER" 300 250 60 H I C CNN "Description"
 $FPLIST
  DB*M*
@@ -3548,10 +3548,10 @@ F1 "DB9M_SMD" 0 -575 50 H V C CNN
 F2 "footprints:DB9M_SMD" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "CONN D-SUB PLUG 9POS SMD SOLDER" 300 250 60 H I C CNN "Description"
-F5 "HARTING" 0 0 60 H I C CNN "Mfg"
-F6 "09551296812741" 0 0 60 H I C CNN "Mfg PN"
-F7 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F8 "1195-4006-1-ND" 0 0 60 H V C CNN "Supplier PN"
+F5 "HARTING" 0 0 60 H I C CNN "Manufacturer"
+F6 "09551296812741" 0 0 60 H I C CNN "Manufacturer Part Number"
+F7 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F8 "1195-4006-1-ND" 0 0 60 H V C CNN "Vendor Part Number"
 $FPLIST
  DB*M*
 $ENDFPLIST
@@ -3594,8 +3594,8 @@ F0 "J" 0 550 50 H V C CNN
 F1 "DB9M_TERM_BLK" 0 -575 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "digikey" 100 900 60 H I C CNN "Vendor"
-F5 "277-2667-ND" 100 800 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 900 60 H I C CNN "Vendor"
+F5 "277-2667-ND" 100 800 60 H I C CNN "Vendor Part Number"
 F6 "CONN DSUB PLUG 9POS STR TERM BLK" 100 1000 60 H I C CNN "Description"
 $FPLIST
  DB*M*
@@ -3622,8 +3622,8 @@ F0 "SW" 50 50 50 V V C CNN
 F1 "DPST_SERIES_M" -25 25 30 V V C CNN
 F2 "footprints:DPST_SERIES_M" 200 -50 60 H I C CNN
 F3 "" 300 50 60 H V C CNN
-F4 "digikey" 400 150 60 H I C CNN "Vendor"
-F5 "360-3244-ND" 500 250 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 400 150 60 H I C CNN "Vendor"
+F5 "360-3244-ND" 500 250 60 H I C CNN "Vendor Part Number"
 F6 "SWITCH TOGGLE DPST 6A 125V" 600 350 60 H I C CNN "Description"
 DRAW
 C -150 -200 50 0 0 0 N
@@ -3647,8 +3647,8 @@ F0 "U" 350 -200 60 H V C CNN
 F1 "DRV103" 100 300 60 H V C CNN
 F2 "footprints:SOIC_8" 250 -300 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 450 -100 60 H I C CNN "Vendor"
-F5 "296-11622-ND" 550 0 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 450 -100 60 H I C CNN "Vendor"
+F5 "296-11622-ND" 550 0 60 H I C CNN "Vendor Part Number"
 F6 "IC LO-SIDE DRIVER PWM 8SOIC" 650 100 60 H I C CNN "Description"
 DRAW
 S -250 250 250 -250 0 1 0 N
@@ -3670,8 +3670,8 @@ F0 "U" 250 750 40 H V C CNN
 F1 "DRV8846" 0 750 40 H V C CNN
 F2 "footprints:VQFN-4x4-24" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 350 650 60 H I C CNN "Vendor"
-F5 "296-40083-1-ND" 450 550 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 350 650 60 H I C CNN "Vendor"
+F5 "296-40083-1-ND" 450 550 60 H I C CNN "Vendor Part Number"
 F6 "IC MOTOR DRIVER PAR 24VQFN" 550 450 60 H I C CNN "Description"
 DRAW
 S -350 700 350 -700 0 1 0 N
@@ -3709,8 +3709,8 @@ F0 "E" 250 -350 60 H V C CNN
 F1 "ENCODER_62A11-02-P" -150 0 60 V V C CNN
 F2 "footprints:ENCODER_62AVD" 150 -450 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 350 -250 60 H I C CNN "Vendor"
-F5 "GH7384-ND" 450 -150 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 350 -250 60 H I C CNN "Vendor"
+F5 "GH7384-ND" 450 -150 60 H I C CNN "Vendor Part Number"
 F6 "ENCODER OPT 1/2in 32POS PB PC MNT" 550 -50 60 H I C CNN "Description"
 DRAW
 S -100 300 300 -300 0 1 0 N
@@ -3748,8 +3748,8 @@ F0 "E" 0 -350 60 H V C CNN
 F1 "ENCODER_C14" 0 350 60 H V C CNN
 F2 "footprints:Micro-MaTch_6_SMD" -100 -450 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 -250 60 H I C CNN "Vendor"
-F5 "A99474CT-ND" 200 -150 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -250 60 H I C CNN "Vendor"
+F5 "A99474CT-ND" 200 -150 60 H I C CNN "Vendor Part Number"
 F6 "CONN FMALE-ON-BRD 6POS VERT SMD" 300 -50 60 H I C CNN "Description"
 DRAW
 S 50 300 -250 -300 0 1 0 N
@@ -3769,8 +3769,8 @@ F0 "F" 250 550 50 H V C CNN
 F1 "FAN_40x40x10MM_24V" 550 0 50 V V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "digikey" 0 0 50 H I C CNN "Vendor"
-F5 "381-2367-ND" 0 0 50 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 0 50 H I C CNN "Vendor"
+F5 "381-2367-ND" 0 0 50 H I C CNN "Vendor Part Number"
 F6 "FAN AXIAL 40X10MM 24VDC WIRE" 0 0 50 H I C CNN "Description"
 DRAW
 C -400 -400 50 0 1 0 N
@@ -3791,8 +3791,8 @@ F0 "U" 0 -200 40 H V C CNN
 F1 "HALL_DRV5053_CA_+35mT" 0 200 40 H V C CNN
 F2 "footprints:SOT-23-3" -100 -300 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 -100 60 H I C CNN "Vendor"
-F5 "296-38455-1-ND" 200 0 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -100 60 H I C CNN "Vendor"
+F5 "296-38455-1-ND" 200 0 60 H I C CNN "Vendor Part Number"
 F6 "IC HALL SENSOR CA +35mT" 300 100 60 H I C CNN "Description"
 DRAW
 S -100 150 100 -150 0 1 0 N
@@ -3809,8 +3809,8 @@ F0 "U" 0 -200 40 H V C CNN
 F1 "HALL_DRV5053_EA_+18mT" 0 200 40 H V C CNN
 F2 "footprints:SOT-23-3" -100 -300 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 -100 60 H I C CNN "Vendor"
-F5 "296-38456-1-ND" 200 0 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -100 60 H I C CNN "Vendor"
+F5 "296-38456-1-ND" 200 0 60 H I C CNN "Vendor Part Number"
 F6 "IC HALL SENSOR EA +18mT" 300 100 60 H I C CNN "Description"
 DRAW
 S -100 150 100 -150 0 1 0 N
@@ -3827,8 +3827,8 @@ F0 "U" 0 -200 40 H V C CNN
 F1 "HALL_DRV5053_OA_-73mT" 0 200 40 H V C CNN
 F2 "footprints:SOT-23-3" -100 -300 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 -100 60 H I C CNN "Vendor"
-F5 "296-38457-1-ND" 200 0 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -100 60 H I C CNN "Vendor"
+F5 "296-38457-1-ND" 200 0 60 H I C CNN "Vendor Part Number"
 F6 "IC HALL SENSOR OA -73mT" 300 100 60 H I C CNN "Description"
 DRAW
 S -100 150 100 -150 0 1 0 N
@@ -3845,8 +3845,8 @@ F0 "U" 0 -200 40 H V C CNN
 F1 "HALL_DRV5053_PA_-35mT" 0 200 40 H V C CNN
 F2 "footprints:SOT-23-3" -100 -300 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 -100 60 H I C CNN "Vendor"
-F5 "296-38458-1-ND" 200 0 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -100 60 H I C CNN "Vendor"
+F5 "296-38458-1-ND" 200 0 60 H I C CNN "Vendor Part Number"
 F6 "IC HALL SENSOR PA -35mT" 300 100 60 H I C CNN "Description"
 DRAW
 S -100 150 100 -150 0 1 0 N
@@ -3863,8 +3863,8 @@ F0 "U" 0 -200 40 H V C CNN
 F1 "HALL_DRV5053_RA_-18mT" 0 200 40 H V C CNN
 F2 "footprints:SOT-23-3" -100 -300 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 -100 60 H I C CNN "Vendor"
-F5 "296-38459-1-ND" 200 0 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -100 60 H I C CNN "Vendor"
+F5 "296-38459-1-ND" 200 0 60 H I C CNN "Vendor Part Number"
 F6 "IC HALL SENSOR RA -18mT" 300 100 60 H I C CNN "Description"
 DRAW
 S -100 150 100 -150 0 1 0 N
@@ -3881,8 +3881,8 @@ F0 "U" 0 -200 40 H V C CNN
 F1 "HALL_DRV5053_VA_-9mT" 0 200 40 H V C CNN
 F2 "footprints:SOT-23-3" -100 -300 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 -100 60 H I C CNN "Vendor"
-F5 "296-38460-1-ND" 200 0 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -100 60 H I C CNN "Vendor"
+F5 "296-38460-1-ND" 200 0 60 H I C CNN "Vendor Part Number"
 F6 "IC HALL SENSOR VA -9mT" 300 100 60 H I C CNN "Description"
 DRAW
 S -100 150 100 -150 0 1 0 N
@@ -3899,8 +3899,8 @@ F0 "S" 0 150 50 H V C CNN
 F1 "HEADER_01X02" 100 0 50 V V C CNN
 F2 "footprints:HEADER_01x02" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "609-3500-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "609-3500-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER 2POS .100 VERT GOLD" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -3924,8 +3924,8 @@ F0 "S" 0 150 50 H V C CNN
 F1 "HEADER_01X02_POL" 100 0 50 V V C CNN
 F2 "power_switch_controller:Header_Shrouded_2_Pin" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "WM4800-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "WM4800-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER 2POS .100 VERT GOLD" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -3951,8 +3951,8 @@ F0 "S" 0 150 50 H V C CNN
 F1 "HEADER_01X02_SHR" 100 0 50 V V C CNN
 F2 "footprints:Header_Shrouded_2_Pin" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "WM4800-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "WM4800-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER 2POS .100 VERT GOLD" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -3976,8 +3976,8 @@ F0 "S" 0 150 50 H V C CNN
 F1 "HEADER_01X02_SMD" 100 0 50 V V C CNN
 F2 "footprints:Header_2_Pin_SMD" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "WM9852-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "WM9852-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN BREAKAWAY SMD HDR 2POS" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -4001,8 +4001,8 @@ F0 "S" 0 150 50 H V C CNN
 F1 "HEADER_01X02_SMD_N" 100 0 50 V V C CNN
 F2 "footprints:Header_2_Pin_SMD_N" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "WM9852-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "WM9852-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN BREAKAWAY SMD HDR 2POS" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -4026,8 +4026,8 @@ F0 "P" 0 150 50 H V C CNN
 F1 "HEADER_01X02_SMD_RA" 100 0 50 V V C CNN
 F2 "footprints:Header_2_Pin_SMD_RA" -100 50 50 H I C CNN
 F3 "" 0 150 50 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "A100903CT-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "A100903CT-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER 2POS R/A SMD GOLD" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -4051,8 +4051,8 @@ F0 "P" 0 150 50 H V C CNN
 F1 "HEADER_01X02_SMD_RA_UNSHR" 100 0 50 V V C CNN
 F2 "footprints:Header_2_Pin_SMD_RA_UNSHR" -100 50 50 H I C CNN
 F3 "" 0 150 50 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "SAM10781-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "SAM10781-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER 2POS .100in SNGL SMD" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -4076,8 +4076,8 @@ F0 "S" 0 150 50 H V C CNN
 F1 "HEADER_01X02_SMD_SHR" 100 0 25 V V C CNN
 F2 "footprints:Header_2_Pin_SMD_SHR" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "A121539CT-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "A121539CT-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER 2POS IDC SMD 30GOLD" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -4101,8 +4101,8 @@ F0 "P" 0 200 50 H V C CNN
 F1 "HEADER_01X03" 100 0 50 V V C CNN
 F2 "footprints:Header_3_Pin" -100 100 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 300 60 H I C CNN "Vendor"
-F5 "609-3461-ND" 200 400 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 300 60 H I C CNN "Vendor"
+F5 "609-3461-ND" 200 400 60 H I C CNN "Vendor Part Number"
 F6 "01x03 .100 SR STRAIGHT" 300 500 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X03
@@ -4128,8 +4128,8 @@ F0 "P" 0 200 50 H V C CNN
 F1 "HEADER_01X03_RA" 100 0 50 V V C CNN
 F2 "footprints:Header_3_Pin_RA" -100 100 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 300 60 H I C CNN "Vendor"
-F5 "732-5336-ND" 200 400 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 300 60 H I C CNN "Vendor"
+F5 "732-5336-ND" 200 400 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER 3 POS RA 2.54" 300 500 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X03
@@ -4155,8 +4155,8 @@ F0 "P" 0 200 50 H V C CNN
 F1 "HEADER_01X03_SHR" 100 0 50 V V C CNN
 F2 "aalborg_mfc_interface:Header_Shrouded_3_Pin" -100 100 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 300 60 H I C CNN "Vendor"
-F5 "WM4801-ND" 200 400 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 300 60 H I C CNN "Vendor"
+F5 "WM4801-ND" 200 400 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER 3POS .100 VERT GOLD" 300 500 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X03
@@ -4182,8 +4182,8 @@ F0 "P" 0 200 50 H V C CNN
 F1 "HEADER_01X03_SMD_F" 100 0 50 V V C CNN
 F2 "footprints:Header_3_Pin_SMD_F" -100 100 60 H I C CNN
 F3 "" 0 200 60 H V C CNN
-F4 "digikey" 100 300 60 H I C CNN "Vendor"
-F5 "S5595-ND" 200 400 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 300 60 H I C CNN "Vendor"
+F5 "S5595-ND" 200 400 60 H I C CNN "Vendor Part Number"
 F6 "Connector Header 3 Position 0.100 SMD" 300 500 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X03
@@ -4209,8 +4209,8 @@ F0 "P" 0 200 50 H V C CNN
 F1 "HEADER_01X03_SMD_RA" 100 0 50 V V C CNN
 F2 "footprints:Header_3_Pin_SMD_RA" -100 100 60 H I C CNN
 F3 "" 0 200 60 H V C CNN
-F4 "digikey" 100 300 60 H I C CNN "Vendor"
-F5 "A100890CT-ND" 200 400 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 300 60 H I C CNN "Vendor"
+F5 "A100890CT-ND" 200 400 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER 3POS R/A SMD GOLD" 300 500 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X03
@@ -4236,8 +4236,8 @@ F0 "P" 0 300 50 H V C CNN
 F1 "HEADER_01X05_SHR" 100 0 50 V V C CNN
 F2 "footprints:Header_Shrouded_5_Pin" -100 200 50 H I C CNN
 F3 "" 0 300 50 H V C CNN
-F4 "digikey" 100 400 60 H I C CNN "Vendor"
-F5 "WM4803-ND" 200 500 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 400 60 H I C CNN "Vendor"
+F5 "WM4803-ND" 200 500 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER 5POS .100 VERT GOLD" 300 600 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X05
@@ -4267,8 +4267,8 @@ F0 "P" 0 300 50 H V C CNN
 F1 "HEADER_01X05_SMD_SHR" 100 0 50 V V C CNN
 F2 "footprints:Header_Shrouded_5_Pin_SMD" -100 200 50 H I C CNN
 F3 "" 0 300 50 H V C CNN
-F4 "digikey" 100 400 60 H I C CNN "Vendor"
-F5 "WM7205-ND" 200 500 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 400 60 H I C CNN "Vendor"
+F5 "WM7205-ND" 200 500 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER .100 VERT 5POS SMD" 300 600 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X05
@@ -4298,8 +4298,8 @@ F0 "P" 0 200 50 H V C CNN
 F1 "HEADER_02X03" 0 -200 50 H V C CNN
 F2 "footprints:HEADER_02x03" 0 -1200 60 H I C CNN
 F3 "" 0 -1200 60 H V C CNN
-F4 "digikey" 100 400 60 H I C CNN "Vendor"
-F5 "732-5394-ND" 200 500 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 400 60 H I C CNN "Vendor"
+F5 "732-5394-ND" 200 500 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER 6POS 2.54" 300 600 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_2X05
@@ -4331,8 +4331,8 @@ F0 "P" 0 200 50 H V C CNN
 F1 "HEADER_02X03_FEMALE" 0 -200 50 H V C CNN
 F2 "footprints:HEADER_02x03_FEMALE" 0 -1200 60 H I C CNN
 F3 "" 0 -1200 60 H V C CNN
-F4 "digikey" 100 400 60 H I C CNN "Vendor"
-F5 "S7106-ND" 200 500 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 400 60 H I C CNN "Vendor"
+F5 "S7106-ND" 200 500 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER FMAL 6PS 0.1IN DL GOLD" 300 600 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_2X05
@@ -4364,8 +4364,8 @@ F0 "P" 0 200 50 H V C CNN
 F1 "HEADER_02X03_FEMALE_SMD" 0 -200 50 H V C CNN
 F2 "footprints:HEADER_02x03_FEMALE_SMD" 0 -1200 60 H I C CNN
 F3 "" 0 -1200 60 H V C CNN
-F4 "digikey" 100 400 60 H I C CNN "Vendor"
-F5 "S5712-ND" 200 500 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 400 60 H I C CNN "Vendor"
+F5 "S5712-ND" 200 500 60 H I C CNN "Vendor Part Number"
 F6 "CONN FEMALE 6POS DL .1IN GOLD SMD" 300 600 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_2X05
@@ -4397,8 +4397,8 @@ F0 "P" 0 250 50 H V C CNN
 F1 "HEADER_02X04" 0 -250 50 H V C CNN
 F2 "footprints:HEADER_02x04" 0 -1200 60 H I C CNN
 F3 "" 0 -1200 60 H V C CNN
-F4 "digikey" 100 350 60 H I C CNN "Vendor"
-F5 "732-5395-ND" 200 450 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 350 60 H I C CNN "Vendor"
+F5 "732-5395-ND" 200 450 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER 8POS 2.54" 300 550 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_2X04
@@ -4434,8 +4434,8 @@ F0 "P" 0 300 50 H V C CNN
 F1 "HEADER_02X05_SMD" 0 -300 50 H V C CNN
 F2 "footprints:HEADER_02x05_SMD" 0 -1200 60 H I C CNN
 F3 "" 0 -1200 60 H V C CNN
-F4 "digikey" 100 400 60 H I C CNN "Vendor"
-F5 "S9185-ND" 200 500 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 400 60 H I C CNN "Vendor"
+F5 "S9185-ND" 200 500 60 H I C CNN "Vendor Part Number"
 F6 "CONN_HEADR_2.54MM_10POS_GOLD_SMD" 300 600 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_2X05
@@ -4475,8 +4475,8 @@ F0 "P" 0 400 50 H V C CNN
 F1 "HEADER_02X07_SMD" 0 -400 50 H V C CNN
 F2 "footprints:HEADER_02x07_SMD" 0 -1200 60 H I C CNN
 F3 "" 0 -1200 60 H V C CNN
-F4 "digikey" 100 500 60 H I C CNN "Vendor"
-F5 "S9186-ND" 200 600 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 500 60 H I C CNN "Vendor"
+F5 "S9186-ND" 200 600 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADR 2.54MM 14POS GOLD SMD" 300 700 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_2X07
@@ -4524,8 +4524,8 @@ F0 "P" 0 450 50 H V C CNN
 F1 "HEADER_02X08" 0 0 50 V V C CNN
 F2 "footprints:HEADER_02x08" 0 -1200 60 H I C CNN
 F3 "" 0 -1200 60 H V C CNN
-F4 "digikey" 100 550 60 H I C CNN "Vendor"
-F5 "A33163-ND" 200 650 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 550 60 H I C CNN "Vendor"
+F5 "A33163-ND" 200 650 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER LOPRO STR 16POS GOLD" 300 750 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_2X08
@@ -4577,8 +4577,8 @@ F0 "P" 0 450 50 H V C CNN
 F1 "HEADER_02X08_SMD" 0 0 50 V V C CNN
 F2 "footprints:HEADER_02x08_SMD" 0 -1200 60 H I C CNN
 F3 "" 0 -1200 60 H V C CNN
-F4 "digikey" 100 550 60 H I C CNN "Vendor"
-F5 "S9187-ND" 200 650 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 550 60 H I C CNN "Vendor"
+F5 "S9187-ND" 200 650 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADR 2.54MM 16POS GOLD SMD" 300 750 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_2X08
@@ -4630,8 +4630,8 @@ F0 "P" 0 850 50 H V C CNN
 F1 "HEADER_02X16" 0 0 50 V V C CNN
 F2 "footprints:HEADER_02x16" 0 -1100 60 H I C CNN
 F3 "" 0 -1100 60 H V C CNN
-F4 "digikey" 100 950 60 H I C CNN "Vendor"
-F5 "609-3368-ND" 200 1050 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 950 60 H I C CNN "Vendor"
+F5 "609-3368-ND" 200 1050 60 H I C CNN "Vendor Part Number"
 F6 "CONN HEADER 32POS .100 STR 30AU" 300 1150 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_2X16
@@ -4715,8 +4715,8 @@ F0 "P" 0 1650 50 H V C CNN
 F1 "HEADER_02x32" 0 0 50 V V C CNN
 F2 "footprints:HEADER_02x32" 0 -400 60 H I C CNN
 F3 "" 0 -400 60 H V C CNN
-F4 "digikey" 100 1750 60 H I C CNN "Vendor"
-F5 "OR970-ND" 200 1850 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 1750 60 H I C CNN "Vendor"
+F5 "OR970-ND" 200 1850 60 H I C CNN "Vendor Part Number"
 F6 "CONN PLUG 64POS 3A 300V STRT DIP" 300 1950 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_2X32
@@ -4864,8 +4864,8 @@ F0 "P" 0 1250 50 H V C CNN
 F1 "HEADER_03X16" 0 -1250 50 H V C CNN
 F2 "footprints:HEADER_03x16" 0 2350 60 H I C CNN
 F3 "" 0 -1100 60 H V C CNN
-F4 "digikey" 0 2050 60 H I C CNN "Vendor"
-F5 "SAM12360-ND" 0 2150 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 2050 60 H I C CNN "Vendor"
+F5 "SAM12360-ND" 0 2150 60 H I C CNN "Vendor Part Number"
 F6 "TSW-116-07-L-T" 0 2250 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_2X16
@@ -5030,7 +5030,7 @@ F1 "IM483H" 0 750 60 H V C CNN
 F2 "footprints:IM483H_IM805H_PR-22" 0 1050 60 H I C CNN
 F3 "" 300 750 60 H V C CNN
 F4 "schneider" 0 1150 60 H I C CNN "Vendor"
-F5 "IM483H_Plus" 0 1250 60 H I C CNN "PartNumber"
+F5 "IM483H_Plus" 0 1250 60 H I C CNN "Vendor Part Number"
 F6 "Microstepping driver 12-48 VDC 3.0 amps RMS" 0 1350 60 H I C CNN "Description"
 DRAW
 S -400 700 400 -700 0 1 0 N
@@ -5127,8 +5127,8 @@ F0 "J" 0 450 60 H V C CNN
 F1 "JOYSTICK" -200 100 60 V V C CNN
 F2 "footprints:JOYSTICK" -100 350 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 100 550 60 H I C CNN "Vendor"
-F5 "GH7455-ND" 200 650 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 550 60 H I C CNN "Vendor"
+F5 "GH7455-ND" 200 650 60 H I C CNN "Vendor Part Number"
 F6 "Navigation Switch 2 Axis Digital" 300 750 60 H I C CNN "Description"
 DRAW
 S 150 400 -150 -200 0 1 0 N
@@ -5147,8 +5147,8 @@ F0 "SW" 0 -50 40 H V C CNN
 F1 "KT_SWITCH" 0 100 40 H V C CNN
 F2 "footprints:KT_SWITCH" -100 -200 60 H I C CNN
 F3 "" 0 -50 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "CKN1860CT-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "CKN1860CT-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "SWITCH TACTILE SPST-NO 1VA 32V" 300 400 60 H I C CNN "Description"
 DRAW
 C -125 0 25 0 1 0 N
@@ -5166,8 +5166,8 @@ F0 "U" 200 850 60 H V C CNN
 F1 "L298" -150 850 60 H V C CNN
 F2 "footprints:POWERSO20" 0 1100 60 H I C CNN
 F3 "" 200 850 60 H V C CNN
-F4 "digikey" 0 1200 60 H I C CNN "Vendor"
-F5 "497-3624-1-ND" 0 1300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 1200 60 H I C CNN "Vendor"
+F5 "497-3624-1-ND" 0 1300 60 H I C CNN "Vendor Part Number"
 F6 "IC BRIDGE DRIVER PAR 20POWERSO" 0 1400 60 H I C CNN "Description"
 DRAW
 S 250 800 -250 -200 0 1 0 N
@@ -5199,8 +5199,8 @@ F0 "U" 500 -900 60 H V C CNN
 F1 "L6470" -400 -900 60 H V C CNN
 F2 "footprints:POWERSO-36" 0 1650 60 H I C CNN
 F3 "" 400 500 60 H V C CNN
-F4 "digikey" 0 1550 60 H I C CNN "Vendor"
-F5 "497-16432-1-ND" 0 1750 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 1550 60 H I C CNN "Vendor"
+F5 "497-16432-1-ND" 0 1750 60 H I C CNN "Vendor Part Number"
 F6 "Bipolar Motor Driver DMOS SPI PowerSO-36" 0 1850 60 H I C CNN "Description"
 DRAW
 S -550 700 550 -850 0 1 0 N
@@ -5251,8 +5251,8 @@ F0 "L" 0 100 50 H V C CNN
 F1 "LED_24V" 0 -100 50 H V C CNN
 F2 "footprints:LED_555-3XXX" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "350-1723-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "350-1723-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "LED 2MM 24V VERTICAL RED PC MNT" 300 400 60 H I C CNN "Description"
 $FPLIST
  LED-3MM
@@ -5281,10 +5281,10 @@ F1 "LED_24V_RED" 0 -100 50 H V C CNN
 F2 "footprints:LED_555-3XXX_R" -100 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 F4 "LED 2MM 24V VERTICAL RED PC MNT" 300 400 60 H I C CNN "Description"
-F5 "Dialight" 0 0 60 H I C CNN "Mfg"
-F6 "5553008F" 0 0 60 H I C CNN "Mfg PN"
-F7 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F8 "350-1723-ND" 0 0 60 H I C CNN "Supplier PN"
+F5 "Dialight" 0 0 60 H I C CNN "Manufacturer"
+F6 "5553008F" 0 0 60 H I C CNN "Manufacturer Part Number"
+F7 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F8 "350-1723-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  LED-3MM
  LED-5MM
@@ -5311,8 +5311,8 @@ F0 "D" 0 100 50 H V C CNN
 F1 "LED_24V_RED_SMD" 0 -100 50 H V C CNN
 F2 "footprints:LED_555-3XXX_SMD" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "350-1723-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "350-1723-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "LED 2MM 24V VERTICAL RED PC MNT" 300 400 60 H I C CNN "Description"
 $FPLIST
  LED-3MM
@@ -5340,8 +5340,8 @@ F0 "D" 0 100 50 H V C CNN
 F1 "LED_24V_SMD" 0 -100 50 H V C CNN
 F2 "footprints:LED_555-3XXX_SMD" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "350-1723-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "350-1723-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "LED 2MM 24V VERTICAL RED PC MNT" 300 400 60 H I C CNN "Description"
 $FPLIST
  LED-3MM
@@ -5369,8 +5369,8 @@ F0 "L" 0 100 50 H V C CNN
 F1 "LED_5MM_5V_GRN" 0 -100 50 H V C CNN
 F2 "footprints:LED_550-XX04_G" -100 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "350-1611-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "350-1611-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "LED 5MM 5V VERTICAL GREEN PC MNT" 300 400 60 H I C CNN "Description"
 $FPLIST
  LED-3MM
@@ -5398,8 +5398,8 @@ F0 "L" 0 100 50 H V C CNN
 F1 "LED_5MM_5V_YEL" 0 -100 50 H V C CNN
 F2 "footprints:LED_550-XX04_Y" -100 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "350-1615-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "350-1615-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "LED 5MM 5V VERTICAL YELLOW PCMNT" 300 400 60 H I C CNN "Description"
 $FPLIST
  LED-3MM
@@ -5428,10 +5428,10 @@ F1 "LED_5V_GRN" 0 -100 50 H V C CNN
 F2 "footprints:LED_555-3XXX_G" -100 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 F4 "LED 2MM 5V VERTICAL GREEN PC MNT" 300 400 60 H I C CNN "Description"
-F5 "Dialight" 0 0 60 H I C CNN "Mfg"
-F6 "5553303F" 0 0 60 H I C CNN "Mfg PN"
-F7 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F8 "350-1726-ND" 0 0 60 H I C CNN "Supplier PN"
+F5 "Dialight" 0 0 60 H I C CNN "Manufacturer"
+F6 "5553303F" 0 0 60 H I C CNN "Manufacturer Part Number"
+F7 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F8 "350-1726-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  LED-3MM
  LED-5MM
@@ -5458,8 +5458,8 @@ F0 "L" 0 100 50 H V C CNN
 F1 "LED_5V_GRN_RA" 0 -100 50 H V C CNN
 F2 "footprints:LED_555-2XXX" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "350-1717-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "350-1717-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "LED 2MM 5V RT ANGLE GREEN PCMNT" 300 400 60 H I C CNN "Description"
 $FPLIST
  LED-3MM
@@ -5487,8 +5487,8 @@ F0 "L" 0 100 50 H V C CNN
 F1 "LED_5V_RED" 0 -100 50 H V C CNN
 F2 "footprints:LED_555-3XXX_R" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "350-1722-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "350-1722-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "LED 2MM 5V VERTICAL RED PC MNT" 300 400 60 H I C CNN "Description"
 $FPLIST
  LED-3MM
@@ -5516,8 +5516,8 @@ F0 "L" 0 100 50 H V C CNN
 F1 "LED_5V_RED_RA" 0 -100 50 H V C CNN
 F2 "footprints:LED_555-2XXX" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "350-1712-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "350-1712-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "LED 2MM 5V RT ANGLE RED PCMNT" 300 400 60 H I C CNN "Description"
 $FPLIST
  LED-3MM
@@ -5545,8 +5545,8 @@ F0 "L" 0 100 50 H V C CNN
 F1 "LED_5V_YEL" 0 -100 50 H V C CNN
 F2 "footprints:LED_555-3XXX" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "350-1728-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "350-1728-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "LED 2MM 5V VERTICAL YELLOW PC MNT" 300 400 60 H I C CNN "Description"
 $FPLIST
  LED-3MM
@@ -5574,8 +5574,8 @@ F0 "L" 0 100 50 H V C CNN
 F1 "LED_5V_YEL_RA" 0 -100 50 H V C CNN
 F2 "footprints:LED_555-2XXX" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "350-1719-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "350-1719-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "LED 2MM 5V RT ANGLE YELLOW PCMNT" 300 400 60 H I C CNN "Description"
 $FPLIST
  LED-3MM
@@ -5603,8 +5603,8 @@ F0 "D" 0 100 50 H V C CNN
 F1 "LED_850NM_RADIAL" 0 -100 40 H V C CNN
 F2 "" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "751-1213-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "751-1213-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "EMITTER IR 850NM 100MA RADIAL" 300 400 60 H I C CNN "Description"
 $FPLIST
  LED-3MM
@@ -5632,8 +5632,8 @@ F0 "L" 100 250 50 H V C CNN
 F1 "LED_DOUBLE_IR" 250 0 50 V V C CNN
 F2 "" -100 100 60 V I C CNN
 F3 "" -100 0 60 V I C CNN
-F4 "digikey" 0 750 60 H I C CNN "Vendor"
-F5 "475-2864-2-ND" 0 850 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 750 60 H I C CNN "Vendor"
+F5 "475-2864-2-ND" 0 850 60 H I C CNN "Vendor Part Number"
 F6 "EMITTER IR 860NM 100MA SMD" 0 950 60 H I C CNN "Description"
 F7 "2" 0 1050 50 H I C CNN "Quantity"
 $FPLIST
@@ -5677,8 +5677,8 @@ F0 "FR" 400 250 50 H V C CNN
 F1 "LED_FLEX_RBN_WHT_6000K_24V_4M" 0 550 50 H V C CNN
 F2 "" -100 -100 60 V I C CNN
 F3 "" -100 0 60 V I C CNN
-F4 "digikey" 0 750 60 H I C CNN "Vendor"
-F5 "289-1240-ND" 0 850 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 750 60 H I C CNN "Vendor"
+F5 "289-1240-ND" 0 850 60 H I C CNN "Vendor Part Number"
 F6 "LED FLEX RIBBON 24V WHT 4M" 0 950 60 H I C CNN "Description"
 $FPLIST
  LED-3MM
@@ -5768,10 +5768,10 @@ F2 "footprints:LED0805" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "LED GREEN CLEAR SMD" 300 400 60 H I C CNN "Description"
 F5 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
-F6 "Lite-On Inc." 0 0 60 H I C CNN "Mfg"
-F7 "LTST-C170GKT" 0 0 60 H I C CNN "Mfg PN"
-F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F9 "160-1179-1-ND" 0 0 60 H I C CNN "Supplier PN"
+F6 "Lite-On Inc." 0 0 60 H I C CNN "Manufacturer"
+F7 "LTST-C170GKT" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F9 "160-1179-1-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  LED-3MM
  LED-5MM
@@ -5800,10 +5800,10 @@ F2 "backlight_controller_5x3:LED0805" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "LED ORANGE CLEAR SMD" 300 400 60 H I C CNN "Description"
 F5 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
-F6 "Lite-On Inc." 0 0 60 H I C CNN "Mfg"
-F7 "LTST-C170AKT" 0 0 60 H I C CNN "Mfg PN"
-F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F9 "160-1177-1-ND" 0 0 60 H I C CNN "Supplier PN"
+F6 "Lite-On Inc." 0 0 60 H I C CNN "Manufacturer"
+F7 "LTST-C170AKT" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F9 "160-1177-1-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  LED-3MM
  LED-5MM
@@ -5832,10 +5832,10 @@ F2 "footprints:LED0805" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "LED RED CLEAR SMD" 300 400 60 H I C CNN "Description"
 F5 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
-F6 "Lite-On Inc." 0 0 60 H I C CNN "Mfg"
-F7 "LTST-C170EKT" 0 0 60 H I C CNN "Mfg PN"
-F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F9 "160-1178-1-ND" 0 0 60 H I C CNN "Supplier PN"
+F6 "Lite-On Inc." 0 0 60 H I C CNN "Manufacturer"
+F7 "LTST-C170EKT" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F9 "160-1178-1-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  LED-3MM
  LED-5MM
@@ -5864,10 +5864,10 @@ F2 "footprints:LED0805" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "LED YELLOW CLEAR SMD" 300 400 60 H I C CNN "Description"
 F5 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
-F6 "Lite-On Inc." 0 0 60 H I C CNN "Mfg"
-F7 "LTST-C170YKT" 0 0 60 H I C CNN "Mfg PN"
-F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F9 "160-1175-1-ND" 0 0 60 H I C CNN "Supplier PN"
+F6 "Lite-On Inc." 0 0 60 H I C CNN "Manufacturer"
+F7 "LTST-C170YKT" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F9 "160-1175-1-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  LED-3MM
  LED-5MM
@@ -5894,8 +5894,8 @@ F0 "S" 0 150 50 H V C CNN
 F1 "LEECO_LFAA" 100 0 50 V V C CNN
 F2 "footprints:LEECO_LFAA" -100 50 60 H I C CNN
 F3 "" 0 150 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "ED1013-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "ED1013-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN RECEPT PIN .032-.046in .240in" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -5919,8 +5919,8 @@ F0 "S" 0 150 50 H V C CNN
 F1 "LEECO_LHDB" 100 0 50 V V C CNN
 F2 "footprints:LEECO_LHDB" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "ED90331-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "ED90331-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN RCPT PIN .025-.037in SOLDER" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -5944,8 +5944,8 @@ F0 "U" 400 300 60 H V C CNN
 F1 "LM48310" -350 300 60 H V C CNN
 F2 "footprints:10-WFDFN_EXPOSED_PAD" 300 200 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 500 400 60 H I C CNN "Vendor"
-F5 "LM48310SD/NOPBCT-ND" 600 500 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 500 400 60 H I C CNN "Vendor"
+F5 "LM48310SD/NOPBCT-ND" 600 500 60 H I C CNN "Vendor Part Number"
 F6 "IC AMP AUDIO PWR 2.6W MONO 10SON" 700 600 60 H I C CNN "Description"
 DRAW
 S -500 250 500 -250 0 1 0 N
@@ -5969,8 +5969,8 @@ F0 "J" 0 300 50 H V C CNN
 F1 "M12-5-RCPT_F" 0 -300 50 H V C CNN
 F2 "footprints:M12-5_RCPT_F" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "277-10962-ND" 200 100 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "277-10962-ND" 200 100 60 H I C CNN "Vendor Part Number"
 F6 "CONN RCPT FMALE 5POS GOLD SOLDER" 300 0 60 H I C CNN "Description"
 $FPLIST
  Connector*:*_1x??_*
@@ -6002,10 +6002,10 @@ F1 "M12-5-RCPT_F_SMD" 0 -300 50 H V C CNN
 F2 "footprints:M12-5_RCPT_F_SMD" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "CONN FMALE INSERT 5POS SOLDER" 300 0 60 H I C CNN "Description"
-F5 "Phoenix Contact" 0 0 60 H I C CNN "Mfg"
-F6 "1411976" 0 0 60 H I C CNN "Mfg PN"
-F7 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F8 "277-10282-1-ND	" 0 0 60 H I C CNN "Supplier PN"
+F5 "Phoenix Contact" 0 0 60 H I C CNN "Manufacturer"
+F6 "1411976" 0 0 60 H I C CNN "Manufacturer Part Number"
+F7 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F8 "277-10282-1-ND	" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  Connector*:*_1x??_*
 $ENDFPLIST
@@ -6035,8 +6035,8 @@ F0 "U" 0 -250 40 H V C CNN
 F1 "MAX4215" 0 250 40 H V C CNN
 F2 "footprints:SOIC_8_N" -100 -350 60 H I C CNN
 F3 "" 0 -250 60 H V C CNN
-F4 "digikey" 100 -150 60 H I C CNN "Vendor"
-F5 "MAX4215ESA+-ND" 200 -50 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -150 60 H I C CNN "Vendor"
+F5 "MAX4215ESA+-ND" 200 -50 60 H I C CNN "Vendor Part Number"
 F6 "IC OPAMP BUFFER 230MHZ RRO 8SOIC" 300 50 60 H I C CNN "Description"
 DRAW
 S -200 200 200 -200 0 1 0 N
@@ -6074,8 +6074,8 @@ F0 "U" 200 -250 60 H V C CNN
 F1 "MAX6817" 200 250 60 H V C CNN
 F2 "footprints:MAX6817" 0 -750 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 0 -950 60 H I C CNN "Vendor"
-F5 "MAX6817EUT+TCT-ND" 0 -850 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 -950 60 H I C CNN "Vendor"
+F5 "MAX6817EUT+TCT-ND" 0 -850 60 H I C CNN "Vendor Part Number"
 F6 "IC DEBOUNCER SWITCH DUAL SOT23-6" 0 -650 60 H I C CNN "Description"
 DRAW
 S -300 200 300 -200 0 1 0 N
@@ -6095,8 +6095,8 @@ F0 "SW" 0 -50 40 H V C CNN
 F1 "MEC_SWITCH" 0 100 40 H V C CNN
 F2 "footprints:MEC_SWITCH" -100 -200 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "679-2218-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "679-2218-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "SWITCH TACTILE SPST-NO 0.05A 24V" 300 400 60 H I C CNN "Description"
 DRAW
 C -125 0 25 0 1 0 N
@@ -6115,10 +6115,10 @@ F1 "MINI_FIT_JR_02X03_M_RA" -200 0 50 V V C CNN
 F2 "footprints:MINI-FIT-JR_02X03_M_RA" 0 -1200 60 H I C CNN
 F3 "" 0 -1200 60 H I C CNN
 F4 "CONN HEADER 6POS 4.2MM R/A TIN" 300 600 60 H I C CNN "Description"
-F5 "Molex" 0 0 60 H I C CNN "Mfg"
-F6 "0039301060" 0 0 60 H I C CNN "Mfg PN"
-F7 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F8 "WM1353-ND" 0 0 60 H I C CNN "Supplier PN"
+F5 "Molex" 0 0 60 H I C CNN "Manufacturer"
+F6 "0039301060" 0 0 60 H I C CNN "Manufacturer Part Number"
+F7 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F8 "WM1353-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  Pin_Header_Straight_2X05
  Pin_Header_Angled_2X05
@@ -6149,8 +6149,8 @@ F0 "MDB" 0 -850 60 H V C CNN
 F1 "MODULAR_DEVICE_BASE_3X2_MALE" 0 850 60 H V C CNN
 F2 "footprints:MODULAR_DEVICE_BASE_3X2_MALE" 0 1050 60 H I C CNN
 F3 "" 50 2750 60 H V C CNN
-F4 "digikey" 0 1150 60 H I C CNN "Vendor"
-F5 "S1011E-16-ND" 0 1250 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 1150 60 H I C CNN "Vendor"
+F5 "S1011E-16-ND" 0 1250 60 H I C CNN "Vendor Part Number"
 F6 "16 Position Header Through Hole Male Pins" 0 1350 60 H I C CNN "Description"
 F7 "2" 1300 1250 60 H I C CNN "PartCount"
 DRAW
@@ -6197,8 +6197,8 @@ F0 "MDB" 0 -850 60 H V C CNN
 F1 "MODULAR_DEVICE_BASE_3x2_FEMALE" 0 850 60 H V C CNN
 F2 "footprints:MODULAR_DEVICE_BASE_3X2_FEMALE" 0 1050 60 H I C CNN
 F3 "" 50 2750 60 H V C CNN
-F4 "digikey" 0 1150 60 H I C CNN "Vendor"
-F5 "S7049-ND" 0 1250 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 1150 60 H I C CNN "Vendor"
+F5 "S7049-ND" 0 1250 60 H I C CNN "Vendor Part Number"
 F6 "16 Position Header Through Hole Female Socket" 0 1350 60 H I C CNN "Description"
 F7 "2" 1300 1250 60 H I C CNN "PartCount"
 DRAW
@@ -6245,8 +6245,8 @@ F0 "MDB" 0 -850 60 H V C CNN
 F1 "MODULAR_DEVICE_BASE_5x3_FEMALE" 0 850 60 H V C CNN
 F2 "footprints:MODULAR_DEVICE_BASE_5X3_FEMALE" 0 1050 60 H I C CNN
 F3 "" 50 2750 60 H V C CNN
-F4 "digikey" 0 1150 60 H I C CNN "Vendor"
-F5 "S7058-ND" 0 1250 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 1150 60 H I C CNN "Vendor"
+F5 "S7058-ND" 0 1250 60 H I C CNN "Vendor Part Number"
 F6 "25 Position Header Through Hole Female Socket" 0 1350 60 H I C CNN "Description"
 F7 "2" 1300 1250 60 H I C CNN "PartCount"
 DRAW
@@ -6311,8 +6311,8 @@ F0 "MDB" 0 -1750 60 H V C CNN
 F1 "MODULAR_DEVICE_BASE_5x3_MALE" 0 850 60 H V C CNN
 F2 "footprints:MODULAR_DEVICE_BASE_5X3_MALE" 0 1050 60 H I C CNN
 F3 "" 50 2750 60 H V C CNN
-F4 "digikey" 0 1150 60 H I C CNN "Vendor"
-F5 "S1011E-25-ND" 0 1250 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 1150 60 H I C CNN "Vendor"
+F5 "S1011E-25-ND" 0 1250 60 H I C CNN "Vendor Part Number"
 F6 "25 Positions Header Breakaway Connector 0.1in" 0 1350 60 H I C CNN "Description"
 F7 "2" 1300 1250 60 H I C CNN "PartCount"
 DRAW
@@ -6377,8 +6377,8 @@ F0 "NHD" 300 -650 60 H V C CNN
 F1 "NHD-ASC3-169" 0 500 60 H V C CNN
 F2 "footprints:NHD-ASC3" 300 400 60 H I C CNN
 F3 "" 400 500 60 H V C CNN
-F4 "digikey" 500 600 60 H I C CNN "Vendor"
-F5 "NHD-1.69-160128ASC3-ND" 600 700 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 500 600 60 H I C CNN "Vendor"
+F5 "NHD-1.69-160128ASC3-ND" 600 700 60 H I C CNN "Vendor Part Number"
 F6 "1.69in SERIAL COLOR OLED" 700 800 60 H I C CNN "Description"
 DRAW
 S -400 450 400 -600 0 1 0 N
@@ -6405,10 +6405,10 @@ F2 "footprints:TO-236-3" 0 800 60 H I C CNN
 F3 "" -250 0 60 V I C CNN
 F4 "IC INDCT LOAD DRVR AUTO" 0 1000 60 H I C CNN "Description"
 F5 "SOT-23-3" 0 0 60 H I C CNN "Package"
-F6 "ON Semiconductor" 0 0 60 H I C CNN "Mfg"
-F7 "NUD3124LT1G" 0 0 60 H I C CNN "Mfg PN"
-F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F9 "NUD3124LT1GOSCT-ND" 0 0 60 H I C CNN "Supplier PN"
+F6 "ON Semiconductor" 0 0 60 H I C CNN "Manufacturer"
+F7 "NUD3124LT1G" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F9 "NUD3124LT1GOSCT-ND" 0 0 60 H I C CNN "Vendor Part Number"
 DRAW
 S -100 100 100 -100 0 1 0 N
 S -100 100 100 -100 0 1 0 N
@@ -6430,8 +6430,8 @@ F0 "U" 0 250 60 H V C CNN
 F1 "OPTOISO_2CHAN" 0 -250 60 H V C CNN
 F2 "footprints:SO-8" 0 1050 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 0 1400 60 H I C CNN "Vendor"
-F5 "516-2614-1-ND" 0 1200 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 1400 60 H I C CNN "Vendor"
+F5 "516-2614-1-ND" 0 1200 60 H I C CNN "Vendor Part Number"
 F6 "OPTOISO 3.75KV 2CH PUSH PULL 8SO" 0 1300 60 H I C CNN "Description"
 DRAW
 T 0 -100 100 40 0 0 0 A Normal 0 C C
@@ -6467,8 +6467,8 @@ F0 "U" 300 500 60 H V C CNN
 F1 "PCA9615" 250 -500 60 H V C CNN
 F2 "footprints:TSSOP10" 200 400 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 400 600 60 H I C CNN "Vendor"
-F5 "568-11484-1-ND" 500 700 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 400 600 60 H I C CNN "Vendor"
+F5 "568-11484-1-ND" 500 700 60 H I C CNN "Vendor Part Number"
 F6 "IC REDRIVER I2C 2CH 10TSSOP" 600 800 60 H I C CNN "Description"
 DRAW
 S -300 450 300 -450 0 1 0 N
@@ -6492,8 +6492,8 @@ F0 "U" 0 950 60 H V C CNN
 F1 "PCA9685" 0 850 60 H V C CNN
 F2 "footprints:TSSOP28" -100 850 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 100 1050 60 H I C CNN "Vendor"
-F5 "568-5931-1-ND" 200 1150 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 1050 60 H I C CNN "Vendor"
+F5 "568-5931-1-ND" 200 1150 60 H I C CNN "Vendor Part Number"
 F6 "LED Driver IC 16 Output Linear PWM Dimming 25mA 28-TSSOP" 300 1250 60 H I C CNN "Description"
 DRAW
 S -400 800 400 -800 0 1 0 N
@@ -6535,8 +6535,8 @@ F0 "PIN" 0 100 50 H V C CNN
 F1 "PIN_CRIMP_22-24AWG_GOLD" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 100 50 H I C CNN
-F4 "digikey" 100 200 50 H I C CNN "Vendor"
-F5 "WM2515-ND" 200 300 50 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 50 H I C CNN "Vendor"
+F5 "WM2515-ND" 200 300 50 H I C CNN "Vendor Part Number"
 F6 "CONN TERM MALE 22-24AWG GOLD" 300 400 50 H I C CNN "Description"
 $FPLIST
  Connector*:*
@@ -6556,8 +6556,8 @@ F0 "PLUG" 0 100 50 H V C CNN
 F1 "PLUG_MALE_PIN_01x02" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 100 50 H I C CNN
-F4 "digikey" 100 200 50 H I C CNN "Vendor"
-F5 "WM2533-ND" 200 300 50 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 50 H I C CNN "Vendor"
+F5 "WM2533-ND" 200 300 50 H I C CNN "Vendor Part Number"
 F6 "CONN HOUSING MALE 2POS .100" 300 400 50 H I C CNN "Description"
 $FPLIST
  Connector*:*_1x??_*
@@ -6579,8 +6579,8 @@ F0 "P" 0 150 50 H V C CNN
 F1 "PWR_JACK_2.1x5.5" 100 0 50 V V C CNN
 F2 "footprints:DCJACK_2PIN_HIGHCURRENT" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "CP-063AH-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "CP-063AH-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN PWR JACK DC 2.1X5.5 8A T/H" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -6604,8 +6604,8 @@ F0 "P" 0 150 50 H V C CNN
 F1 "PWR_JACK_2.1x5.5_SMD_VERT" 100 0 50 V V C CNN
 F2 "footprints:DCJACK_3PIN_SMD_VERT" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "CP-015AHPJ-CT-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "CP-015AHPJ-CT-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN PWR JACK 2X5.5MM SOLDER" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -6629,8 +6629,8 @@ F0 "P" 0 150 50 H V C CNN
 F1 "PWR_JACK_2.5x5.5" 100 0 50 V V C CNN
 F2 "footprints:DCJACK_2PIN_HIGHCURRENT" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "CP-063BH-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "CP-063BH-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN PWR JACK DC 2.5X5.5 8A T/H" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -6654,8 +6654,8 @@ F0 "P" 0 150 50 H V C CNN
 F1 "PWR_JACK_2.5x5.5_SMD_RA" 100 0 50 V V C CNN
 F2 "footprints:DCJACK_2PIN_HIGHCURRENT_SMD_RA" -100 50 60 H I C CNN
 F3 "" 0 150 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "CP-002BHPJCT-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "CP-002BHPJCT-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN POWER JACK 2.5X5.5MM HI CUR" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -6679,8 +6679,8 @@ F0 "P" 0 150 50 H V C CNN
 F1 "PWR_JACK_2.5x5.5_SMD_VERT" 100 0 50 V V C CNN
 F2 "footprints:DCJACK_3PIN_SMD_VERT" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "CP-015BHPJ-CT-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "CP-015BHPJ-CT-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN PWR JACK 2.5X5.5MM SOLDER" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -6704,8 +6704,8 @@ F0 "RCD" 300 -200 60 H V C CNN
 F1 "RCD-24" 0 200 60 H V C CNN
 F2 "footprints:RCD-24" 200 -300 60 H I C CNN
 F3 "" 300 -200 60 H V C CNN
-F4 "digikey" 400 -100 60 H I C CNN "Vendor"
-F5 "945-1132-ND" 500 0 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 400 -100 60 H I C CNN "Vendor"
+F5 "945-1132-ND" 500 0 60 H I C CNN "Vendor Part Number"
 F6 "LED SUPPLY CC BUCK 3-31V 1.2A" 600 100 60 H I C CNN "Description"
 DRAW
 S -400 -150 400 150 0 1 0 N
@@ -6725,8 +6725,8 @@ F0 "RECPT" 0 100 50 H V C CNN
 F1 "RECEPTACLE_FEMALE_SOCKET_01x02" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 100 50 H I C CNN
-F4 "digikey" 100 200 50 H I C CNN "Vendor"
-F5 "WM2800-ND" 200 300 50 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 50 H I C CNN "Vendor"
+F5 "WM2800-ND" 200 300 50 H I C CNN "Vendor Part Number"
 F6 "CONN HOUSING 2POS .100 SINGLE" 300 400 50 H I C CNN "Description"
 $FPLIST
  Connector*:*_1x??_*
@@ -6748,8 +6748,8 @@ F0 "RJ" 0 900 60 H V C CNN
 F1 "RJ45_8P8C_2PORT_1ROW_RA_SMD" 300 0 60 V V C CNN
 F2 "footprints:RJ45_8P8C_2PORT_1ROW_RA_SMD" -100 800 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 100 1000 60 H I C CNN "Vendor"
-F5 " RJSSE-5080-02-ND" 200 1100 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 1000 60 H I C CNN "Vendor"
+F5 " RJSSE-5080-02-ND" 200 1100 60 H I C CNN "Vendor Part Number"
 F6 "CONN MOD JACK 8P8C R/A UNSHLD" 300 1200 60 H I C CNN "Description"
 DRAW
 S -250 850 250 -850 0 1 10 N
@@ -6779,8 +6779,8 @@ F0 "RJ" 0 850 50 H V C CNN
 F1 "RJ45_DOUBLE" 100 0 50 V V C CNN
 F2 "footprints:RJ45_2PORT_2ROW" -100 750 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 950 60 H I C CNN "Vendor"
-F5 "RJSAE508002-ND" 200 1050 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 950 60 H I C CNN "Vendor"
+F5 "RJSAE508002-ND" 200 1050 60 H I C CNN "Vendor Part Number"
 F6 "CONN MOD JACK RA 8P8C" 300 1150 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X16
@@ -6832,8 +6832,8 @@ F0 "U" 500 350 60 H V C CNN
 F1 "RS232_2x2" 650 -350 60 H V C CNN
 F2 "footprints:SOIC_16" 0 1250 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 0 1350 60 H I C CNN "Vendor"
-F5 "296-33568-5-ND" 0 1450 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 1350 60 H I C CNN "Vendor"
+F5 "296-33568-5-ND" 0 1450 60 H I C CNN "Vendor Part Number"
 F6 "IC RS232 LINE DVR/RCVR 16-SOIC" 0 1550 60 H I C CNN "Description"
 DRAW
 S -400 400 400 -400 0 1 10 N
@@ -6875,8 +6875,8 @@ F0 "U" 400 700 60 H V C CNN
 F1 "SGTL5000" -400 700 60 H V C CNN
 F2 "footprints:QFN-5x5-32" 300 600 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 500 800 60 H I C CNN "Vendor"
-F5 "SGTL5000XNAA3R2CT-ND" 600 900 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 500 800 60 H I C CNN "Vendor"
+F5 "SGTL5000XNAA3R2CT-ND" 600 900 60 H I C CNN "Vendor Part Number"
 F6 "Stereo Audio Interface 32-QFN" 700 1000 60 H I C CNN "Description"
 DRAW
 S -600 650 600 -800 0 1 0 N
@@ -6919,10 +6919,10 @@ F2 "footprints:SOIC_20" 100 550 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 F4 "Buffer Non-Inverting 1 Element 8 Bit per Element Push-Pull Output" 300 -600 60 H I C CNN "Description"
 F5 "20-SOIC" 0 0 60 H I C CNN "Package"
-F6 "Texas Instruments" 0 0 60 H I C CNN "Mfg"
-F7 "SN74ABT541BDWR" 0 0 60 H I C CNN "Mfg PN"
-F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F9 "296-14668-1-ND" 0 0 60 H I C CNN "Supplier PN"
+F6 "Texas Instruments" 0 0 60 H I C CNN "Manufacturer"
+F7 "SN74ABT541BDWR" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F9 "296-14668-1-ND" 0 0 60 H I C CNN "Vendor Part Number"
 DRAW
 S -250 600 250 -600 0 1 0 N
 P 2 0 1 0 -250 -350 -50 -350 N
@@ -6979,8 +6979,8 @@ F0 "SOCKET" 0 100 50 H V C CNN
 F1 "SOCKET_CRIMP_22-24AWG_GOLD" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 100 50 H I C CNN
-F4 "digikey" 100 200 50 H I C CNN "Vendor"
-F5 "WM2512-ND" 200 300 50 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 50 H I C CNN "Vendor"
+F5 "WM2512-ND" 200 300 50 H I C CNN "Vendor Part Number"
 F6 "CONN TERM FEMALE 22-24AWG GOLD" 300 400 50 H I C CNN "Description"
 $FPLIST
  Connector*:*
@@ -7017,8 +7017,8 @@ F0 "SP" 50 225 50 H V R CNN
 F1 "SPEAKER_8OHM_300MW" 50 150 50 H V R CNN
 F2 "footprints:SPEAKER_8OHM_300MW" 0 -200 50 H I C CNN
 F3 "" -10 -50 50 H I C CNN
-F4 "digikey" 150 325 60 H I C CNN "Vendor"
-F5 "102-3539-1-ND" 250 425 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 150 325 60 H I C CNN "Vendor"
+F5 "102-3539-1-ND" 250 425 60 H I C CNN "Vendor Part Number"
 F6 "SPEAKER 8OHM 300MW TOP PORT 87DB" 350 525 60 H I C CNN "Description"
 DRAW
 S -100 50 40 -150 0 0 10 N
@@ -7035,8 +7035,8 @@ F0 "P" 0 250 50 H V C CNN
 F1 "SPR_TERM_0.1_01X04" 100 0 50 V V C CNN
 F2 "footprints:SPRING_TERM_BLK_0.1_4" 0 450 50 H I C CNN
 F3 "" 0 250 50 H V C CNN
-F4 "digikey" 0 550 60 H I C CNN "Vendor"
-F5 "WM10636-ND" 0 650 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 550 60 H I C CNN "Vendor"
+F5 "WM10636-ND" 0 650 60 H I C CNN "Vendor Part Number"
 F6 "SPRING TERMINAL BLOCK 4C GRN" 0 750 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X04
@@ -7065,7 +7065,7 @@ F1 "SPST_PENDANT_WASHDOWN" 0 -60 50 H V C CNN
 F2 "" 0 200 50 H I C CNN
 F3 "" 0 200 50 H I C CNN
 F4 "mcmaster" 150 200 50 H I C CNN "Vendor"
-F5 "6944K11" 250 300 50 H I C CNN "PartNumber"
+F5 "6944K11" 250 300 50 H I C CNN "Vendor Part Number"
 F6 "Pendant Switch Washdown Push Button" 350 400 50 H I C CNN "Description"
 DRAW
 C -80 0 20 0 1 0 N
@@ -7084,8 +7084,8 @@ F0 "SW" 0 -250 60 H V C CNN
 F1 "SPST_PUSH_LIGHTS" 0 250 60 H V C CNN
 F2 "footprints:KP_SWITCH" -100 -350 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 100 -150 60 H I C CNN "Vendor"
-F5 "360-2461-ND" 200 -50 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -150 60 H I C CNN "Vendor"
+F5 "360-2461-ND" 200 -50 60 H I C CNN "Vendor Part Number"
 F6 "Pushbutton Switch SPST-NO Standard Illuminated Through Hole" 300 50 60 H I C CNN "Description"
 DRAW
 T 0 50 0 30 0 0 0 G Normal 0 C C
@@ -7115,8 +7115,8 @@ F0 "SW" 0 -50 40 H V C CNN
 F1 "SPST_SERIES_M" 0 100 40 H V C CNN
 F2 "footprints:SPST_SERIES_M" -100 -200 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "360-3243-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "360-3243-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "SWITCH TOGGLE SPST 6A 125V" 300 400 60 H I C CNN "Description"
 DRAW
 C -125 0 25 0 1 0 N
@@ -7134,8 +7134,8 @@ F0 "SW" 0 -50 40 H V C CNN
 F1 "SPST_SLIDE_AS" 0 100 40 H V C CNN
 F2 "footprints:SPST_SLIDE_AS" -100 -200 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 200 60 H I C CNN "Vendor"
-F5 "360-2610-ND" 200 300 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "360-2610-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "SWITCH SLIDE SPST 0.4VA 28V" 300 400 60 H I C CNN "Description"
 DRAW
 C -125 0 25 0 1 0 N
@@ -7153,8 +7153,8 @@ F0 "U" -250 200 60 H V C CNN
 F1 "SSR_DC_6PIN_2.5A" 0 -200 60 H V C CNN
 F2 "footprints:6-SMD-GW-0.3IN" -350 100 60 H I C CNN
 F3 "" -250 200 60 H V C CNN
-F4 "digikey" -150 300 60 H I C CNN "Vendor"
-F5 "255-3375-1-ND" -50 400 60 H I C CNN "PartNumber"
+F4 "Digi-Key" -150 300 60 H I C CNN "Vendor"
+F5 "255-3375-1-ND" -50 400 60 H I C CNN "Vendor Part Number"
 F6 "RELAY SSR SPST SGL 2.5A 6SMD GW" 50 500 60 H I C CNN "Description"
 DRAW
 S -350 150 350 -150 0 1 0 N
@@ -7174,8 +7174,8 @@ F0 "SO" 0 270 50 H V C CNN
 F1 "STANDOFF_M2.5x0.45x8" 0 200 50 H I C CNN
 F2 "footprints:MOUNTING_HOLE_M2.5" 200 0 50 H I C CNN
 F3 "" 200 0 50 H V C CNN
-F4 "digikey" 100 370 60 H I C CNN "Vendor"
-F5 "36-24422-ND" 200 470 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 370 60 H I C CNN "Vendor"
+F5 "36-24422-ND" 200 470 60 H I C CNN "Vendor Part Number"
 F6 "HEX STANDOFF M2.5 ALUMINUM 8MM" 300 570 60 H I C CNN "Description"
 DRAW
 C 0 130 30 0 1 0 N
@@ -7190,8 +7190,8 @@ F0 "SS" 0 -950 60 H V C CNN
 F1 "STEPSTICK" 0 950 60 H V C CNN
 F2 "footprints:STEPSTICK" -100 -1050 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 100 -850 60 H I C CNN "Vendor"
-F5 "ED90331-ND" 200 -750 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 -850 60 H I C CNN "Vendor"
+F5 "ED90331-ND" 200 -750 60 H I C CNN "Vendor Part Number"
 F6 "CONN PIN RCPT .025-.037 SOLDER" 300 -650 60 H I C CNN "Description"
 F7 "16" 400 -550 60 H I C CNN "PartCount"
 DRAW
@@ -7221,8 +7221,8 @@ F0 "TEENSY" 550 850 60 H V C CNN
 F1 "TEENSY_3.2" -450 850 60 H V C CNN
 F2 "footprints:TEENSY_3.2" 0 1050 60 H I C CNN
 F3 "" 50 2750 60 H V C CNN
-F4 "digikey" 0 1150 60 H I C CNN "Vendor"
-F5 "1568-1231-ND" 0 1250 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 1150 60 H I C CNN "Vendor"
+F5 "1568-1231-ND" 0 1250 60 H I C CNN "Vendor Part Number"
 F6 "DEV TEENSY 3.2 13736" 0 1350 60 H I C CNN "Description"
 DRAW
 S -1050 800 1050 -1500 0 1 0 N
@@ -7283,8 +7283,8 @@ F0 "TEENSY" 550 850 60 H V C CNN
 F1 "TEENSY_3.5" -450 850 60 H V C CNN
 F2 "footprints:TEENSY_3.5" 0 1050 60 H I C CNN
 F3 "" 50 2750 60 H V C CNN
-F4 "digikey" 0 1150 60 H I C CNN "Vendor"
-F5 "1568-1443-ND" 0 1250 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 1150 60 H I C CNN "Vendor"
+F5 "1568-1443-ND" 0 1250 60 H I C CNN "Vendor Part Number"
 F6 "TEENSY 3.5" 0 1350 60 H I C CNN "Description"
 DRAW
 S -1250 800 1250 -2800 0 1 0 N
@@ -7372,8 +7372,8 @@ F0 "TEENSY" 550 850 60 H V C CNN
 F1 "TEENSY_3.5_MIN" -450 850 60 H V C CNN
 F2 "footprints:TEENSY_3.5_MIN" 0 1050 60 H I C CNN
 F3 "" 50 2750 60 H V C CNN
-F4 "digikey" 0 1150 60 H I C CNN "Vendor"
-F5 "1568-1464-ND" 0 1250 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 1150 60 H I C CNN "Vendor"
+F5 "1568-1464-ND" 0 1250 60 H I C CNN "Vendor Part Number"
 F6 "TEENSY 3.5 (HEADERS)" 0 1350 60 H I C CNN "Description"
 DRAW
 S -1250 800 1250 -1700 0 1 0 N
@@ -7435,7 +7435,7 @@ F1 "TEENSY_ETHERNET" 0 300 60 H V C CNN
 F2 "footprints:TEENSY_ETHERNET" -100 -350 60 H I C CNN
 F3 "" 0 -250 60 H I C CNN
 F4 "unknown" 100 -150 60 H I C CNN "Vendor"
-F5 "unknown" 200 -50 60 H I C CNN "PartNumber"
+F5 "unknown" 200 -50 60 H I C CNN "Vendor Part Number"
 F6 "unknown" 300 50 60 H I C CNN "Description"
 DRAW
 S -250 200 250 -200 0 1 0 N
@@ -7457,8 +7457,8 @@ F0 "T" 0 650 50 H V C CNN
 F1 "TERM_BLK_12_PIN_0.1_PITCH" 100 0 50 V V C CNN
 F2 "footprints:TERM_BLK_12_PIN_0.1_PITCH" -100 150 50 H I C CNN
 F3 "" 0 0 50 H V C CNN
-F4 "digikey" 100 350 60 H I C CNN "Vendor"
-F5 " ED10568-ND" 200 450 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 350 60 H I C CNN "Vendor"
+F5 " ED10568-ND" 200 450 60 H I C CNN "Vendor Part Number"
 F6 "CONN TERM BLOCK 2.54MM 12POS PCB" 300 550 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X04
@@ -7502,8 +7502,8 @@ F0 "T" 0 150 50 H V C CNN
 F1 "TERM_BLK_2_PIN_0.1_PITCH" 100 0 50 V V C CNN
 F2 "footprints:TERM_BLK_2_PIN_0.1_PITCH" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "A98333-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "A98333-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "TERM BLOCK 2POS SIDE ENT 2.54MM" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -7527,8 +7527,8 @@ F0 "T" 0 150 50 H V C CNN
 F1 "TERM_BLK_ANG_2_PIN_0.2_PITCH" 100 0 50 V V C CNN
 F2 "footprints:TERM_BLK_ANG_2_PIN_0.2_PITCH" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "A98348-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "A98348-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "TERM BLOCK 2POS 35DEG 5.08MM" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -7552,8 +7552,8 @@ F0 "T" 0 250 50 H V C CNN
 F1 "TERM_BLK_ANG_4_PIN_0.1_PITCH" 100 0 50 V V C CNN
 F2 "footprints:TERM_BLK_ANG_4_PIN_0.2_PITCH" -100 150 50 H I C CNN
 F3 "" 0 0 50 H V C CNN
-F4 "digikey" 100 350 60 H I C CNN "Vendor"
-F5 "A98335-ND" 200 450 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 350 60 H I C CNN "Vendor"
+F5 "A98335-ND" 200 450 60 H I C CNN "Vendor Part Number"
 F6 "TERM BLOCK 4POS SIDE ENT 2.54MM" 300 550 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X04
@@ -7581,8 +7581,8 @@ F0 "T" 0 250 50 H V C CNN
 F1 "TERM_BLK_ANG_4_PIN_0.2_PITCH" 100 0 50 V V C CNN
 F2 "footprints:TERM_BLK_ANG_4_PIN_0.2_PITCH" -100 150 50 H I C CNN
 F3 "" 0 0 50 H V C CNN
-F4 "digikey" 100 350 60 H I C CNN "Vendor"
-F5 "A98350-ND" 200 450 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 350 60 H I C CNN "Vendor"
+F5 "A98350-ND" 200 450 60 H I C CNN "Vendor Part Number"
 F6 "TERM BLOCK 4POS 35DEG 5.08MM" 300 550 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X04
@@ -7610,8 +7610,8 @@ F0 "T" 0 150 50 H V C CNN
 F1 "TERM_BLK_HDR_2POS_VERT_0.138IN" 100 0 50 V V C CNN
 F2 "footprints:TERM_BLK_HDR_2POS_VERT_0.138IN" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "277-5733-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "277-5733-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "TERM BLOCK HDR 2POS VERT 3.5MM" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -7635,8 +7635,8 @@ F0 "T" 0 150 50 H V C CNN
 F1 "TERM_BLK_HDR_2POS_VERT_0.150IN" 100 0 50 V V C CNN
 F2 "footprints:TERM_BLK_HDR_2POS_VERT_0.150IN" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "277-1221-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "277-1221-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "TERM BLOCK HDR 2POS VERT 3.81MM" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -7660,8 +7660,8 @@ F0 "T" 0 150 50 H V C CNN
 F1 "TERM_BLK_HDR_2POS_VERT_0.2IN" 100 0 50 V V C CNN
 F2 "footprints:TERM_BLK_HDR_2POS_VERT_0.2IN" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "277-1150-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "277-1150-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "TERM BLOCK HDR 2POS VERT 5.08MM" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -7685,8 +7685,8 @@ F0 "T" 0 250 50 H V C CNN
 F1 "TERM_BLK_HDR_4POS_VERT_0.138IN" 100 0 50 V V C CNN
 F2 "footprints:TERM_BLK_HDR_4POS_VERT_0.138IN" -100 150 50 H I C CNN
 F3 "" 0 250 50 H I C CNN
-F4 "digikey" 100 350 60 H I C CNN "Vendor"
-F5 "277-5738-ND" 200 450 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 350 60 H I C CNN "Vendor"
+F5 "277-5738-ND" 200 450 60 H I C CNN "Vendor Part Number"
 F6 "TERM BLOCK HDR 4POS VERT 3.5MM" 300 550 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X*
@@ -7714,8 +7714,8 @@ F0 "T" 0 250 50 H V C CNN
 F1 "TERM_BLK_HDR_4POS_VERT_0.150IN" 100 0 50 V V C CNN
 F2 "footprints:TERM_BLK_HDR_4POS_VERT_0.150IN" -100 150 50 H I C CNN
 F3 "" 0 250 50 H I C CNN
-F4 "digikey" 100 350 60 H I C CNN "Vendor"
-F5 "277-1223-ND" 200 450 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 350 60 H I C CNN "Vendor"
+F5 "277-1223-ND" 200 450 60 H I C CNN "Vendor Part Number"
 F6 "TERM BLOCK HDR 4POS VERT 3.81MM" 300 550 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X*
@@ -7743,8 +7743,8 @@ F0 "T" 0 250 50 H V C CNN
 F1 "TERM_BLK_HDR_4POS_VERT_0.2IN" 100 0 50 V V C CNN
 F2 "footprints:TERM_BLK_HDR_4POS_VERT_0.2IN" -100 150 50 H I C CNN
 F3 "" 0 250 50 H I C CNN
-F4 "digikey" 100 350 60 H I C CNN "Vendor"
-F5 "277-1152-ND" 200 450 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 350 60 H I C CNN "Vendor"
+F5 "277-1152-ND" 200 450 60 H I C CNN "Vendor Part Number"
 F6 "TERM BLOCK HDR 4POS VERT 5.08MM" 300 550 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X*
@@ -7772,8 +7772,8 @@ F0 "TP" 0 270 50 H V C CNN
 F1 "TESTPOINT_BLK" 0 200 50 H V C CNN
 F2 "footprints:TESTPOINT_THRU" 200 0 50 H I C CNN
 F3 "" 200 0 50 H V C CNN
-F4 "digikey" 100 370 60 H I C CNN "Vendor"
-F5 "36-5011-ND" 200 470 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 370 60 H I C CNN "Vendor"
+F5 "36-5011-ND" 200 470 60 H I C CNN "Vendor Part Number"
 F6 "TEST POINT PC MULTI PURPOSE BLK" 300 570 60 H I C CNN "Description"
 DRAW
 C 0 130 30 0 1 0 N
@@ -7788,8 +7788,8 @@ F0 "TP" 0 270 50 H V C CNN
 F1 "TESTPOINT_BLU" 0 200 50 H V C CNN
 F2 "footprints:TESTPOINT_THRU" 200 0 50 H I C CNN
 F3 "" 200 0 50 H V C CNN
-F4 "digikey" 100 370 60 H I C CNN "Vendor"
-F5 "36-5127-ND" 200 470 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 370 60 H I C CNN "Vendor"
+F5 "36-5127-ND" 200 470 60 H I C CNN "Vendor Part Number"
 F6 "TEST POINT PC MULTI PURPOSE BLUE" 300 570 60 H I C CNN "Description"
 DRAW
 C 0 130 30 0 1 0 N
@@ -7804,8 +7804,8 @@ F0 "TP" 0 270 50 H V C CNN
 F1 "TESTPOINT_BRW" 0 200 50 H V C CNN
 F2 "footprints:TESTPOINT_THRU" 200 0 50 H I C CNN
 F3 "" 200 0 50 H V C CNN
-F4 "digikey" 100 370 60 H I C CNN "Vendor"
-F5 "36-5125-ND" 200 470 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 370 60 H I C CNN "Vendor"
+F5 "36-5125-ND" 200 470 60 H I C CNN "Vendor Part Number"
 F6 "TEST POINT PC MULTI PURPOSE BRWN" 300 570 60 H I C CNN "Description"
 DRAW
 C 0 130 30 0 1 0 N
@@ -7820,8 +7820,8 @@ F0 "TP" 0 270 50 H V C CNN
 F1 "TESTPOINT_GRN" 0 200 50 H V C CNN
 F2 "footprints:TESTPOINT_THRU" 200 0 50 H I C CNN
 F3 "" 200 0 50 H V C CNN
-F4 "digikey" 100 370 60 H I C CNN "Vendor"
-F5 "36-5126-ND" 200 470 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 370 60 H I C CNN "Vendor"
+F5 "36-5126-ND" 200 470 60 H I C CNN "Vendor Part Number"
 F6 "TEST POINT PC MULTI PURPOSE GRN" 300 570 60 H I C CNN "Description"
 DRAW
 C 0 130 30 0 1 0 N
@@ -7836,8 +7836,8 @@ F0 "TP" 0 270 50 H V C CNN
 F1 "TESTPOINT_GRY" 0 200 50 H V C CNN
 F2 "footprints:TESTPOINT_THRU" 200 0 50 H I C CNN
 F3 "" 200 0 50 H V C CNN
-F4 "digikey" 100 370 60 H I C CNN "Vendor"
-F5 "36-5128-ND" 200 470 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 370 60 H I C CNN "Vendor"
+F5 "36-5128-ND" 200 470 60 H I C CNN "Vendor Part Number"
 F6 "TEST POINT PC MULTI PURPOSE GREY" 300 570 60 H I C CNN "Description"
 DRAW
 C 0 130 30 0 1 0 N
@@ -7852,8 +7852,8 @@ F0 "TP" 0 270 50 H V C CNN
 F1 "TESTPOINT_ORG" 0 200 50 H V C CNN
 F2 "footprints:TESTPOINT_THRU" 200 0 50 H I C CNN
 F3 "" 200 0 50 H V C CNN
-F4 "digikey" 100 370 60 H I C CNN "Vendor"
-F5 "36-5013-ND" 200 470 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 370 60 H I C CNN "Vendor"
+F5 "36-5013-ND" 200 470 60 H I C CNN "Vendor Part Number"
 F6 "TEST POINT PC MULTI PURPOSE ORG" 300 570 60 H I C CNN "Description"
 DRAW
 C 0 130 30 0 1 0 N
@@ -7868,8 +7868,8 @@ F0 "TP" 0 270 50 H V C CNN
 F1 "TESTPOINT_PRP" 0 200 50 H V C CNN
 F2 "footprints:TESTPOINT_THRU" 200 0 50 H I C CNN
 F3 "" 200 0 50 H V C CNN
-F4 "digikey" 100 370 60 H I C CNN "Vendor"
-F5 "36-5129-ND" 200 470 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 370 60 H I C CNN "Vendor"
+F5 "36-5129-ND" 200 470 60 H I C CNN "Vendor Part Number"
 F6 "TEST POINT PC MULTI PURPOSE PRPL" 300 570 60 H I C CNN "Description"
 DRAW
 C 0 130 30 0 1 0 N
@@ -7884,8 +7884,8 @@ F0 "TP" 0 270 50 H V C CNN
 F1 "TESTPOINT_RED" 0 200 50 H V C CNN
 F2 "footprints:TESTPOINT_THRU" 200 0 50 H I C CNN
 F3 "" 200 0 50 H V C CNN
-F4 "digikey" 100 370 60 H I C CNN "Vendor"
-F5 "36-5010-ND" 200 470 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 370 60 H I C CNN "Vendor"
+F5 "36-5010-ND" 200 470 60 H I C CNN "Vendor Part Number"
 F6 "TEST POINT PC MULTI PURPOSE RED" 300 570 60 H I C CNN "Description"
 DRAW
 C 0 130 30 0 1 0 N
@@ -7900,8 +7900,8 @@ F0 "TP" 0 270 50 H V C CNN
 F1 "TESTPOINT_WHT" 0 200 50 H V C CNN
 F2 "footprints:TESTPOINT_THRU" 200 0 50 H I C CNN
 F3 "" 200 0 50 H V C CNN
-F4 "digikey" 100 370 60 H I C CNN "Vendor"
-F5 "36-5012-ND" 200 470 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 370 60 H I C CNN "Vendor"
+F5 "36-5012-ND" 200 470 60 H I C CNN "Vendor Part Number"
 F6 "TEST POINT PC MULTI PURPOSE WHT" 300 570 60 H I C CNN "Description"
 DRAW
 C 0 130 30 0 1 0 N
@@ -7916,8 +7916,8 @@ F0 "TP" 0 270 50 H V C CNN
 F1 "TESTPOINT_YEL" 0 200 50 H V C CNN
 F2 "footprints:TESTPOINT_THRU" 200 0 50 H I C CNN
 F3 "" 200 0 50 H V C CNN
-F4 "digikey" 100 370 60 H I C CNN "Vendor"
-F5 "36-5014-ND" 200 470 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 370 60 H I C CNN "Vendor"
+F5 "36-5014-ND" 200 470 60 H I C CNN "Vendor Part Number"
 F6 "TEST POINT PC MULTI PURPOSE YEL" 300 570 60 H I C CNN "Description"
 DRAW
 C 0 130 30 0 1 0 N
@@ -7972,8 +7972,8 @@ F0 "U" 400 500 60 H V C CNN
 F1 "TLE5X" 0 500 60 H V C CNN
 F2 "footprints:PG-SSOP-24-9" 300 400 60 H I C CNN
 F3 "" 400 500 60 H V C CNN
-F4 "digikey" 500 600 60 H I C CNN "Vendor"
-F5 "TLE75008EMDXUMA1CT-ND" 600 700 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 500 600 60 H I C CNN "Vendor"
+F5 "TLE75008EMDXUMA1CT-ND" 600 700 60 H I C CNN "Vendor Part Number"
 F6 "IC RELAY DRIVER 8CH SPI 24SSOP" 700 800 60 H I C CNN "Description"
 DRAW
 S -400 450 400 -600 0 1 0 N
@@ -8008,8 +8008,8 @@ F0 "U" 400 500 60 H V C CNN
 F1 "TLE7230R" 0 500 60 H V C CNN
 F2 "footprints:PG-DSO-36" 300 400 60 H I C CNN
 F3 "" 400 500 60 H V C CNN
-F4 "digikey" 500 600 60 H I C CNN "Vendor"
-F5 "TLE7230RCT-ND" 600 700 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 500 600 60 H I C CNN "Vendor"
+F5 "TLE7230RCT-ND" 600 700 60 H I C CNN "Vendor Part Number"
 F6 "IC SW SMART OCTAL LOWSIDE PDSO36" 700 800 60 H I C CNN "Description"
 DRAW
 S -400 450 400 -850 0 1 0 N
@@ -8048,8 +8048,8 @@ F0 "U" 400 500 60 H V C CNN
 F1 "TLE723X" 0 500 60 H V C CNN
 F2 "footprints:TLE723X" 300 400 60 H I C CNN
 F3 "" 400 500 60 H V C CNN
-F4 "digikey" 500 600 60 H I C CNN "Vendor"
-F5 "TLE7230GCT-ND" 600 700 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 500 600 60 H I C CNN "Vendor"
+F5 "TLE7230GCT-ND" 600 700 60 H I C CNN "Vendor Part Number"
 F6 "IC SW SMART OCTAL LOWSIDE PDSO24" 700 800 60 H I C CNN "Description"
 DRAW
 S -400 450 400 -600 0 1 0 N
@@ -8087,8 +8087,8 @@ F0 "U" 500 -1200 60 H V C CNN
 F1 "TMC260" -500 -1200 60 H V C CNN
 F2 "footprints:TMC260+261" 400 -1300 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
-F4 "digikey" 100 100 60 H I C CNN "Vendor"
-F5 "1460-1173-ND" 200 200 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 100 60 H I C CNN "Vendor"
+F5 "1460-1173-ND" 200 200 60 H I C CNN "Vendor Part Number"
 F6 "TMC260 IC MOTOR DRIVER SPI 44QFP" 300 300 60 H I C CNN "Description"
 DRAW
 S -500 1150 500 -1150 0 1 0 N
@@ -8133,9 +8133,9 @@ F0 "U" 350 950 60 H V C CNN
 F1 "TMC429" -350 950 60 H V C CNN
 F2 "footprints:QFN-5x5-32" 250 850 60 H I C CNN
 F3 "" 350 950 60 H I C CNN
-F4 "1460-1071-1-ND" 450 1050 60 H I C CNN "PartNumber"
+F4 "1460-1071-1-ND" 450 1050 60 H I C CNN "Vendor Part Number"
 F5 "IC MOTOR CONTROLLER SPI 32QFN" 550 1150 60 H I C CNN "Description"
-F6 "digikey" 650 1250 60 H I C CNN "Vendor"
+F6 "Digi-Key" 650 1250 60 H I C CNN "Vendor"
 DRAW
 S -400 900 400 -900 0 1 0 N
 X REF_1 1 600 -50 200 L 50 50 1 1 I
@@ -8175,8 +8175,8 @@ F0 "U" 950 550 60 H V C CNN
 F1 "UAF42" -850 -550 60 H V C CNN
 F2 "footprints:SOIC_16" 850 450 60 H I C CNN
 F3 "" 950 550 60 H V C CNN
-F4 "digikey" 1050 650 60 H I C CNN "Vendor"
-F5 "UAF42AU-ND" 1150 750 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 1050 650 60 H I C CNN "Vendor"
+F5 "UAF42AU-ND" 1150 750 60 H I C CNN "Vendor Part Number"
 F6 "IC UNIV ACTIVE FILTER 16-SOIC" 1250 850 60 H I C CNN "Description"
 $FPLIST
  UAF42*
@@ -8276,8 +8276,8 @@ F0 "S" 0 150 50 H V C CNN
 F1 "UMC_JACK_MALE_PIN" 100 0 50 V V C CNN
 F2 "footprints:UMC" -100 50 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "digikey" 100 250 60 H I C CNN "Vendor"
-F5 "J983CT-ND" 200 350 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
+F5 "J983CT-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN UMC RCPT STR 50 OHM SMD" 300 450 60 H I C CNN "Description"
 $FPLIST
  Pin_Header_Straight_1X02
@@ -8305,8 +8305,8 @@ F0 "RV" 125 0 50 V V C CNN
 F1 "VAR_47V_80A_0805" -125 0 50 V V C CNN
 F2 "footprints:SM0805" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "digikey" 225 100 60 V I C CNN "Vendor"
-F5 "495-7454-1-ND" 325 200 60 V I C CNN "PartNumber"
+F4 "Digi-Key" 225 100 60 V I C CNN "Vendor"
+F5 "495-7454-1-ND" 325 200 60 V I C CNN "Vendor Part Number"
 F6 "VARISTOR 47V 80A 0805" 425 300 60 V I C CNN "Description"
 $FPLIST
  RV_*
@@ -8328,8 +8328,8 @@ F0 "VM" 100 300 50 H V C CNN
 F1 "VIBRATION_MOTOR_24MM" 300 -50 50 V V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "digikey" 0 0 50 H I C CNN "Vendor"
-F5 "1670-1026-ND" 0 0 50 H I C CNN "PartNumber"
+F4 "Digi-Key" 0 0 50 H I C CNN "Vendor"
+F5 "1670-1026-ND" 0 0 50 H I C CNN "Vendor Part Number"
 F6 "VIBRATION MOTOR CYL 5V WIRE" 0 0 50 H I C CNN "Description"
 DRAW
 A 0 0 200 1 1799 0 1 0 N 200 0 -200 0
@@ -8379,8 +8379,8 @@ F0 "D" -50 80 50 H V L CNN
 F1 "diode_low_rev_current" -280 -80 50 H I L CNN
 F2 "footprints:SOD-123" -150 -20 60 H I C CNN
 F3 "" -50 80 60 H I C CNN
-F4 "digikey" 50 180 60 H I C CNN "Vendor"
-F5 "CMHD3595 CT-ND" 150 280 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 50 180 60 H I C CNN "Vendor"
+F5 "CMHD3595 CT-ND" 150 280 60 H I C CNN "Vendor Part Number"
 F6 "DIODE GEN PURP 150V 150MA SOD123" 250 380 60 H I C CNN "Description"
 $FPLIST
  Diode_*
@@ -8406,8 +8406,8 @@ F0 "D" -50 80 50 H V L CNN
 F1 "diode_schottky_15V_1A" -280 -80 50 H I L CNN
 F2 "footprints:DO-214BA" -150 -20 60 H I C CNN
 F3 "" -50 80 60 H I C CNN
-F4 "digikey" 50 180 60 H I C CNN "Vendor"
-F5 "LSM115JE3/TR13CT-ND" 150 280 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 50 180 60 H I C CNN "Vendor"
+F5 "LSM115JE3/TR13CT-ND" 150 280 60 H I C CNN "Vendor Part Number"
 F6 "DIODE SCHOTTKY 15V 1A DO214BA" 250 380 60 H I C CNN "Description"
 $FPLIST
  Diode_*
@@ -8433,8 +8433,8 @@ F0 "D" -50 80 50 H V L CNN
 F1 "diode_schottky_20V_1A" -280 -80 50 H I L CNN
 F2 "footprints:SM0805_POL" -150 -20 60 H I C CNN
 F3 "" -50 80 60 H I C CNN
-F4 "digikey" 50 180 60 H I C CNN "Vendor"
-F5 "478-7800-1-ND" 150 280 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 50 180 60 H I C CNN "Vendor"
+F5 "478-7800-1-ND" 150 280 60 H I C CNN "Vendor Part Number"
 F6 "DIODE SCHOTTKY 20V 1A 0805" 250 380 60 H I C CNN "Description"
 $FPLIST
  Diode_*
@@ -8460,8 +8460,8 @@ F0 "D" -50 80 50 H V L CNN
 F1 "diode_schottky_40V_1A" -280 -80 50 H I L CNN
 F2 "footprints:DO-214AC_SMA" -150 -20 60 H I C CNN
 F3 "" -50 80 60 H I C CNN
-F4 "digikey" 50 180 60 H I C CNN "Vendor"
-F5 "SS14CT-ND" 150 280 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 50 180 60 H I C CNN "Vendor"
+F5 "SS14CT-ND" 150 280 60 H I C CNN "Vendor Part Number"
 F6 "DIODE SCHOTTKY 40V 1A SMA" 250 380 60 H I C CNN "Description"
 $FPLIST
  Diode_*
@@ -8487,8 +8487,8 @@ F0 "D" -50 80 50 H V L CNN
 F1 "diode_schottky_40V_3A" -280 -80 50 H I L CNN
 F2 "footprints:DO-214AC_SMA" -150 -20 60 H I C CNN
 F3 "" -50 80 60 H I C CNN
-F4 "digikey" 50 180 60 H I C CNN "Vendor"
-F5 "MBRA340T3GOSCT-ND" 150 280 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 50 180 60 H I C CNN "Vendor"
+F5 "MBRA340T3GOSCT-ND" 150 280 60 H I C CNN "Vendor Part Number"
 F6 "DIODE SCHOTTKY 40V 3A SMA" 250 380 60 H I C CNN "Description"
 $FPLIST
  Diode_*
@@ -8514,8 +8514,8 @@ F0 "D" -50 80 50 H V L CNN
 F1 "diode_schottky_40V_500mA" -280 -80 50 H I L CNN
 F2 "footprints:SM0805_POL" -150 -20 60 H I C CNN
 F3 "" -50 80 60 H I C CNN
-F4 "digikey" 50 180 60 H I C CNN "Vendor"
-F5 "478-7802-1-ND" 150 280 60 H I C CNN "PartNumber"
+F4 "Digi-Key" 50 180 60 H I C CNN "Vendor"
+F5 "478-7802-1-ND" 150 280 60 H I C CNN "Vendor Part Number"
 F6 "DIODE SCHOTTKY 40V 500MA 0805" 250 380 60 H I C CNN "Description"
 $FPLIST
  Diode_*
@@ -8543,10 +8543,10 @@ F2 "footprints:CFP15" -150 -20 60 H I C CNN
 F3 "" -50 80 60 H I C CNN
 F4 "DIODE SCHOTTKY 45V 10A" 250 380 60 H I C CNN "Description"
 F5 "CFP15" 0 0 60 H I C CNN "Package"
-F6 "Nexperia USA Inc." 0 0 60 H I C CNN "Mfg"
-F7 "PMEG045V100EPDZ" 0 0 60 H I C CNN "Mfg PN"
-F8 "Digi-Key" 0 0 60 H I C CNN "Supplier"
-F9 "1727-1904-1-ND" 0 0 60 H I C CNN "Supplier PN"
+F6 "Nexperia USA Inc." 0 0 60 H I C CNN "Manufacturer"
+F7 "PMEG045V100EPDZ" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F9 "1727-1904-1-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  Diode_*
  D-Pak_TO252AA
