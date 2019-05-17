@@ -3551,7 +3551,7 @@ F4 "CONN D-SUB PLUG 9POS SMD SOLDER" 300 250 60 H I C CNN "Description"
 F5 "HARTING" 0 0 60 H I C CNN "Manufacturer"
 F6 "09551296812741" 0 0 60 H I C CNN "Manufacturer Part Number"
 F7 "Digi-Key" 0 0 60 H I C CNN "Vendor"
-F8 "1195-4006-1-ND" 0 0 60 H V C CNN "Vendor Part Number"
+F8 "1195-4006-1-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  DB*M*
 $ENDFPLIST
