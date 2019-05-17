@@ -1,9 +1,9 @@
-(module "LED0805" (layer F.Cu) (tedit 5CD46CC5)
-  (fp_text reference "LED0805" (at 1.016 0 90) (layer F.SilkS)
-    (effects (font (size 0.508 0.508) (thickness 0.127)))
+(module "LED0805" (layer F.Cu) (tedit 5CDEF0A4)
+  (fp_text reference "LED0805" (at -1.016 0 90) (layer F.SilkS)
+    (effects (font (size 0.635 0.635) (thickness 0.15875)))
   )
   (fp_text value "VAL**" (at -1.016 0 90) (layer F.SilkS) hide
-    (effects (font (size 0.508 0.508) (thickness 0.127)))
+    (effects (font (size 0.635 0.635) (thickness 0.15875)))
   )
   (fp_line (start -0.635 0.381) (end 0 0) (layer F.SilkS) (width 0.127))
   (fp_line (start 0 0) (end 0.635 0.381) (layer F.SilkS) (width 0.127))

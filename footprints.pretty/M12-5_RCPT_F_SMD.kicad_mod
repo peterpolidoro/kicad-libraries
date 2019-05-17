@@ -1,5 +1,5 @@
-(module "M12-5_RCPT_F_SMD" (layer F.Cu) (tedit 5CD468CF)
-  (fp_text reference "REF**" (at 9 0 270) (layer F.SilkS)
+(module "M12-5_RCPT_F_SMD" (layer F.Cu) (tedit 5CDEF163)
+  (fp_text reference "REF**" (at -6.858 -7.366 270) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value "M12-5_RCPT_F_SMD" (at -9 0 270) (layer F.Fab)
