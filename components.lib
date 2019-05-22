@@ -4504,10 +4504,11 @@ F0 "J" 0 1300 50 H V C CNN
 F1 "HEADER_01X25_MALE" 0 -1300 50 H V C CNN
 F2 "footprints:HEADER_01x25" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "Sullins Connector Solutions" 0 0 60 H I C CNN "Manufacturer"
-F5 "PBC25SAAN" 0 0 60 H I C CNN "Manufacturer Part Number"
-F6 "Digi-Key" 0 0 60 H I C CNN "Vendor"
-F7 "S1011E-25-ND" 0 0 60 H I C CNN "Vendor Part Number"
+F4 "CONN HEADER VERT 25POS 2.54MM" 0 0 60 H I C CNN "Description"
+F5 "Sullins Connector Solutions" 0 0 60 H I C CNN "Manufacturer"
+F6 "PBC25SAAN" 0 0 60 H I C CNN "Manufacturer Part Number"
+F7 "Digi-Key" 0 0 60 H I C CNN "Vendor"
+F8 "S1011E-25-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  Connector*:*_1x??_*
 $ENDFPLIST
@@ -6304,7 +6305,7 @@ F4 "CONN FMALE INSERT 5POS SOLDER" 300 0 60 H I C CNN "Description"
 F5 "Phoenix Contact" 0 0 60 H I C CNN "Manufacturer"
 F6 "1411976" 0 0 60 H I C CNN "Manufacturer Part Number"
 F7 "Digi-Key" 0 0 60 H I C CNN "Vendor"
-F8 "277-10282-1-ND	" 0 0 60 H I C CNN "Vendor Part Number"
+F8 "277-10282-1-ND" 0 0 60 H I C CNN "Vendor Part Number"
 $FPLIST
  Connector*:*_1x??_*
 $ENDFPLIST
