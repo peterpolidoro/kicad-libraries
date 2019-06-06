@@ -6361,9 +6361,12 @@ F0 "U" 200 -250 60 H V C CNN
 F1 "MAX6817" 200 250 60 H V C CNN
 F2 "footprints:MAX6817" 0 -750 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
-F4 "Digi-Key" 0 -950 60 H I C CNN "Vendor"
-F5 "MAX6817EUT+TCT-ND" 0 -850 60 H I C CNN "Vendor Part Number"
-F6 "IC DEBOUNCER SWITCH DUAL SOT23-6" 0 -650 60 H I C CNN "Description"
+F4 "IC DEBOUNCER SWITCH DUAL" 0 -650 60 H I C CNN "Description"
+F5 "SOT-23-6" 0 0 60 H I C CNN "Package"
+F6 "Maxim Integrated" 0 0 60 H I C CNN "Manufacturer"
+F7 "MAX6817EUT+T" 0 0 60 H I C CNN "Manufacturer Part Number"
+F8 "Digi-Key" 0 -950 60 H I C CNN "Vendor"
+F9 "MAX6817EUT+TCT-ND" 0 -850 60 H I C CNN "Vendor Part Number"
 DRAW
 S -300 200 300 -200 0 1 0 N
 X IN1 1 -400 -50 100 R 50 50 1 1 P
