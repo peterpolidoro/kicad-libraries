@@ -17,7 +17,27 @@
 ** Linux
 
    #+BEGIN_SRC sh
-     sudo add-apt-repository ppa:js-reynaud/ppa-kicad
-     sudo apt-get update
-     sudo apt-get install kicad
+     sudo add-apt-repository --yes ppa:js-reynaud/kicad-5.1
+     sudo apt update
+     sudo apt install --install-recommends kicad
    #+END_SRC
+
+* Setup Libraries
+
+** Configure Paths
+
+   Preferences > Configure Paths
+
+   Add KILIBS to be path of this cloned repository
+
+** Manage Symbol Libraries
+
+   Preferences > Manage Symbol Libraries
+
+   Create an empty global symbol library table
+
+** Manage Footprint Libraries
+
+   Preferences > Manage Footprint Libraries
+
+   Create an empty global footprint library table
