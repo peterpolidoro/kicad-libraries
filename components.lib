@@ -512,11 +512,11 @@ F1 "10uF_0805" 0 0 30 H V C CNN
 F2 "footprints:SM0805" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
-F5 "445-14419-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
+F5 " 445-14417-1-ND " 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 10UF 35V X5R" 300 400 60 H I C CNN "Description"
 F7 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
 F8 "TDK Corporation" 0 0 60 H I C CNN "Manufacturer"
-F9 "C2012X5R1V106M085AC" 0 0 60 H I C CNN "Manufacturer Part Number"
+F9 " C2012X5R1V106K085AC" 0 0 60 H I C CNN "Manufacturer Part Number"
 $FPLIST
  SM*
  C?
