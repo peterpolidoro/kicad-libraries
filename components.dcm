@@ -10,6 +10,10 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP PHIDGET_RELAY_16X
+F ~
+$ENDCMP
+#
 $CMP PIN_CRIMP_22-24AWG_GOLD
 K connector
 F ~
