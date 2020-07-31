@@ -57,7 +57,8 @@ F2 "footprints:SM0402" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H I C CNN
 F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
 F5 "1276-1739-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
-F6 "CAP CER 0.1UF 25V Y5V 0402" 300 400 60 H I C CNN "Description"
+F6 "CAP CER 0.1UF 25V Y5V" 300 400 60 H I C CNN "Description"
+F7 "0402" 0 0 50 H I C CNN "Package"
 $FPLIST
  SM*
  C?
@@ -155,7 +156,8 @@ F2 "footprints:SM0805" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
 F5 "445-13372-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
-F6 "CAP CER 0.47UF 50V 10% X7R 0805" 300 400 60 H I C CNN "Description"
+F6 "CAP CER 0.47UF 50V 10% X7R" 300 400 60 H I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  SM*
  C?
@@ -225,7 +227,8 @@ F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "RL05S1.0FCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 1 OHM 1% 1/6W 0402" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 1 OHM 1% 1/6W" 380 300 60 V I C CNN "Description"
+F7 "0402" 0 0 50 H V C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -249,7 +252,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "311-1.58MCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 1.58M OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 1.58M OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -297,7 +301,8 @@ F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "P10KJCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 10K OHM 5% 1/10W 0402" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 10K OHM 5% 1/10W" 380 300 60 V I C CNN "Description"
+F7 "0402" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -321,7 +326,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "P10.0KCCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 10K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 10K OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -421,7 +427,10 @@ F2 "footprints:SM0402" 38 -150 30 H I C CNN
 F3 "" 0 100 60 H I C CNN
 F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
 F5 "399-7758-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
-F6 "CAP CER 10000PF 50V 5% X7R 0402" 300 400 60 H I C CNN "Description"
+F6 "CAP CER 10000PF 50V 5% X7R" 300 400 60 H I C CNN "Description"
+F7 "KEMET" 0 0 50 H I C CNN "Manufacturer"
+F8 "C0402C103J5RACTU" 0 0 50 H I C CNN "Manufacturer Part Number"
+F9 "0402" 0 0 50 H I C CNN "Package"
 $FPLIST
  SM*
  C?
@@ -444,7 +453,8 @@ F2 "footprints:SM0805" 38 -150 30 H I C CNN
 F3 "" 0 100 60 H I C CNN
 F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
 F5 "490-1642-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
-F6 "CAP CER 10000PF 50V 5% NP0 0805" 300 400 60 H I C CNN "Description"
+F6 "CAP CER 10000PF 50V 5% NP0" 300 400 60 H I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  SM*
  C?
@@ -490,7 +500,8 @@ F2 "footprints:SM0402" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
 F5 "490-13233-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
-F6 "CAP CER 10UF 6.3V X6S 0402" 300 400 60 H I C CNN "Description"
+F6 "CAP CER 10UF 6.3V X6S" 300 400 60 H I C CNN "Description"
+F7 "0402" 0 0 50 H I C CNN "Package"
 $FPLIST
  SM*
  C?
@@ -613,7 +624,10 @@ F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "P110KLCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 110K OHM 1% 1/10W 0402" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 110K OHM 1% 1/10W" 380 300 60 V I C CNN "Description"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Manufacturer"
+F8 "ERJ-2RKF1103X" 0 0 50 H I C CNN "Manufacturer Part Number"
+F9 "0402" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -637,7 +651,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "311-110KCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 110K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 110K OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -661,7 +676,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "311-120CRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 120 OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 120 OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -685,7 +701,8 @@ F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "P137KLCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 137K OHM 1% 1/10W 0402" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 137K OHM 1% 1/10W" 380 300 60 V I C CNN "Description"
+F7 "0402" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -709,7 +726,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "P137KCCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 137K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 137K OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -796,6 +814,59 @@ X ~ 2 0 -250 100 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 150k_0402
+#
+DEF 150k_0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 40 V V C CNN
+F1 "150k_0402" 0 0 30 V V C CNN
+F2 "footprints:SM0402" -70 0 30 V I C CNN
+F3 "" 80 0 30 V V C CNN
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P150KLCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
+F6 "RES SMD 150K OHM 1% 1/10W" 380 300 60 V I C CNN "Description"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Manufacturer"
+F8 "ERJ-2RKF1503X" 0 0 50 H I C CNN "Manufacturer Part Number"
+F9 "0402" 0 0 50 H I C CNN "Package"
+$FPLIST
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 12 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15nF_0402
+#
+DEF 15nF_0402 C 0 10 N Y 1 F N
+F0 "C" 0 100 40 H V L CNN
+F1 "15nF_0402" 0 0 30 H V C CNN
+F2 "footprints:SM0402" 38 -150 30 H I C CNN
+F3 "" 0 100 60 H I C CNN
+F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
+F5 "490-16428-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
+F6 "CAP CER 0.015UF 50V X7R" 300 400 60 H I C CNN "Description"
+F7 "Murata Electronics" 0 0 50 H I C CNN "Manufacturer"
+F8 "GCM155R71H153JA55D" 0 0 50 H I C CNN "Manufacturer Part Number"
+F9 "0402" 0 0 50 H I C CNN "Package"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 160_0805
 #
 DEF 160_0805 R 0 0 N Y 1 F N
@@ -805,7 +876,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "311-160CRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 160 OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 160 OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -877,7 +949,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "P1.00KCCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 1K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 1K OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -925,7 +998,10 @@ F2 "footprints:SM0805_POL_L" -90 -30 60 H I C CNN
 F3 "" 10 70 60 H I C CNN
 F4 "Digi-Key" 110 170 60 H I C CNN "Vendor"
 F5 "718-1720-1-ND" 210 270 60 H I C CNN "Vendor Part Number"
-F6 "CAP TANT 1UF 50V 20% 0805" 310 370 60 H I C CNN "Description"
+F6 "CAP TANT 1UF 50V 20%" 310 370 60 H I C CNN "Description"
+F7 "Vishay Sprague" 0 0 50 H I C CNN "Manufacturer"
+F8 "298D105X0050P2T" 0 0 50 H I C CNN "Manufacturer Part Number"
+F9 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  CP*
  Elko*
@@ -1000,7 +1076,8 @@ F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "RL05S2.2FCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 2.2 OHM 1% 1/6W 0402" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 2.2 OHM 1% 1/6W" 380 300 60 V I C CNN "Description"
+F7 "0402" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -1051,7 +1128,8 @@ F2 "footprints:SM0402" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
 F5 "445-9028-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
-F6 "CAP CER 2.2UF 35V X5R 0402" 300 400 60 H I C CNN "Description"
+F6 "CAP CER 2.2UF 35V X5R" 300 400 60 H I C CNN "Description"
+F7 "0402" 0 0 50 H I C CNN "Package"
 $FPLIST
  SM*
  C?
@@ -1074,7 +1152,8 @@ F2 "footprints:SM0805" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
 F5 "1276-2409-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
-F6 "CAP CER 2.2UF 50V X5R 0805" 300 400 60 H I C CNN "Description"
+F6 "CAP CER 2.2UF 50V X5R" 300 400 60 H I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  SM*
  C?
@@ -1144,7 +1223,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "311-200KCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 200K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 200K OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -1192,7 +1272,10 @@ F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "P205KLCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 205K OHM 1% 1/10W 0402" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 205K OHM 1% 1/10W" 380 300 60 V I C CNN "Description"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Manufacturer"
+F8 "ERJ-2RKF2053X" 0 0 50 H I C CNN "Manufacturer Part Number"
+F9 "0402" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -1216,7 +1299,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "P205KCCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 205K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 205K OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -1444,7 +1528,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "311-3.16MCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 3.16M OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 3.16M OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -1489,10 +1574,11 @@ DEF 3.3_0402_CS R 0 0 N Y 1 F N
 F0 "R" 80 0 40 V V C CNN
 F1 "3.3_0402_CS" 7 1 40 V V C CNN
 F2 "footprints:SM0402" -70 0 30 V I C CNN
-F3 "" 0 0 30 H V C CNN
+F3 "" 0 0 30 H I C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "RL05S3.3FCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 3.3 OHM 1% 1/6W 0402" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 3.3 OHM 1% 1/6W" 380 300 60 V I C CNN "Description"
+F7 "0402" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -1586,7 +1672,8 @@ F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "P300LCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 300 OHM 1% 1/10W 0402" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 300 OHM 1% 1/10W" 380 300 60 V I C CNN "Description"
+F7 "0402" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -1682,7 +1769,8 @@ F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "RL05S4.7FCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 4.7 OHM 1% 1/6W 0402" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 4.7 OHM 1% 1/6W" 380 300 60 V I C CNN "Description"
+F7 "0402" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -1706,7 +1794,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "311-4.70KCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 4.7K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 4.7K OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -1777,7 +1866,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "311-4.99MCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 4.99M OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 4.99M OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -1801,7 +1891,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "311-402KCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 402K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 402K OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -1825,7 +1916,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "541-430CCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 430 OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 430 OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -1849,7 +1941,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "P44.2KCCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 44.2K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 44.2K OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -1873,7 +1966,8 @@ F2 "footprints:SM0805" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
 F5 "478-1350-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
-F6 "CAP CER 470PF 100V X7R 0805" 300 400 60 H I C CNN "Description"
+F6 "CAP CER 470PF 100V X7R" 300 400 60 H I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  SM*
  C?
@@ -1948,7 +2042,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "P49.9KCCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 49.9K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 49.9K OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -1963,14 +2058,14 @@ X ~ 2 0 -250 100 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 499
+# 499_0805
 #
-DEF 499 R 0 0 N Y 1 F N
+DEF 499_0805 R 0 0 N Y 1 F N
 F0 "R" 80 0 40 V V C CNN
-F1 "499" 7 1 40 V V C CNN
+F1 "499_0805" 7 1 40 V V C CNN
 F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
-F4 "RES SMD 499 OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F4 "RES SMD 499 OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
 F5 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
 F6 "Digi-Key" 0 0 60 H I C CNN "Vendor"
 F7 "311-499CRCT-ND" 0 0 60 H I C CNN "Vendor Part Number"
@@ -1983,7 +2078,7 @@ $FPLIST
 $ENDFPLIST
 DRAW
 S -40 150 40 -150 0 1 12 N
-X ~ 1 0 -750 100 U 60 60 1 1 P
+X ~ 1 0 250 100 D 60 60 1 1 P
 X ~ 2 0 -250 100 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
@@ -2021,7 +2116,8 @@ F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "408-1454-1-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 5.1 OHM 1% 1/6W 0402" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 5.1 OHM 1% 1/6W" 380 300 60 V I C CNN "Description"
+F7 "0402" 0 0 50 H V C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -2045,7 +2141,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 0 0 30 H V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "RL12S5.1FCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 5.1 OHM 1% 1/3W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 5.1 OHM 1% 1/3W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -2195,7 +2292,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "311-604CRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 604 OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 604 OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -2219,7 +2317,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "P732CCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 732 OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 732 OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -2270,7 +2369,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "311-787KCRCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 787K OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 787K OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -2317,7 +2417,8 @@ F2 "footprints:SM0805" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "P845CCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 845 OHM 1% 1/8W 0805" 380 300 60 V I C CNN "Description"
+F6 "RES SMD 845 OHM 1% 1/8W" 380 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -3667,16 +3768,49 @@ X 9 9 -300 -100 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# DIODE_LOW_REV_CURRENT
+# DIODE_LOW_REV_CURRENT_0402
 #
-DEF DIODE_LOW_REV_CURRENT D 0 10 N N 1 F N
+DEF DIODE_LOW_REV_CURRENT_0402 D 0 10 N N 1 F N
 F0 "D" -50 80 50 H V L CNN
-F1 "DIODE_LOW_REV_CURRENT" -280 -80 50 H I L CNN
+F1 "DIODE_LOW_REV_CURRENT_0402" -280 -80 50 H I L CNN
+F2 "footprints:SM0402_POL" -150 -20 60 H I C CNN
+F3 "" -50 80 60 H I C CNN
+F4 "Digi-Key" 50 180 60 H I C CNN "Vendor"
+F5 "BAS116LPH4-7BDICT-ND" 150 280 60 H I C CNN "Vendor Part Number"
+F6 "DIODE GEN PURP 85V 215MA 2DFN" 250 380 60 H I C CNN "Description"
+F7 "0402" 0 0 50 H I C CNN "Package"
+F8 "Diodes Incorporated" 0 0 50 H I C CNN "Manufacturer"
+F9 "BAS116LPH4-7B" 0 0 50 H I C CNN "Manufacturer Part Number"
+$FPLIST
+ Diode_*
+ D-Pak_TO252AA
+ *SingleDiode
+ *SingleDiode*
+ *_Diode_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 3 0 1 0 -30 -40 -20 -40 -20 -30 N
+P 3 0 1 0 -30 40 -40 40 -40 30 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 F
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# DIODE_LOW_REV_CURRENT_SOD_123
+#
+DEF DIODE_LOW_REV_CURRENT_SOD_123 D 0 10 N N 1 F N
+F0 "D" -50 80 50 H V L CNN
+F1 "DIODE_LOW_REV_CURRENT_SOD_123" -280 -80 50 H I L CNN
 F2 "footprints:SOD-123" -150 -20 60 H I C CNN
 F3 "" -50 80 60 H I C CNN
 F4 "Digi-Key" 50 180 60 H I C CNN "Vendor"
-F5 "CMHD3595 CT-ND" 150 280 60 H I C CNN "Vendor Part Number"
-F6 "DIODE GEN PURP 150V 150MA SOD123" 250 380 60 H I C CNN "Description"
+F5 "1514-CMHD3595TRPBFREECT-ND" 150 280 60 H I C CNN "Vendor Part Number"
+F6 "DIODE GEN PURP 150V 150MA" 250 380 60 H I C CNN "Description"
+F7 "SOD123" 0 0 50 H I C CNN "Package"
+F8 "Central Semiconductor Corp" 0 0 50 H I C CNN "Manufacturer"
+F9 "CMHD3595 TR PBFREE" 0 0 50 H I C CNN "Manufacturer Part Number"
 $FPLIST
  Diode_*
  D-Pak_TO252AA
@@ -3730,7 +3864,10 @@ F2 "footprints:SM0805_POL" -150 -20 60 H I C CNN
 F3 "" -50 80 60 H I C CNN
 F4 "Digi-Key" 50 180 60 H I C CNN "Vendor"
 F5 "478-7800-1-ND" 150 280 60 H I C CNN "Vendor Part Number"
-F6 "DIODE SCHOTTKY 20V 1A 0805" 250 380 60 H I C CNN "Description"
+F6 "DIODE SCHOTTKY 20V 1A" 250 380 60 H I C CNN "Description"
+F7 "AVX Corporation" 0 0 50 H I C CNN "Manufacturer"
+F8 "SD0805S020S1R0" 0 0 50 H I C CNN "Manufacturer Part Number"
+F9 "0805" 0 0 50 H I C CNN "Package"
 $FPLIST
  Diode_*
  D-Pak_TO252AA
@@ -3811,7 +3948,8 @@ F2 "footprints:SM0805_POL" -150 -20 60 H I C CNN
 F3 "" -50 80 60 H I C CNN
 F4 "Digi-Key" 50 180 60 H I C CNN "Vendor"
 F5 "478-7802-1-ND" 150 280 60 H I C CNN "Vendor Part Number"
-F6 "DIODE SCHOTTKY 40V 500MA 0805" 250 380 60 H I C CNN "Description"
+F6 "DIODE SCHOTTKY 40V 500MA" 250 380 60 H I C CNN "Description"
+F7 "0805" 0 0 50 H V C CNN "Package"
 $FPLIST
  Diode_*
  D-Pak_TO252AA
@@ -3893,7 +4031,10 @@ F2 "footprints:SOIC_8" 250 -300 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 F4 "Digi-Key" 450 -100 60 H I C CNN "Vendor"
 F5 "296-11622-ND" 550 0 60 H I C CNN "Vendor Part Number"
-F6 "IC LO-SIDE DRIVER PWM 8SOIC" 650 100 60 H I C CNN "Description"
+F6 "IC LO-SIDE DRIVER PWM" 650 100 60 H I C CNN "Description"
+F7 "Texas Instruments" 0 0 50 H I C CNN "Manufacturer"
+F8 "DRV103U" 0 0 50 H I C CNN "Manufacturer Part Number"
+F9 "8SOIC" 0 0 50 H I C CNN "Package"
 DRAW
 S -250 250 250 -250 0 1 0 N
 X DUTY 1 -150 -350 100 U 50 50 1 1 P
@@ -5708,8 +5849,8 @@ ENDDEF
 #
 # LED_24V_RED_SMD
 #
-DEF LED_24V_RED_SMD D 0 40 Y N 1 F N
-F0 "D" 0 100 50 H V C CNN
+DEF LED_24V_RED_SMD L 0 40 Y N 1 F N
+F0 "L" 0 100 50 H V C CNN
 F1 "LED_24V_RED_SMD" 0 -100 50 H V C CNN
 F2 "footprints:LED_555-3XXX_SMD" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
@@ -5737,8 +5878,8 @@ ENDDEF
 #
 # LED_24V_SMD
 #
-DEF LED_24V_SMD D 0 40 Y N 1 F N
-F0 "D" 0 100 50 H V C CNN
+DEF LED_24V_SMD L 0 40 Y N 1 F N
+F0 "L" 0 100 50 H V C CNN
 F1 "LED_24V_SMD" 0 -100 50 H V C CNN
 F2 "footprints:LED_555-3XXX_SMD" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
@@ -6000,8 +6141,8 @@ ENDDEF
 #
 # LED_850NM_RADIAL
 #
-DEF LED_850NM_RADIAL D 0 40 Y N 1 F N
-F0 "D" 0 100 50 H V C CNN
+DEF LED_850NM_RADIAL L 0 40 Y N 1 F N
+F0 "L" 0 100 50 H V C CNN
 F1 "LED_850NM_RADIAL" 0 -100 40 H V C CNN
 F2 "" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
@@ -6163,8 +6304,8 @@ ENDDEF
 #
 # LED_GRN_0805
 #
-DEF LED_GRN_0805 D 0 40 Y N 1 F N
-F0 "D" 0 100 50 H V C CNN
+DEF LED_GRN_0805 L 0 40 Y N 1 F N
+F0 "L" 0 100 50 H V C CNN
 F1 "LED_GRN_0805" 0 -100 40 H V C CNN
 F2 "footprints:LED0805" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
@@ -6195,8 +6336,8 @@ ENDDEF
 #
 # LED_ORG_0805
 #
-DEF LED_ORG_0805 D 0 40 Y N 1 F N
-F0 "D" 0 100 50 H V C CNN
+DEF LED_ORG_0805 L 0 40 Y N 1 F N
+F0 "L" 0 100 50 H V C CNN
 F1 "LED_ORG_0805" 0 -100 40 H V C CNN
 F2 "footprints:LED0805" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
@@ -6227,8 +6368,8 @@ ENDDEF
 #
 # LED_RED_0805
 #
-DEF LED_RED_0805 D 0 40 Y N 1 F N
-F0 "D" 0 100 50 H V C CNN
+DEF LED_RED_0805 L 0 40 Y N 1 F N
+F0 "L" 0 100 50 H V C CNN
 F1 "LED_RED_0805" 0 -100 40 H V C CNN
 F2 "footprints:LED0805" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
@@ -6259,8 +6400,8 @@ ENDDEF
 #
 # LED_YEL_0805
 #
-DEF LED_YEL_0805 D 0 40 Y N 1 F N
-F0 "D" 0 100 50 H V C CNN
+DEF LED_YEL_0805 L 0 40 Y N 1 F N
+F0 "L" 0 100 50 H V C CNN
 F1 "LED_YEL_0805" 0 -100 40 H V C CNN
 F2 "footprints:LED0805" -100 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
@@ -8926,7 +9067,8 @@ F2 "footprints:SM0805" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Digi-Key" 225 100 60 V I C CNN "Vendor"
 F5 "495-7454-1-ND" 325 200 60 V I C CNN "Vendor Part Number"
-F6 "VARISTOR 47V 80A 0805" 425 300 60 V I C CNN "Description"
+F6 "VARISTOR 47V 80A" 425 300 60 V I C CNN "Description"
+F7 "0805" 0 0 50 H V C CNN "Package"
 $FPLIST
  RV_*
  Varistor*
