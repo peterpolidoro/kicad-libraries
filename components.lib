@@ -989,6 +989,37 @@ X ~ 2 0 -250 100 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 1uF_0402_POL
+#
+DEF 1uF_0402_POL C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "1uF_0402_POL" 0 0 30 H V C CNN
+F2 "footprints:SM0402_POL" -90 -30 60 H I C CNN
+F3 "" 10 70 60 H I C CNN
+F4 "Digi-Key" 110 170 60 H I C CNN "Vendor"
+F5 "718-1618-1-ND" 210 270 60 H I C CNN "Vendor Part Number"
+F6 "CAP TANT 1UF 20% 16V" 310 370 60 H I C CNN "Description"
+F7 "Vishay Sprague" 0 0 50 H I C CNN "Manufacturer"
+F8 "298D105X0016K2T" 0 0 50 H I C CNN "Manufacturer Part Number"
+F9 "0402" 0 0 50 H I C CNN "Package"
+$FPLIST
+ CP*
+ Elko*
+ TantalC*
+ C*elec
+ c_elec*
+ SMD*_Pol
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 40 40 1 1 P
+X ~ 2 0 -100 73 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 1uF_0805_POL
 #
 DEF 1uF_0805_POL C 0 10 N N 1 F N
@@ -1746,6 +1777,33 @@ F3 "" 0 0 30 H V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "P39.2AACT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 39.2 OHM 1% 1/2W 1210" 380 300 60 V I C CNN "Description"
+$FPLIST
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 12 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 390_0402
+#
+DEF 390_0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 40 V V C CNN
+F1 "390_0402" 0 0 30 V V C CNN
+F2 "footprints:SM0402" -70 0 30 V I C CNN
+F3 "" 80 0 30 V V C CNN
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P124568CT-ND" 280 200 60 V I C CNN "Vendor Part Number"
+F6 "RES SMD 390 OHM 5% 1/5W" 380 300 60 V I C CNN "Description"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Manufacturer"
+F8 "ERJ-PA2J391X" 0 0 50 H I C CNN "Manufacturer Part Number"
+F9 "0402" 0 0 50 H I C CNN "Package"
 $FPLIST
  R?
  SM0603
@@ -3868,6 +3926,36 @@ F6 "DIODE SCHOTTKY 20V 1A" 250 380 60 H I C CNN "Description"
 F7 "AVX Corporation" 0 0 50 H I C CNN "Manufacturer"
 F8 "SD0805S020S1R0" 0 0 50 H I C CNN "Manufacturer Part Number"
 F9 "0805" 0 0 50 H I C CNN "Package"
+$FPLIST
+ Diode_*
+ D-Pak_TO252AA
+ *SingleDiode
+ *SingleDiode*
+ *_Diode_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 3 0 1 0 -30 -40 -20 -40 -20 -30 N
+P 3 0 1 0 -30 40 -40 40 -40 30 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 F
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# DIODE_SCHOTTKY_30V_200mA_0402
+#
+DEF DIODE_SCHOTTKY_30V_200mA_0402 D 0 10 N N 1 F N
+F0 "D" -50 80 50 H V L CNN
+F1 "DIODE_SCHOTTKY_30V_200mA_0402" -280 -80 50 H I L CNN
+F2 "footprints:SM0402_POL" -150 -20 60 H I C CNN
+F3 "" -50 80 60 H I C CNN
+F4 "Digi-Key" 50 180 60 H I C CNN "Vendor"
+F5 "641-1275-1-ND" 150 280 60 H I C CNN "Vendor Part Number"
+F6 "DIODE SCHOTTKY 30V 200MA" 250 380 60 H I C CNN "Description"
+F7 "Comchip Technology" 0 0 50 H I C CNN "Manufacturer"
+F8 "CDBQR0230L" 0 0 50 H I C CNN "Manufacturer Part Number"
+F9 "0402" 0 0 50 H I C CNN "Package"
 $FPLIST
  Diode_*
  D-Pak_TO252AA
