@@ -7499,6 +7499,8 @@ F3 "" 0 0 60 H V C CNN
 F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
 F5 "CP-063AH-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN PWR JACK DC 2.1X5.5 8A T/H" 300 450 60 H I C CNN "Description"
+F7 "CUI Devices" 0 0 50 H I C CNN "Manufacturer"
+F8 "PJ-063AH" 0 0 50 H I C CNN "Manufacturer Part Number"
 $FPLIST
  Pin_Header_Straight_1X02
  Pin_Header_Angled_1X02
@@ -7549,6 +7551,8 @@ F3 "" 0 0 60 H V C CNN
 F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
 F5 "CP-063BH-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN PWR JACK DC 2.5X5.5 8A T/H" 300 450 60 H I C CNN "Description"
+F7 "CUI Devices" 0 0 50 H I C CNN "Manufacturer"
+F8 "PJ-063BH" 0 0 50 H I C CNN "Manufacturer Part Number"
 $FPLIST
  Pin_Header_Straight_1X02
  Pin_Header_Angled_1X02
