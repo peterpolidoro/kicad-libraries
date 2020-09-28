@@ -527,7 +527,7 @@ F5 " 445-14417-1-ND " 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 10UF 35V X5R" 300 400 60 H I C CNN "Description"
 F7 "0805 (2012 Metric)" 0 0 60 H I C CNN "Package"
 F8 "TDK Corporation" 0 0 60 H I C CNN "Manufacturer"
-F9 " C2012X5R1V106K085AC" 0 0 60 H I C CNN "Manufacturer Part Number"
+F9 "C2012X5R1V106K085AC" 0 0 60 H I C CNN "Manufacturer Part Number"
 $FPLIST
  SM*
  C?
@@ -8436,6 +8436,8 @@ F4 "Digi-Key" 0 1150 60 H I C CNN "Vendor"
 F5 "ED90331-ND" 0 1250 60 H I C CNN "Vendor Part Number"
 F6 "CONN PIN RCPT .025-.037 SOLDER" 0 1350 60 H I C CNN "Description"
 F7 "28" 0 0 50 H I C CNN "Quantity"
+F8 "Mill-Max Manufacturing Corp." 0 0 50 H I C CNN "Manufacturer"
+F9 "0305-0-15-15-47-27-10-0" 0 0 50 H I C CNN "Manufacturer Part Number"
 DRAW
 S -1050 700 1050 -700 0 1 0 N
 X D0/RX1/CRX2/PWM 0 -1250 550 200 R 50 50 1 1 B
