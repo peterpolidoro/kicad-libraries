@@ -6792,7 +6792,9 @@ F3 "" 50 2750 60 H V C CNN
 F4 "Digi-Key" 0 1150 60 H I C CNN "Vendor"
 F5 "S1011E-16-ND" 0 1250 60 H I C CNN "Vendor Part Number"
 F6 "16 Position Header Through Hole Male Pins" 0 1350 60 H I C CNN "Description"
-F7 "2" 1300 1250 60 H I C CNN "PartCount"
+F7 "2" 1300 1250 60 H I C CNN "Quantity"
+F8 "Sullins Connector Solutions" 0 0 60 H I C CNN "Manufacturer"
+F9 "PBC16SAAN" 0 0 60 H I C CNN "Manufacturer Part Number"
 DRAW
 S -1050 800 1050 -800 0 1 0 N
 X D10/TX2/CS/PWM/ICP 10 -1250 -450 200 R 50 50 1 1 B
@@ -6840,7 +6842,9 @@ F3 "" 50 2750 60 H V C CNN
 F4 "Digi-Key" 0 1150 60 H I C CNN "Vendor"
 F5 "S7049-ND" 0 1250 60 H I C CNN "Vendor Part Number"
 F6 "16 Position Header Through Hole Female Socket" 0 1350 60 H I C CNN "Description"
-F7 "2" 1300 1250 60 H I C CNN "PartCount"
+F7 "2" 1300 1250 60 H I C CNN "Quantity"
+F8 "Sullins Connector Solutions" 0 0 60 H I C CNN "Manufacturer"
+F9 "PPPC161LFBN-RC" 0 0 60 H I C CNN "Manufacturer Part Number"
 DRAW
 S -1050 800 1050 -800 0 1 0 N
 X D10/TX2/CS/PWM/ICP 10 -1250 -450 200 R 50 50 1 1 B
@@ -6888,7 +6892,9 @@ F3 "" 50 2750 60 H V C CNN
 F4 "Digi-Key" 0 1150 60 H I C CNN "Vendor"
 F5 "S7058-ND" 0 1250 60 H I C CNN "Vendor Part Number"
 F6 "25 Position Header Through Hole Female Socket" 0 1350 60 H I C CNN "Description"
-F7 "2" 1300 1250 60 H I C CNN "PartCount"
+F7 "2" 1300 1250 60 H I C CNN "Quantity"
+F8 "Sullins Connector Solutions" 0 0 60 H I C CNN "Manufacturer"
+F9 "PPPC251LFBN-RC" 0 0 60 H I C CNN "Manufacturer Part Number"
 DRAW
 S -1250 800 1250 -1700 0 1 0 N
 X D11/MOSI0 11 -1450 -550 200 R 50 50 1 1 B
@@ -6954,7 +6960,9 @@ F3 "" 50 2750 60 H V C CNN
 F4 "Digi-Key" 0 1150 60 H I C CNN "Vendor"
 F5 "S1011E-25-ND" 0 1250 60 H I C CNN "Vendor Part Number"
 F6 "25 Positions Header Breakaway Connector 0.1in" 0 1350 60 H I C CNN "Description"
-F7 "2" 1300 1250 60 H I C CNN "PartCount"
+F7 "2" 1300 1250 60 H I C CNN "Quantity"
+F8 "Sullins Connector Solutions" 0 0 60 H I C CNN "Manufacturer"
+F9 "PBC25SAAN" 0 0 60 H I C CNN "Manufacturer Part Number"
 DRAW
 S -1250 800 1250 -1700 0 1 0 N
 X D11/MOSI0 11 -1450 -550 200 R 50 50 1 1 B
@@ -8174,7 +8182,7 @@ F3 "" 0 0 60 H I C CNN
 F4 "Digi-Key" 100 -850 60 H I C CNN "Vendor"
 F5 "ED90331-ND" 200 -750 60 H I C CNN "Vendor Part Number"
 F6 "CONN PIN RCPT .025-.037 SOLDER" 300 -650 60 H I C CNN "Description"
-F7 "16" 400 -550 60 H I C CNN "PartCount"
+F7 "16" 400 -550 60 H I C CNN "Quantity"
 DRAW
 S -400 400 400 -400 0 1 0 N
 X DIR 1 -600 200 200 R 50 50 1 1 I
