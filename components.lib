@@ -1565,6 +1565,32 @@ X ~ 2 0 -250 100 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 20k_0402
+#
+DEF 20k_0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 40 V V C CNN
+F1 "20k_0402" 0 0 30 V V C CNN
+F2 "footprints:SM0402" -70 0 30 V I C CNN
+F3 "" 80 0 30 V V C CNN
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P124454CT-ND" 280 200 60 V I C CNN "Vendor Part Number"
+F6 "0402" 0 0 50 H I C CNN "Package"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Manufacturer"
+F8 "ERJ-PA2F2002X" 0 0 50 H I C CNN "Manufacturer Part Number"
+$FPLIST
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 12 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 220uF_POL
 #
 DEF 220uF_POL C 0 10 N N 1 F N
@@ -2257,6 +2283,33 @@ P 2 0 1 20 -80 -30 80 -30 N
 P 2 0 1 20 -80 30 80 30 N
 X ~ 1 0 200 170 D 40 40 1 1 P
 X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47k_0402
+#
+DEF 47k_0402 R 0 0 N Y 1 F N
+F0 "R" 80 0 40 V V C CNN
+F1 "47k_0402" 0 0 30 V V C CNN
+F2 "footprints:SM0402" -70 0 30 V I C CNN
+F3 "" 80 0 30 V V C CNN
+F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
+F5 "P17234CT-ND" 280 200 60 V I C CNN "Vendor Part Number"
+F6 "RES SMD 47K OHM 1% 1/5W" 380 300 60 V I C CNN "Description"
+F7 "0402" 0 0 50 H I C CNN "Package"
+F8 "Panasonic Electronic Components" 0 0 50 H I C CNN "Manufacturer"
+F9 "ERJ-PA2F4702X" 0 0 50 H I C CNN "Manufacturer Part Number"
+$FPLIST
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 12 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
