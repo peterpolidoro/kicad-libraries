@@ -1949,9 +1949,11 @@ F1 "300_0402" 0 0 30 V V C CNN
 F2 "footprints:SM0402" -70 0 30 V I C CNN
 F3 "" 80 0 30 V V C CNN
 F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
-F5 "P300LCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
-F6 "RES SMD 300 OHM 1% 1/10W" 380 300 60 V I C CNN "Description"
+F5 "P124467CT-ND" 280 200 60 V I C CNN "Vendor Part Number"
+F6 "RES SMD 300 OHM 1% 1/5W" 380 300 60 V I C CNN "Description"
 F7 "0402" 0 0 50 H I C CNN "Package"
+F8 "Panasonic Electronic Components" 0 0 50 H I C CNN "Manufacturer"
+F9 "ERJ-PA2F3000X" 0 0 50 H I C CNN "Manufacturer Part Number"
 $FPLIST
  R?
  SM0603
@@ -3660,6 +3662,32 @@ S -500 300 -650 200 0 0 0 N
 S -500 500 500 -500 0 0 0 N
 S 500 250 650 -250 0 0 0 N
 S 650 350 800 -350 0 0 0 N
+ENDDRAW
+ENDDEF
+#
+# CLIPPARD-NPV2-1C-23-24
+#
+DEF CLIPPARD-NPV2-1C-23-24 S 0 40 Y N 1 F N
+F0 "S" 0 150 50 H V C CNN
+F1 "CLIPPARD-NPV2-1C-23-24" 0 -150 50 H V C CNN
+F2 "lickport_interface:CLIPPARD_NPV2-1C-23-24" 0 225 60 H I C CNN
+F3 "" 0 150 60 H I C CNN
+$FPLIST
+ Pin_Header_Straight_1X02
+ Pin_Header_Angled_1X02
+ Socket_Strip_Straight_1X02
+ Socket_Strip_Angled_1X02
+$ENDFPLIST
+DRAW
+S -50 -45 -25 -55 0 1 0 N
+S -50 55 -25 45 0 1 0 N
+S -50 100 50 -100 0 1 0 N
+S 50 -55 25 -45 0 1 0 N
+S 50 45 25 55 0 1 0 N
+X ~ ~ -100 -50 50 R 50 50 1 1 N
+X ~ ~ -100 50 50 R 50 50 1 1 N
+X ~ ~ 100 -50 50 L 50 50 1 1 N
+X ~ ~ 100 50 50 L 50 50 1 1 N
 ENDDRAW
 ENDDEF
 #
