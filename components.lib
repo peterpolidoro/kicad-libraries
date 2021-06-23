@@ -82,9 +82,11 @@ F1 "0.1uF_0402" 0 0 30 H V C CNN
 F2 "footprints:SM0402" 38 -150 30 H I C CNN
 F3 "" 0 0 60 H I C CNN
 F4 "Digi-Key" 100 200 60 H I C CNN "Vendor"
-F5 "1276-1739-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
+F5 "311-1375-1-ND" 200 300 60 H I C CNN "Vendor Part Number"
 F6 "CAP CER 0.1UF 25V Y5V" 300 400 60 H I C CNN "Description"
 F7 "0402" 0 0 50 H I C CNN "Package"
+F8 "Yageo" 0 0 50 H I C CNN "Manufacturer"
+F9 "CC0402ZRY5V8BB104" 0 0 50 H I C CNN "Manufacturer Part Number"
 $FPLIST
  SM*
  C?
@@ -841,6 +843,8 @@ F4 "Digi-Key" 180 100 60 V I C CNN "Vendor"
 F5 "P137KLCT-ND" 280 200 60 V I C CNN "Vendor Part Number"
 F6 "RES SMD 137K OHM 1% 1/10W" 380 300 60 V I C CNN "Description"
 F7 "0402" 0 0 50 H I C CNN "Package"
+F8 "Panasonic Electronic Components" 0 0 50 H I C CNN "Manufacturer"
+F9 "ERJ-2RKF1373X" 0 0 50 H I C CNN "Manufacturer Part Number"
 $FPLIST
  R?
  SM0603
@@ -8281,6 +8285,8 @@ F3 "" 0 0 60 H V C CNN
 F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
 F5 "CP-015BHPJ-CT-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "CONN PWR JACK 2.5X5.5MM SOLDER" 300 450 60 H I C CNN "Description"
+F7 "CUI Devices" 0 0 50 H I C CNN "Manufacturer"
+F8 "PJ-015BH-SMT-TR" 0 0 50 H I C CNN "Manufacturer Part Number"
 $FPLIST
  Pin_Header_Straight_1X02
  Pin_Header_Angled_1X02
