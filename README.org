@@ -1,6 +1,6 @@
 #+TITLE: kicad-libraries
 #+AUTHOR: Peter Polidoro
-#+EMAIL: peterpolidoro@gmail.com
+#+EMAIL: peter@polidoro.io
 
 * Repository Information
   - Author :: Peter Polidoro
