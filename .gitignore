@@ -6,6 +6,8 @@
 *.bak
 *.bck
 *.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
 *.sch-bak
 *~
 _autosave-*
@@ -14,7 +16,12 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 
-*-cache*
-*-rescue*
-.DS_Store
-\#*
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Exported BOM files
+*.xml
