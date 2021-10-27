@@ -504,11 +504,13 @@ ENDDEF
 DEF 100uF_POL C 0 10 N N 1 F N
 F0 "C" 10 70 50 H V L CNN
 F1 "100uF_POL" 0 0 30 H V C CNN
-F2 "footprints:C_ELEC_12.5" -90 -30 60 H I C CNN
+F2 "footprints:CP_Elec_6.3x7.7_WURTH" -90 -30 60 H I C CNN
 F3 "" 10 70 60 H I C CNN
 F4 "Digi-Key" 110 170 60 H I C CNN "Vendor"
-F5 "565-2511-1-ND" 210 270 60 H I C CNN "Vendor Part Number"
-F6 "100uF 100V Aluminum Capacitors Radial Can SMD" 310 370 60 H I C CNN "Description"
+F5 "732-8511-1-ND" 210 270 60 H I C CNN "Vendor Part Number"
+F6 "CAP ALUM 100UF 20% 35V" 310 370 60 H I C CNN "Description"
+F7 "Würth Elektronik" 0 0 50 H I C CNN "Manufacturer"
+F8 "865080545012" 0 0 50 H I C CNN "Manufacturer Part Number"
 $FPLIST
  CP*
  Elko*
@@ -1605,6 +1607,8 @@ F3 "" 10 70 60 H I C CNN
 F4 "Digi-Key" 110 170 60 H I C CNN "Vendor"
 F5 "PCE3812CT-ND" 210 270 60 H I C CNN "Vendor Part Number"
 F6 "CAP ALUM 220UF 20% 50V SMD" 310 370 60 H I C CNN "Description"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Manufacturer"
+F8 "EEE-FK1H221P" 0 0 50 H I C CNN "Manufacturer Part Number"
 $FPLIST
  CP*
  Elko*
@@ -4711,6 +4715,36 @@ F6 "Nexperia USA Inc." 0 0 60 H I C CNN "Manufacturer"
 F7 "PMEG45U10EPDAZ" 0 0 60 H I C CNN "Manufacturer Part Number"
 F8 "Digi-Key" 0 0 60 H I C CNN "Vendor"
 F9 "1727-7645-1-ND" 0 0 60 H I C CNN "Vendor Part Number"
+$FPLIST
+ Diode_*
+ D-Pak_TO252AA
+ *SingleDiode
+ *SingleDiode*
+ *_Diode_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 3 0 1 0 -30 -40 -20 -40 -20 -30 N
+P 3 0 1 0 -30 40 -40 40 -40 30 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 F
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# DIODE_TVS_ZENER_28V
+#
+DEF DIODE_TVS_ZENER_28V D 0 10 N N 1 F N
+F0 "D" -50 80 50 H V L CNN
+F1 "DIODE_TVS_ZENER_28V" -280 -80 50 H I L CNN
+F2 "footprints:D_SMB_LITTELFUSE" -150 -20 60 H I C CNN
+F3 "" -50 80 60 H I C CNN
+F4 "Digi-Key" 50 180 60 H I C CNN "Vendor"
+F5 "F11558CT-ND" 150 280 60 H I C CNN "Vendor Part Number"
+F6 "TVS DIODE 28VWM 45.4VC" 250 380 60 H I C CNN "Description"
+F7 "Littelfuse Inc." 0 0 50 H I C CNN "Manufacturer"
+F8 "SZ1SMB28AT3G" 0 0 50 H I C CNN "Manufacturer Part Number"
+F9 "SMB" 0 0 50 H I C CNN "Package"
 $FPLIST
  Diode_*
  D-Pak_TO252AA
@@ -8842,6 +8876,8 @@ F4 "Digi-Key" 100 -850 60 H I C CNN "Vendor"
 F5 "ED90331-ND" 200 -750 60 H I C CNN "Vendor Part Number"
 F6 "CONN PIN RCPT .025-.037 SOLDER" 300 -650 60 H I C CNN "Description"
 F7 "16" 400 -550 60 H I C CNN "Quantity"
+F8 "Mill-Max Manufacturing Corp." 0 0 50 H I C CNN "Manufacturer"
+F9 "0305-0-15-15-47-27-10-0" 0 0 50 H I C CNN "Manufacturer Part Number"
 DRAW
 S -400 400 400 -400 0 1 0 N
 X DIR 1 -600 200 200 R 50 50 1 1 I
@@ -8873,6 +8909,8 @@ F4 "Digi-Key" 100 -850 60 H I C CNN "Vendor"
 F5 "ED90331-ND" 200 -750 60 H I C CNN "Vendor Part Number"
 F6 "CONN PIN RCPT .025-.037 SOLDER" 250 -750 60 H I C CNN "Description"
 F7 "16" 400 -550 60 H I C CNN "Quantity"
+F8 "Mill-Max Manufacturing Corp." 0 0 50 H I C CNN "Manufacturer"
+F9 "0305-0-15-15-47-27-10-0" 0 0 50 H I C CNN "Manufacturer Part Number"
 DRAW
 S -400 500 400 -500 0 1 0 N
 X GND 1 -50 -700 200 U 50 50 1 1 W
@@ -9426,6 +9464,8 @@ F3 "" 0 0 60 H V C CNN
 F4 "Digi-Key" 100 250 60 H I C CNN "Vendor"
 F5 "A98333-ND" 200 350 60 H I C CNN "Vendor Part Number"
 F6 "TERM BLOCK 2POS SIDE ENT 2.54MM" 300 450 60 H I C CNN "Description"
+F7 "TE Connectivity AMP Connectors" 0 0 50 H I C CNN "Manufacturer"
+F8 "282834-2" 0 0 50 H I C CNN "Manufacturer Part Number"
 $FPLIST
  Pin_Header_Straight_1X02
  Pin_Header_Angled_1X02
