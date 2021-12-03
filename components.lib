@@ -2767,6 +2767,33 @@ X ~ 2 0 -250 100 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 600@100MHz_0402
+#
+DEF 600@100MHz_0402 I 0 10 N N 1 F N
+F0 "I" 30 40 50 H V L CNN
+F1 "600@100MHz_0402" 30 -40 50 H V L CNN
+F2 "footprints:SM0402" -70 -60 50 H I C CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Digi-Key" 130 140 60 H I C CNN "Vendor"
+F5 "490-9657-1-ND" 230 240 60 H I C CNN "Vendor Part Number"
+F6 "FERRITE BEAD 600 OHM" 330 340 60 H I C CNN "Description"
+F7 "Murata Electronics" 0 0 50 H I C CNN "Manufacturer"
+F8 "BLM15PX601SN1D" 0 0 50 H I C CNN "Manufacturer Part Number"
+F9 "0402" 0 0 50 H I C CNN "Package"
+$FPLIST
+ Choke_*
+ *Coil*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 600@100MHz_1210
 #
 DEF 600@100MHz_1210 I 0 10 N N 1 F N
@@ -2776,9 +2803,10 @@ F2 "footprints:SM1210" -70 -60 50 H I C CNN
 F3 "" 0 0 50 H V C CNN
 F4 "Digi-Key" 130 140 60 H I C CNN "Vendor"
 F5 "587-1755-1-ND" 230 240 60 H I C CNN "Vendor Part Number"
-F6 "FERRITE BEAD 600 OHM 1210 1LN" 330 340 60 H I C CNN "Description"
+F6 "FERRITE BEAD 600 OHM" 330 340 60 H I C CNN "Description"
 F7 "Taiyo Yuden" 0 0 50 H I C CNN "Manufacturer"
 F8 "FBMH3225HM601NT" 0 0 50 H I C CNN "Manufacturer Part Number"
+F9 "1210" 0 0 50 H I C CNN "Package"
 $FPLIST
  Choke_*
  *Coil*
