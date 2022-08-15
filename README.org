@@ -3,41 +3,61 @@
 #+EMAIL: peter@polidoro.io
 
 * Repository Information
-  - Author :: Peter Polidoro
-  - License :: Open-Source Hardware
+- Author :: Peter Polidoro
+- License :: Open-Source Hardware
 
 * Install Kicad
 
 ** Windows or MacOS
 
-   Download and install.
+Download and install.
 
-   [[http://www.kicad-pcb.org/display/KICAD/Download]]
+[[https://www.kicad.org/download/]]
 
 ** Linux
 
-   #+BEGIN_SRC sh
-     sudo add-apt-repository --yes ppa:kicad/kicad-5.1-releases
-     sudo apt update
-     sudo apt install --install-recommends kicad
-   #+END_SRC
+*** Ubuntu
+
+#+BEGIN_SRC sh
+
+sudo add-apt-repository --yes ppa:kicad/kicad-6.0-releases
+sudo apt update
+sudo apt install --install-recommends kicad
+
+#+END_SRC
+
+*** Guix
+
+#+BEGIN_SRC sh
+
+guix install kicad kicad-doc kicad-symbols kicad-footprints kicad-packages3d kicad-templates
+
+#+END_SRC
 
 * Setup Libraries
 
 ** Configure Paths
 
-   Preferences > Configure Paths
+Preferences > Configure Paths
 
-   Add KILIBS to be path of this cloned repository
+Add KICAD6_USER_DIR to be path of this cloned repository
 
 ** Manage Symbol Libraries
 
-   Preferences > Manage Symbol Libraries
+Preferences > Manage Symbol Libraries
 
-   Create an empty global symbol library table
+Add library:
+
+| Nickname | Library Path                         | Library Format |
+|----------+--------------------------------------+----------------|
+| Janelia  | ${KICAD6_USER_DIR}/janelia.kicad_sym | KiCad          |
 
 ** Manage Footprint Libraries
 
-   Preferences > Manage Footprint Libraries
+Preferences > Manage Footprint Libraries
 
-   Create an empty global footprint library table
+Add library:
+
+| Nickname | Library Path                      | Library Format |
+|----------+-----------------------------------+----------------|
+| Janelia  | ${KICAD6_USER_DIR}/janelia.pretty | KiCad          |
