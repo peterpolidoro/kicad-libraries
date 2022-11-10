@@ -19177,6 +19177,12 @@
     (property "ki_fp_filters" "Connector*:*_1x??_*" (id 11) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (symbol "JST_SH_BM02_VERTICAL_0_1"
+      (rectangle (start -1.27 1.27) (end 1.27 -3.81)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+    )
     (symbol "JST_SH_BM02_VERTICAL_1_1"
       (polyline
         (pts
