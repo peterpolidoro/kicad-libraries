@@ -1,4 +1,4 @@
-(footprint "JSTPH2" (version 20211014) (generator pcbnew)
+(footprint "JST_PH_1x02_SMD" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (descr "2-Pin JST PH Series Right-Angle Connector (+/- for batteries)")
