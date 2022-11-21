@@ -3,7 +3,7 @@
   (tedit 5C18CB26)
   (descr "Circular Fiducial, 0.5mm bare copper, 1mm soldermask opening (Level C)")
   (tags "fiducial")
-  (attr smd)
+  (attr smd exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -1.25) (layer "F.Fab")
     (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 990a4310-062f-4840-a291-8283690d1e3c)

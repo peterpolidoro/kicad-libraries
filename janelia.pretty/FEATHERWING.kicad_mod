@@ -1,6 +1,7 @@
 (footprint "FEATHERWING" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
+  (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 0) (layer "F.Fab")
     (effects (font (size 1.27 1.27) (thickness 0.3175)))
     (tstamp b12c961f-e7d6-4b7e-91c2-7e885db1d947)
